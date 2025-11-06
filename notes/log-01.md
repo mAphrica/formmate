@@ -6,3 +6,4 @@
 - 2025-11-05 reviewed the edge case (pass 5)
 - 2025-11-05 aligned the naming (pass 6)
 - 2025-11-06 reviewed the edge case (pass 7)
+- 2025-11-06 refined the schedule (pass 8)
