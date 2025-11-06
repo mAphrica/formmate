@@ -7,3 +7,4 @@
 - 2025-11-06 documented the fallback (pass 6)
 - 2025-11-06 tightened the guard (pass 7)
 - 2025-11-06 tightened the guard (pass 8)
+- 2025-11-06 checked the migration (pass 9)
