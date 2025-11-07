@@ -7,3 +7,4 @@
 - 2025-11-06 reviewed the edge case (pass 6)
 - 2025-11-06 trimmed the payload (pass 7)
 - 2025-11-07 checked the migration (pass 8)
+- 2025-11-07 noted the failure mode (pass 9)
