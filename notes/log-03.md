@@ -5,3 +5,4 @@
 - 2025-11-05 trimmed the payload (pass 4)
 - 2025-11-07 trimmed the payload (pass 5)
 - 2025-11-07 checked the migration (pass 6)
+- 2025-11-07 reviewed the edge case (pass 7)
