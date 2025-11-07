@@ -4,3 +4,4 @@
 - 2025-11-05 trimmed the payload (pass 3)
 - 2025-11-05 tightened the guard (pass 4)
 - 2025-11-05 refined the schedule (pass 5)
+- 2025-11-07 documented the fallback (pass 6)
