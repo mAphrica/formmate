@@ -8,3 +8,4 @@
 - 2025-11-07 restated the contract (pass 7)
 - 2025-11-07 measured the slow path (pass 8)
 - 2025-11-07 refined the schedule (pass 9)
+- 2025-11-07 aligned the naming (pass 10)
