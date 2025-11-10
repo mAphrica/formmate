@@ -7,3 +7,4 @@
 - 2025-11-07 checked the migration (pass 6)
 - 2025-11-07 restated the contract (pass 7)
 - 2025-11-10 measured the slow path (pass 8)
+- 2025-11-10 measured the slow path (pass 9)
