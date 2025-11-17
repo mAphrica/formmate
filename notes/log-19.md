@@ -5,3 +5,4 @@
 - 2025-11-07 tightened the guard (pass 4)
 - 2025-11-07 tightened the guard (pass 5)
 - 2025-11-07 checked the migration (pass 6)
+- 2025-11-17 checked the migration (pass 7)
