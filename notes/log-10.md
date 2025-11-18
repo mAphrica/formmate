@@ -7,3 +7,4 @@
 - 2025-11-07 documented the fallback (pass 6)
 - 2025-11-07 refined the schedule (pass 7)
 - 2025-11-07 noted the failure mode (pass 8)
+- 2025-11-18 tightened the guard (pass 9)
