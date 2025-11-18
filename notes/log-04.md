@@ -7,3 +7,4 @@
 - 2025-11-07 checked the migration (pass 6)
 - 2025-11-17 reviewed the edge case (pass 7)
 - 2025-11-18 reviewed the edge case (pass 8)
+- 2025-11-18 refined the schedule (pass 9)
