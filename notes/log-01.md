@@ -12,3 +12,4 @@
 - 2025-11-07 refined the schedule (pass 11)
 - 2025-11-17 restated the contract (pass 12)
 - 2025-11-17 measured the slow path (pass 13)
+- 2025-11-18 tightened the guard (pass 14)
