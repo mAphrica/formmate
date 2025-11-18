@@ -6,3 +6,4 @@
 - 2025-11-10 reviewed the edge case (pass 5)
 - 2025-11-18 restated the contract (pass 6)
 - 2025-11-18 checked the migration (pass 7)
+- 2025-11-18 checked the migration (pass 8)
