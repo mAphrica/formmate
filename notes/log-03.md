@@ -10,3 +10,4 @@
 - 2025-11-17 checked the migration (pass 9)
 - 2025-11-18 documented the fallback (pass 10)
 - 2025-11-18 aligned the naming (pass 11)
+- 2025-11-18 noted the failure mode (pass 12)
