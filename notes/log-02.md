@@ -7,3 +7,4 @@
 - 2025-11-07 tightened the guard (pass 6)
 - 2025-11-18 trimmed the payload (pass 7)
 - 2025-11-20 restated the contract (pass 8)
+- 2025-11-20 tightened the guard (pass 9)
