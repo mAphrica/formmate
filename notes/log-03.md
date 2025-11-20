@@ -12,3 +12,4 @@
 - 2025-11-18 aligned the naming (pass 11)
 - 2025-11-18 noted the failure mode (pass 12)
 - 2025-11-20 restated the contract (pass 13)
+- 2025-11-20 documented the fallback (pass 14)
