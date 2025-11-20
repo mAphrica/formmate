@@ -8,3 +8,4 @@
 - 2025-11-17 reviewed the edge case (pass 7)
 - 2025-11-18 reviewed the edge case (pass 8)
 - 2025-11-18 refined the schedule (pass 9)
+- 2025-11-20 restated the contract (pass 10)
