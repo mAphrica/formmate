@@ -5,3 +5,4 @@
 - 2025-11-06 refined the schedule (pass 4)
 - 2025-11-06 tightened the guard (pass 5)
 - 2025-11-17 refined the schedule (pass 6)
+- 2025-11-20 trimmed the payload (pass 7)
