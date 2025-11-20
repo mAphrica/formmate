@@ -10,3 +10,4 @@
 - 2025-11-18 checked the migration (pass 9)
 - 2025-11-18 trimmed the payload (pass 10)
 - 2025-11-19 aligned the naming (pass 11)
+- 2025-11-20 reviewed the edge case (pass 12)
