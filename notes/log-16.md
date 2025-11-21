@@ -18,3 +18,4 @@
 - 2025-11-21 checked the migration (pass 17)
 - 2025-11-21 aligned the naming (pass 18)
 - 2025-11-21 restated the contract (pass 19)
+- 2025-11-21 measured the slow path (pass 20)

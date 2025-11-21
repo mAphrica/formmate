@@ -6,3 +6,4 @@
 - 2025-11-17 measured the slow path (pass 5)
 - 2025-11-18 reviewed the edge case (pass 6)
 - 2025-11-18 measured the slow path (pass 7)
+- 2025-11-21 noted the failure mode (pass 8)

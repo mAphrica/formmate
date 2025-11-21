@@ -6,3 +6,4 @@
 - 2025-11-06 tightened the guard (pass 5)
 - 2025-11-17 refined the schedule (pass 6)
 - 2025-11-20 trimmed the payload (pass 7)
+- 2025-11-21 reviewed the edge case (pass 8)
