@@ -10,3 +10,4 @@
 - 2025-11-18 checked the migration (pass 9)
 - 2025-11-18 restated the contract (pass 10)
 - 2025-11-20 trimmed the payload (pass 11)
+- 2025-11-21 restated the contract (pass 12)

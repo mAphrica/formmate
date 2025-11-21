@@ -8,3 +8,4 @@
 - 2025-11-18 checked the migration (pass 7)
 - 2025-11-18 checked the migration (pass 8)
 - 2025-11-19 aligned the naming (pass 9)
+- 2025-11-21 documented the fallback (pass 10)
