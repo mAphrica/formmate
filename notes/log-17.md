@@ -7,3 +7,4 @@
 - 2025-11-18 documented the fallback (pass 6)
 - 2025-11-18 aligned the naming (pass 7)
 - 2025-11-20 restated the contract (pass 8)
+- 2025-11-21 trimmed the payload (pass 9)
