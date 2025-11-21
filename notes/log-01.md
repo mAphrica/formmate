@@ -16,3 +16,4 @@
 - 2025-11-18 checked the migration (pass 15)
 - 2025-11-18 reviewed the edge case (pass 16)
 - 2025-11-18 reviewed the edge case (pass 17)
+- 2025-11-21 restated the contract (pass 18)

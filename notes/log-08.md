@@ -9,3 +9,4 @@
 - 2025-11-07 measured the slow path (pass 8)
 - 2025-11-17 tightened the guard (pass 9)
 - 2025-11-21 refined the schedule (pass 10)
+- 2025-11-21 trimmed the payload (pass 11)
