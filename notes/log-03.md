@@ -14,3 +14,4 @@
 - 2025-11-20 restated the contract (pass 13)
 - 2025-11-20 documented the fallback (pass 14)
 - 2025-11-21 measured the slow path (pass 15)
+- 2025-11-21 reviewed the edge case (pass 16)
