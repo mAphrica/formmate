@@ -10,3 +10,4 @@
 - 2025-11-21 trimmed the payload (pass 9)
 - 2025-11-21 documented the fallback (pass 10)
 - 2025-11-21 documented the fallback (pass 11)
+- 2025-11-21 tightened the guard (pass 12)
