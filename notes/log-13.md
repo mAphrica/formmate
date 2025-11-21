@@ -12,3 +12,4 @@
 - 2025-11-19 measured the slow path (pass 11)
 - 2025-11-20 documented the fallback (pass 12)
 - 2025-11-21 trimmed the payload (pass 13)
+- 2025-11-21 refined the schedule (pass 14)
