@@ -11,3 +11,4 @@
 - 2025-11-19 documented the fallback (pass 10)
 - 2025-11-20 tightened the guard (pass 11)
 - 2025-11-20 restated the contract (pass 12)
+- 2025-11-21 tightened the guard (pass 13)
