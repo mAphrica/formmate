@@ -8,3 +8,4 @@
 - 2025-11-06 checked the migration (pass 7)
 - 2025-11-07 measured the slow path (pass 8)
 - 2025-11-17 tightened the guard (pass 9)
+- 2025-11-21 refined the schedule (pass 10)
