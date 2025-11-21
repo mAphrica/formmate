@@ -16,3 +16,4 @@
 - 2025-11-19 refined the schedule (pass 15)
 - 2025-11-20 checked the migration (pass 16)
 - 2025-11-21 checked the migration (pass 17)
+- 2025-11-21 aligned the naming (pass 18)
