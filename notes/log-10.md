@@ -13,3 +13,4 @@
 - 2025-11-21 reviewed the edge case (pass 12)
 - 2025-11-21 checked the migration (pass 13)
 - 2025-11-21 checked the migration (pass 14)
+- 2025-11-21 tightened the guard (pass 15)
