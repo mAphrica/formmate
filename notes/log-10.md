@@ -17,3 +17,4 @@
 - 2025-11-21 tightened the guard (pass 16)
 - 2025-11-24 noted the failure mode (pass 17)
 - 2025-11-24 checked the migration (pass 18)
+- 2025-11-24 aligned the naming (pass 19)
