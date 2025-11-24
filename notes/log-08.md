@@ -13,3 +13,4 @@
 - 2025-11-21 measured the slow path (pass 12)
 - 2025-11-24 aligned the naming (pass 13)
 - 2025-11-24 tightened the guard (pass 14)
+- 2025-11-24 checked the migration (pass 15)
