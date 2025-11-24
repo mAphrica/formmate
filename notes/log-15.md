@@ -15,3 +15,4 @@
 - 2025-11-20 aligned the naming (pass 14)
 - 2025-11-21 restated the contract (pass 15)
 - 2025-11-24 tightened the guard (pass 16)
+- 2025-11-24 documented the fallback (pass 17)

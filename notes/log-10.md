@@ -19,3 +19,4 @@
 - 2025-11-24 checked the migration (pass 18)
 - 2025-11-24 aligned the naming (pass 19)
 - 2025-11-24 restated the contract (pass 20)
+- 2025-11-24 documented the fallback (pass 21)
