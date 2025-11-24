@@ -18,3 +18,4 @@
 - 2025-11-18 reviewed the edge case (pass 17)
 - 2025-11-21 restated the contract (pass 18)
 - 2025-11-21 documented the fallback (pass 19)
+- 2025-11-24 refined the schedule (pass 20)

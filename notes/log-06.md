@@ -15,3 +15,4 @@
 - 2025-11-21 restated the contract (pass 14)
 - 2025-11-21 reviewed the edge case (pass 15)
 - 2025-11-21 noted the failure mode (pass 16)
+- 2025-11-24 checked the migration (pass 17)

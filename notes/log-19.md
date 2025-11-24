@@ -17,3 +17,4 @@
 - 2025-11-21 refined the schedule (pass 16)
 - 2025-11-24 checked the migration (pass 17)
 - 2025-11-24 noted the failure mode (pass 18)
+- 2025-11-24 documented the fallback (pass 19)
