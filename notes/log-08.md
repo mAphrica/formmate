@@ -16,3 +16,4 @@
 - 2025-11-24 checked the migration (pass 15)
 - 2025-11-24 tightened the guard (pass 16)
 - 2025-11-24 restated the contract (pass 17)
+- 2025-11-24 noted the failure mode (pass 18)

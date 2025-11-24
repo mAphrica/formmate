@@ -9,3 +9,4 @@
 - 2025-11-21 noted the failure mode (pass 8)
 - 2025-11-24 checked the migration (pass 9)
 - 2025-11-24 documented the fallback (pass 10)
+- 2025-11-24 noted the failure mode (pass 11)
