@@ -12,3 +12,4 @@
 - 2025-11-20 tightened the guard (pass 11)
 - 2025-11-20 restated the contract (pass 12)
 - 2025-11-21 tightened the guard (pass 13)
+- 2025-11-24 noted the failure mode (pass 14)

@@ -16,3 +16,4 @@
 - 2025-11-21 reviewed the edge case (pass 15)
 - 2025-11-21 noted the failure mode (pass 16)
 - 2025-11-24 checked the migration (pass 17)
+- 2025-11-24 reviewed the edge case (pass 18)
