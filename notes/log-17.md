@@ -12,3 +12,4 @@
 - 2025-11-21 documented the fallback (pass 11)
 - 2025-11-21 tightened the guard (pass 12)
 - 2025-11-21 trimmed the payload (pass 13)
+- 2025-11-24 refined the schedule (pass 14)
