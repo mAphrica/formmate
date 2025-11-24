@@ -16,3 +16,4 @@
 - 2025-11-24 aligned the naming (pass 15)
 - 2025-11-24 tightened the guard (pass 16)
 - 2025-11-24 measured the slow path (pass 17)
+- 2025-11-24 reviewed the edge case (pass 18)

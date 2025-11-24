@@ -9,3 +9,4 @@
 - 2025-11-21 reviewed the edge case (pass 8)
 - 2025-11-21 tightened the guard (pass 9)
 - 2025-11-24 trimmed the payload (pass 10)
+- 2025-11-24 noted the failure mode (pass 11)
