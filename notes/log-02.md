@@ -15,3 +15,4 @@
 - 2025-11-21 tightened the guard (pass 14)
 - 2025-11-24 aligned the naming (pass 15)
 - 2025-11-24 tightened the guard (pass 16)
+- 2025-11-24 measured the slow path (pass 17)
