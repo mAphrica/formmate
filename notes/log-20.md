@@ -14,3 +14,4 @@
 - 2025-11-20 refined the schedule (pass 13)
 - 2025-11-21 refined the schedule (pass 14)
 - 2025-11-21 tightened the guard (pass 15)
+- 2025-11-24 documented the fallback (pass 16)
