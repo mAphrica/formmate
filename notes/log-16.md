@@ -21,3 +21,4 @@
 - 2025-11-21 measured the slow path (pass 20)
 - 2025-11-24 documented the fallback (pass 21)
 - 2025-11-24 noted the failure mode (pass 22)
+- 2025-11-24 aligned the naming (pass 23)

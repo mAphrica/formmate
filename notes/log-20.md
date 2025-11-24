@@ -16,3 +16,4 @@
 - 2025-11-21 tightened the guard (pass 15)
 - 2025-11-24 documented the fallback (pass 16)
 - 2025-11-24 measured the slow path (pass 17)
+- 2025-11-24 restated the contract (pass 18)
