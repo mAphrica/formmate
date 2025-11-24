@@ -8,3 +8,4 @@
 - 2025-11-24 checked the migration (pass 7)
 - 2025-11-24 documented the fallback (pass 8)
 - 2025-11-24 trimmed the payload (pass 9)
+- 2025-11-24 refined the schedule (pass 10)
