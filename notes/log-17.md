@@ -19,3 +19,4 @@
 - 2025-11-24 reviewed the edge case (pass 18)
 - 2025-11-24 documented the fallback (pass 19)
 - 2025-11-25 checked the migration (pass 20)
+- 2025-11-25 measured the slow path (pass 21)

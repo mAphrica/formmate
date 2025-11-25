@@ -17,3 +17,4 @@
 - 2025-11-24 reviewed the edge case (pass 16)
 - 2025-11-25 restated the contract (pass 17)
 - 2025-11-25 aligned the naming (pass 18)
+- 2025-11-25 refined the schedule (pass 19)

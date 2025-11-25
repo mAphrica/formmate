@@ -21,3 +21,4 @@
 - 2025-11-24 restated the contract (pass 20)
 - 2025-11-24 checked the migration (pass 21)
 - 2025-11-24 checked the migration (pass 22)
+- 2025-11-25 tightened the guard (pass 23)
