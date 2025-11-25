@@ -20,3 +20,4 @@
 - 2025-11-24 restated the contract (pass 19)
 - 2025-11-24 reviewed the edge case (pass 20)
 - 2025-11-25 noted the failure mode (pass 21)
+- 2025-11-25 trimmed the payload (pass 22)
