@@ -11,3 +11,4 @@
 - 2025-11-20 restated the contract (pass 10)
 - 2025-11-24 refined the schedule (pass 11)
 - 2025-11-24 tightened the guard (pass 12)
+- 2025-11-25 aligned the naming (pass 13)

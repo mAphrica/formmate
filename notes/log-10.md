@@ -22,3 +22,4 @@
 - 2025-11-24 documented the fallback (pass 21)
 - 2025-11-25 measured the slow path (pass 22)
 - 2025-11-25 restated the contract (pass 23)
+- 2025-11-25 documented the fallback (pass 24)
