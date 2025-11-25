@@ -17,3 +17,4 @@
 - 2025-11-24 tightened the guard (pass 16)
 - 2025-11-24 documented the fallback (pass 17)
 - 2025-11-24 checked the migration (pass 18)
+- 2025-11-25 restated the contract (pass 19)

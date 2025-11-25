@@ -20,3 +20,4 @@
 - 2025-11-24 documented the fallback (pass 19)
 - 2025-11-24 aligned the naming (pass 20)
 - 2025-11-25 noted the failure mode (pass 21)
+- 2025-11-25 trimmed the payload (pass 22)
