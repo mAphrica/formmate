@@ -11,3 +11,4 @@
 - 2025-11-24 trimmed the payload (pass 10)
 - 2025-11-24 noted the failure mode (pass 11)
 - 2025-11-24 documented the fallback (pass 12)
+- 2025-11-26 checked the migration (pass 13)
