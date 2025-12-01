@@ -20,3 +20,4 @@
 - 2025-11-24 documented the fallback (pass 19)
 - 2025-11-25 checked the migration (pass 20)
 - 2025-11-25 measured the slow path (pass 21)
+- 2025-12-01 tightened the guard (pass 22)

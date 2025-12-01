@@ -20,3 +20,4 @@
 - 2025-11-24 aligned the naming (pass 19)
 - 2025-11-25 measured the slow path (pass 20)
 - 2025-11-25 tightened the guard (pass 21)
+- 2025-12-01 refined the schedule (pass 22)
