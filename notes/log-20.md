@@ -20,3 +20,4 @@
 - 2025-11-24 aligned the naming (pass 19)
 - 2025-11-24 aligned the naming (pass 20)
 - 2025-11-24 aligned the naming (pass 21)
+- 2025-12-01 noted the failure mode (pass 22)
