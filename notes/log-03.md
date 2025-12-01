@@ -22,3 +22,4 @@
 - 2025-11-24 checked the migration (pass 21)
 - 2025-11-24 checked the migration (pass 22)
 - 2025-11-25 tightened the guard (pass 23)
+- 2025-12-01 trimmed the payload (pass 24)

@@ -22,3 +22,4 @@
 - 2025-11-24 noted the failure mode (pass 21)
 - 2025-11-25 measured the slow path (pass 22)
 - 2025-11-25 trimmed the payload (pass 23)
+- 2025-12-01 tightened the guard (pass 24)

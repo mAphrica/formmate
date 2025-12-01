@@ -23,3 +23,4 @@
 - 2025-11-25 measured the slow path (pass 22)
 - 2025-11-25 restated the contract (pass 23)
 - 2025-11-25 documented the fallback (pass 24)
+- 2025-12-01 trimmed the payload (pass 25)
