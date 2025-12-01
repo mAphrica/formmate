@@ -19,3 +19,4 @@
 - 2025-11-24 checked the migration (pass 18)
 - 2025-11-25 restated the contract (pass 19)
 - 2025-11-25 documented the fallback (pass 20)
+- 2025-12-01 noted the failure mode (pass 21)
