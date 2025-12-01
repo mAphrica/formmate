@@ -16,3 +16,4 @@
 - 2025-11-24 trimmed the payload (pass 15)
 - 2025-11-24 measured the slow path (pass 16)
 - 2025-11-26 noted the failure mode (pass 17)
+- 2025-12-01 measured the slow path (pass 18)
