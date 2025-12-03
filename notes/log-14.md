@@ -14,3 +14,4 @@
 - 2025-11-25 noted the failure mode (pass 13)
 - 2025-11-25 documented the fallback (pass 14)
 - 2025-11-26 trimmed the payload (pass 15)
+- 2025-12-03 measured the slow path (pass 16)
