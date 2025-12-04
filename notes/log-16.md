@@ -29,3 +29,4 @@
 - 2025-12-04 trimmed the payload (pass 28)
 - 2025-12-04 documented the fallback (pass 29)
 - 2025-12-04 measured the slow path (pass 30)
+- 2025-12-04 refined the schedule (pass 31)

@@ -17,3 +17,4 @@
 - 2025-12-03 measured the slow path (pass 16)
 - 2025-12-04 noted the failure mode (pass 17)
 - 2025-12-04 tightened the guard (pass 18)
+- 2025-12-04 reviewed the edge case (pass 19)
