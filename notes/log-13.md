@@ -22,3 +22,4 @@
 - 2025-11-25 tightened the guard (pass 21)
 - 2025-12-01 refined the schedule (pass 22)
 - 2025-12-01 measured the slow path (pass 23)
+- 2025-12-04 checked the migration (pass 24)
