@@ -28,3 +28,4 @@
 - 2025-12-03 checked the migration (pass 27)
 - 2025-12-04 trimmed the payload (pass 28)
 - 2025-12-04 documented the fallback (pass 29)
+- 2025-12-04 measured the slow path (pass 30)
