@@ -24,3 +24,4 @@
 - 2025-11-24 refined the schedule (pass 23)
 - 2025-12-04 measured the slow path (pass 24)
 - 2025-12-04 noted the failure mode (pass 25)
+- 2025-12-04 tightened the guard (pass 26)

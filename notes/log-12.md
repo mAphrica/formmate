@@ -20,3 +20,4 @@
 - 2025-12-04 trimmed the payload (pass 19)
 - 2025-12-04 checked the migration (pass 20)
 - 2025-12-04 checked the migration (pass 21)
+- 2025-12-04 reviewed the edge case (pass 22)
