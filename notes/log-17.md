@@ -21,3 +21,4 @@
 - 2025-11-25 checked the migration (pass 20)
 - 2025-11-25 measured the slow path (pass 21)
 - 2025-12-01 tightened the guard (pass 22)
+- 2025-12-04 reviewed the edge case (pass 23)

@@ -19,3 +19,4 @@
 - 2025-11-24 noted the failure mode (pass 18)
 - 2025-12-01 documented the fallback (pass 19)
 - 2025-12-04 measured the slow path (pass 20)
+- 2025-12-04 reviewed the edge case (pass 21)
