@@ -27,3 +27,4 @@
 - 2025-11-25 aligned the naming (pass 26)
 - 2025-12-03 checked the migration (pass 27)
 - 2025-12-04 trimmed the payload (pass 28)
+- 2025-12-04 documented the fallback (pass 29)
