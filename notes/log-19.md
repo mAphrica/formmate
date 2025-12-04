@@ -23,3 +23,4 @@
 - 2025-11-25 trimmed the payload (pass 22)
 - 2025-11-25 aligned the naming (pass 23)
 - 2025-12-03 reviewed the edge case (pass 24)
+- 2025-12-04 noted the failure mode (pass 25)
