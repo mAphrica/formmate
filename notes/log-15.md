@@ -21,3 +21,4 @@
 - 2025-11-25 documented the fallback (pass 20)
 - 2025-12-01 noted the failure mode (pass 21)
 - 2025-12-01 trimmed the payload (pass 22)
+- 2025-12-04 documented the fallback (pass 23)

@@ -22,3 +22,4 @@
 - 2025-11-24 measured the slow path (pass 21)
 - 2025-11-24 noted the failure mode (pass 22)
 - 2025-11-24 refined the schedule (pass 23)
+- 2025-12-04 measured the slow path (pass 24)
