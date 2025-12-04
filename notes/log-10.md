@@ -25,3 +25,4 @@
 - 2025-11-25 documented the fallback (pass 24)
 - 2025-12-01 trimmed the payload (pass 25)
 - 2025-12-04 trimmed the payload (pass 26)
+- 2025-12-04 noted the failure mode (pass 27)
