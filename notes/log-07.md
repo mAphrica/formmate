@@ -20,3 +20,4 @@
 - 2025-11-24 reviewed the edge case (pass 19)
 - 2025-12-03 reviewed the edge case (pass 20)
 - 2025-12-04 aligned the naming (pass 21)
+- 2025-12-04 restated the contract (pass 22)
