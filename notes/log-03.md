@@ -25,3 +25,4 @@
 - 2025-12-01 trimmed the payload (pass 24)
 - 2025-12-04 reviewed the edge case (pass 25)
 - 2025-12-04 checked the migration (pass 26)
+- 2025-12-15 restated the contract (pass 27)
