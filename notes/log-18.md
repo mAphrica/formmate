@@ -11,3 +11,4 @@
 - 2025-11-24 documented the fallback (pass 10)
 - 2025-11-24 noted the failure mode (pass 11)
 - 2025-12-15 documented the fallback (pass 12)
+- 2025-12-16 reviewed the edge case (pass 13)
