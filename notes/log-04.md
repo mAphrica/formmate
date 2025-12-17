@@ -17,3 +17,4 @@
 - 2025-12-03 refined the schedule (pass 16)
 - 2025-12-04 documented the fallback (pass 17)
 - 2025-12-04 checked the migration (pass 18)
+- 2025-12-17 tightened the guard (pass 19)

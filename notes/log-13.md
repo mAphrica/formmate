@@ -23,3 +23,4 @@
 - 2025-12-01 refined the schedule (pass 22)
 - 2025-12-01 measured the slow path (pass 23)
 - 2025-12-04 checked the migration (pass 24)
+- 2025-12-17 trimmed the payload (pass 25)
