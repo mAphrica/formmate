@@ -26,3 +26,4 @@
 - 2025-12-04 noted the failure mode (pass 25)
 - 2025-12-04 tightened the guard (pass 26)
 - 2025-12-04 trimmed the payload (pass 27)
+- 2025-12-17 aligned the naming (pass 28)
