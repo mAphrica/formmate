@@ -22,3 +22,4 @@
 - 2025-11-27 aligned the naming (pass 21)
 - 2025-12-01 aligned the naming (pass 22)
 - 2025-12-04 documented the fallback (pass 23)
+- 2025-12-18 reviewed the edge case (pass 24)

@@ -13,3 +13,4 @@
 - 2025-12-15 documented the fallback (pass 12)
 - 2025-12-16 reviewed the edge case (pass 13)
 - 2025-12-18 checked the migration (pass 14)
+- 2025-12-18 trimmed the payload (pass 15)
