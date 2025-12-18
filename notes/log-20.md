@@ -24,3 +24,4 @@
 - 2025-12-01 documented the fallback (pass 23)
 - 2025-12-04 refined the schedule (pass 24)
 - 2025-12-04 reviewed the edge case (pass 25)
+- 2025-12-18 tightened the guard (pass 26)

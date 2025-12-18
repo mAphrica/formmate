@@ -26,3 +26,4 @@
 - 2025-11-27 restated the contract (pass 25)
 - 2025-12-01 measured the slow path (pass 26)
 - 2025-12-03 reviewed the edge case (pass 27)
+- 2025-12-18 checked the migration (pass 28)
