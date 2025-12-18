@@ -25,3 +25,4 @@
 - 2025-12-04 refined the schedule (pass 24)
 - 2025-12-04 reviewed the edge case (pass 25)
 - 2025-12-18 tightened the guard (pass 26)
+- 2025-12-18 aligned the naming (pass 27)
