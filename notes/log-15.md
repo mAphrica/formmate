@@ -26,3 +26,4 @@
 - 2025-12-04 refined the schedule (pass 25)
 - 2025-12-04 trimmed the payload (pass 26)
 - 2025-12-19 restated the contract (pass 27)
+- 2025-12-19 checked the migration (pass 28)
