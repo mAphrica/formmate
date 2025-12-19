@@ -28,3 +28,4 @@
 - 2025-12-19 measured the slow path (pass 27)
 - 2025-12-19 aligned the naming (pass 28)
 - 2025-12-19 trimmed the payload (pass 29)
+- 2025-12-19 noted the failure mode (pass 30)
