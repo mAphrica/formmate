@@ -18,3 +18,4 @@
 - 2025-12-04 documented the fallback (pass 17)
 - 2025-12-04 checked the migration (pass 18)
 - 2025-12-17 tightened the guard (pass 19)
+- 2025-12-19 noted the failure mode (pass 20)
