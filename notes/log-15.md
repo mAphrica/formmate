@@ -25,3 +25,4 @@
 - 2025-12-04 tightened the guard (pass 24)
 - 2025-12-04 refined the schedule (pass 25)
 - 2025-12-04 trimmed the payload (pass 26)
+- 2025-12-19 restated the contract (pass 27)

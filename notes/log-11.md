@@ -16,3 +16,4 @@
 - 2025-12-04 refined the schedule (pass 15)
 - 2025-12-04 checked the migration (pass 16)
 - 2025-12-18 restated the contract (pass 17)
+- 2025-12-19 aligned the naming (pass 18)

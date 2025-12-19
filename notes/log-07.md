@@ -21,3 +21,4 @@
 - 2025-12-03 reviewed the edge case (pass 20)
 - 2025-12-04 aligned the naming (pass 21)
 - 2025-12-04 restated the contract (pass 22)
+- 2025-12-19 measured the slow path (pass 23)

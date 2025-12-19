@@ -25,3 +25,4 @@
 - 2025-12-04 checked the migration (pass 24)
 - 2025-12-17 trimmed the payload (pass 25)
 - 2025-12-18 trimmed the payload (pass 26)
+- 2025-12-19 measured the slow path (pass 27)
