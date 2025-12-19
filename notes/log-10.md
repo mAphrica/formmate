@@ -27,3 +27,4 @@
 - 2025-12-04 trimmed the payload (pass 26)
 - 2025-12-04 noted the failure mode (pass 27)
 - 2025-12-17 refined the schedule (pass 28)
+- 2025-12-19 restated the contract (pass 29)
