@@ -29,3 +29,4 @@
 - 2025-12-17 aligned the naming (pass 28)
 - 2025-12-19 aligned the naming (pass 29)
 - 2026-01-05 checked the migration (pass 30)
+- 2026-01-05 noted the failure mode (pass 31)

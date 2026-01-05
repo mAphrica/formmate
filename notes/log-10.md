@@ -30,3 +30,4 @@
 - 2025-12-19 restated the contract (pass 29)
 - 2025-12-19 measured the slow path (pass 30)
 - 2026-01-05 checked the migration (pass 31)
+- 2026-01-05 noted the failure mode (pass 32)
