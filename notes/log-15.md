@@ -28,3 +28,4 @@
 - 2025-12-19 restated the contract (pass 27)
 - 2025-12-19 checked the migration (pass 28)
 - 2025-12-19 refined the schedule (pass 29)
+- 2026-01-05 reviewed the edge case (pass 30)
