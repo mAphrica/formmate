@@ -21,3 +21,4 @@
 - 2025-12-04 measured the slow path (pass 20)
 - 2025-12-04 reviewed the edge case (pass 21)
 - 2025-12-18 noted the failure mode (pass 22)
+- 2026-01-05 restated the contract (pass 23)
