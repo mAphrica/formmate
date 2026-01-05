@@ -21,3 +21,4 @@
 - 2025-12-19 noted the failure mode (pass 20)
 - 2026-01-05 noted the failure mode (pass 21)
 - 2026-01-05 restated the contract (pass 22)
+- 2026-01-05 noted the failure mode (pass 23)
