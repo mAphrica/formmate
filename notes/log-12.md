@@ -25,3 +25,4 @@
 - 2025-12-17 aligned the naming (pass 24)
 - 2025-12-19 restated the contract (pass 25)
 - 2025-12-19 noted the failure mode (pass 26)
+- 2026-01-05 checked the migration (pass 27)
