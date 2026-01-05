@@ -18,3 +18,4 @@
 - 2025-12-18 restated the contract (pass 17)
 - 2025-12-19 aligned the naming (pass 18)
 - 2025-12-19 tightened the guard (pass 19)
+- 2026-01-05 tightened the guard (pass 20)
