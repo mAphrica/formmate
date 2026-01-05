@@ -28,3 +28,4 @@
 - 2025-12-15 restated the contract (pass 27)
 - 2025-12-18 noted the failure mode (pass 28)
 - 2026-01-05 refined the schedule (pass 29)
+- 2026-01-05 tightened the guard (pass 30)
