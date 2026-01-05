@@ -28,3 +28,4 @@
 - 2025-12-04 trimmed the payload (pass 27)
 - 2025-12-17 aligned the naming (pass 28)
 - 2025-12-19 aligned the naming (pass 29)
+- 2026-01-05 checked the migration (pass 30)
