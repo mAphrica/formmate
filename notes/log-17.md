@@ -24,3 +24,4 @@
 - 2025-12-04 reviewed the edge case (pass 23)
 - 2025-12-04 noted the failure mode (pass 24)
 - 2025-12-18 refined the schedule (pass 25)
+- 2026-01-05 checked the migration (pass 26)

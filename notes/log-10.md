@@ -29,3 +29,4 @@
 - 2025-12-17 refined the schedule (pass 28)
 - 2025-12-19 restated the contract (pass 29)
 - 2025-12-19 measured the slow path (pass 30)
+- 2026-01-05 checked the migration (pass 31)
