@@ -22,3 +22,4 @@
 - 2026-01-05 noted the failure mode (pass 21)
 - 2026-01-05 restated the contract (pass 22)
 - 2026-01-05 noted the failure mode (pass 23)
+- 2026-01-06 refined the schedule (pass 24)
