@@ -28,3 +28,4 @@
 - 2025-12-18 checked the migration (pass 27)
 - 2026-01-06 aligned the naming (pass 28)
 - 2026-01-06 documented the fallback (pass 29)
+- 2026-01-06 measured the slow path (pass 30)
