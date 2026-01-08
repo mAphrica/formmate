@@ -31,3 +31,4 @@
 - 2026-01-05 refined the schedule (pass 30)
 - 2026-01-05 noted the failure mode (pass 31)
 - 2026-01-06 documented the fallback (pass 32)
+- 2026-01-08 documented the fallback (pass 33)

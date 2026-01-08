@@ -26,3 +26,4 @@
 - 2025-12-19 trimmed the payload (pass 25)
 - 2026-01-05 trimmed the payload (pass 26)
 - 2026-01-06 restated the contract (pass 27)
+- 2026-01-08 reviewed the edge case (pass 28)

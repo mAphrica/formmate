@@ -30,3 +30,4 @@
 - 2025-12-19 tightened the guard (pass 29)
 - 2026-01-05 trimmed the payload (pass 30)
 - 2026-01-07 noted the failure mode (pass 31)
+- 2026-01-08 checked the migration (pass 32)
