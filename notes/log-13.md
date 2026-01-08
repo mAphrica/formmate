@@ -32,3 +32,4 @@
 - 2026-01-05 reviewed the edge case (pass 31)
 - 2026-01-05 aligned the naming (pass 32)
 - 2026-01-07 tightened the guard (pass 33)
+- 2026-01-08 noted the failure mode (pass 34)
