@@ -33,3 +33,4 @@
 - 2026-01-05 documented the fallback (pass 32)
 - 2026-01-07 tightened the guard (pass 33)
 - 2026-01-07 trimmed the payload (pass 34)
+- 2026-01-09 reviewed the edge case (pass 35)
