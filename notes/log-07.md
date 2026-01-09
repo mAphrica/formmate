@@ -25,3 +25,4 @@
 - 2025-12-19 tightened the guard (pass 24)
 - 2026-01-05 refined the schedule (pass 25)
 - 2026-01-09 documented the fallback (pass 26)
+- 2026-01-09 noted the failure mode (pass 27)
