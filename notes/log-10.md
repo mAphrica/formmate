@@ -34,3 +34,4 @@
 - 2026-01-05 documented the fallback (pass 33)
 - 2026-01-06 aligned the naming (pass 34)
 - 2026-01-06 tightened the guard (pass 35)
+- 2026-01-09 noted the failure mode (pass 36)
