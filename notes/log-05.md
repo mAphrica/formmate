@@ -28,3 +28,4 @@
 - 2026-01-06 restated the contract (pass 27)
 - 2026-01-08 reviewed the edge case (pass 28)
 - 2026-01-12 tightened the guard (pass 29)
+- 2026-01-12 documented the fallback (pass 30)
