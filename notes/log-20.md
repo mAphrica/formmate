@@ -29,3 +29,4 @@
 - 2025-12-19 aligned the naming (pass 28)
 - 2026-01-05 trimmed the payload (pass 29)
 - 2026-01-05 documented the fallback (pass 30)
+- 2026-01-12 refined the schedule (pass 31)

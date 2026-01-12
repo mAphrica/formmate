@@ -26,3 +26,4 @@
 - 2025-12-19 restated the contract (pass 25)
 - 2025-12-19 noted the failure mode (pass 26)
 - 2026-01-05 checked the migration (pass 27)
+- 2026-01-12 refined the schedule (pass 28)
