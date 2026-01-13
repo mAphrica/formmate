@@ -21,3 +21,4 @@
 - 2026-01-05 tightened the guard (pass 20)
 - 2026-01-05 tightened the guard (pass 21)
 - 2026-01-06 documented the fallback (pass 22)
+- 2026-01-13 tightened the guard (pass 23)
