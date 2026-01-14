@@ -26,3 +26,4 @@
 - 2026-01-09 refined the schedule (pass 25)
 - 2026-01-13 restated the contract (pass 26)
 - 2026-01-13 trimmed the payload (pass 27)
+- 2026-01-14 checked the migration (pass 28)
