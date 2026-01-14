@@ -26,3 +26,4 @@
 - 2026-01-05 refined the schedule (pass 25)
 - 2026-01-09 documented the fallback (pass 26)
 - 2026-01-09 noted the failure mode (pass 27)
+- 2026-01-14 aligned the naming (pass 28)
