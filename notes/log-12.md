@@ -28,3 +28,4 @@
 - 2026-01-05 checked the migration (pass 27)
 - 2026-01-12 refined the schedule (pass 28)
 - 2026-01-12 restated the contract (pass 29)
+- 2026-01-14 aligned the naming (pass 30)
