@@ -33,3 +33,4 @@
 - 2026-01-09 measured the slow path (pass 32)
 - 2026-01-12 checked the migration (pass 33)
 - 2026-01-13 restated the contract (pass 34)
+- 2026-01-14 trimmed the payload (pass 35)

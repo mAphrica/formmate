@@ -37,3 +37,4 @@
 - 2026-01-09 aligned the naming (pass 36)
 - 2026-01-13 refined the schedule (pass 37)
 - 2026-01-13 reviewed the edge case (pass 38)
+- 2026-01-14 noted the failure mode (pass 39)
