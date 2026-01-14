@@ -27,3 +27,4 @@
 - 2026-01-09 tightened the guard (pass 26)
 - 2026-01-12 refined the schedule (pass 27)
 - 2026-01-14 tightened the guard (pass 28)
+- 2026-01-14 trimmed the payload (pass 29)
