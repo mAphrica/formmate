@@ -27,3 +27,4 @@
 - 2026-01-09 documented the fallback (pass 26)
 - 2026-01-09 noted the failure mode (pass 27)
 - 2026-01-14 aligned the naming (pass 28)
+- 2026-01-14 trimmed the payload (pass 29)

@@ -31,3 +31,4 @@
 - 2026-01-05 documented the fallback (pass 30)
 - 2026-01-12 refined the schedule (pass 31)
 - 2026-01-12 tightened the guard (pass 32)
+- 2026-01-14 reviewed the edge case (pass 33)
