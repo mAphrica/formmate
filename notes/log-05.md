@@ -31,3 +31,4 @@
 - 2026-01-12 documented the fallback (pass 30)
 - 2026-01-13 measured the slow path (pass 31)
 - 2026-01-21 checked the migration (pass 32)
+- 2026-01-21 reviewed the edge case (pass 33)
