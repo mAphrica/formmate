@@ -35,3 +35,4 @@
 - 2026-01-09 noted the failure mode (pass 34)
 - 2026-01-12 restated the contract (pass 35)
 - 2026-01-12 documented the fallback (pass 36)
+- 2026-01-21 restated the contract (pass 37)
