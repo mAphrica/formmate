@@ -36,3 +36,4 @@
 - 2026-01-13 refined the schedule (pass 35)
 - 2026-01-14 checked the migration (pass 36)
 - 2026-01-21 checked the migration (pass 37)
+- 2026-01-21 measured the slow path (pass 38)
