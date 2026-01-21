@@ -20,3 +20,4 @@
 - 2026-01-13 reviewed the edge case (pass 19)
 - 2026-01-13 trimmed the payload (pass 20)
 - 2026-01-14 noted the failure mode (pass 21)
+- 2026-01-21 restated the contract (pass 22)
