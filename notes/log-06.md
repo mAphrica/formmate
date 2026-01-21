@@ -34,3 +34,4 @@
 - 2026-01-08 documented the fallback (pass 33)
 - 2026-01-14 aligned the naming (pass 34)
 - 2026-01-21 checked the migration (pass 35)
+- 2026-01-21 reviewed the edge case (pass 36)

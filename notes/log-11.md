@@ -23,3 +23,4 @@
 - 2026-01-06 documented the fallback (pass 22)
 - 2026-01-13 tightened the guard (pass 23)
 - 2026-01-21 noted the failure mode (pass 24)
+- 2026-01-21 checked the migration (pass 25)
