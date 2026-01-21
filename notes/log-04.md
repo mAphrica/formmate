@@ -31,3 +31,4 @@
 - 2026-01-14 measured the slow path (pass 30)
 - 2026-01-14 measured the slow path (pass 31)
 - 2026-01-21 trimmed the payload (pass 32)
+- 2026-01-21 checked the migration (pass 33)
