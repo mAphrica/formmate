@@ -32,3 +32,4 @@
 - 2026-01-13 measured the slow path (pass 31)
 - 2026-01-21 checked the migration (pass 32)
 - 2026-01-21 reviewed the edge case (pass 33)
+- 2026-01-21 trimmed the payload (pass 34)
