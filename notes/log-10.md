@@ -39,3 +39,4 @@
 - 2026-01-14 aligned the naming (pass 38)
 - 2026-01-21 restated the contract (pass 39)
 - 2026-01-21 reviewed the edge case (pass 40)
+- 2026-01-21 measured the slow path (pass 41)
