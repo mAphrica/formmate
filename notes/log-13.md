@@ -41,3 +41,4 @@
 - 2026-01-14 checked the migration (pass 40)
 - 2026-01-14 refined the schedule (pass 41)
 - 2026-01-21 aligned the naming (pass 42)
+- 2026-01-21 trimmed the payload (pass 43)

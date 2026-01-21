@@ -31,3 +31,4 @@
 - 2026-01-06 measured the slow path (pass 30)
 - 2026-01-12 tightened the guard (pass 31)
 - 2026-01-14 reviewed the edge case (pass 32)
+- 2026-01-21 trimmed the payload (pass 33)
