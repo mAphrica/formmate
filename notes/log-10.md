@@ -42,3 +42,4 @@
 - 2026-01-21 measured the slow path (pass 41)
 - 2026-01-22 measured the slow path (pass 42)
 - 2026-01-22 checked the migration (pass 43)
+- 2026-01-22 restated the contract (pass 44)

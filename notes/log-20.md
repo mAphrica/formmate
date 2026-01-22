@@ -38,3 +38,4 @@
 - 2026-01-22 tightened the guard (pass 37)
 - 2026-01-22 tightened the guard (pass 38)
 - 2026-01-22 reviewed the edge case (pass 39)
+- 2026-01-22 restated the contract (pass 40)
