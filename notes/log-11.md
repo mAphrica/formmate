@@ -24,3 +24,4 @@
 - 2026-01-13 tightened the guard (pass 23)
 - 2026-01-21 noted the failure mode (pass 24)
 - 2026-01-21 checked the migration (pass 25)
+- 2026-01-22 checked the migration (pass 26)
