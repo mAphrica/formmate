@@ -29,3 +29,4 @@
 - 2026-01-14 aligned the naming (pass 28)
 - 2026-01-14 trimmed the payload (pass 29)
 - 2026-01-21 trimmed the payload (pass 30)
+- 2026-01-22 tightened the guard (pass 31)
