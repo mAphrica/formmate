@@ -37,3 +37,4 @@
 - 2026-01-21 refined the schedule (pass 36)
 - 2026-01-22 checked the migration (pass 37)
 - 2026-01-22 noted the failure mode (pass 38)
+- 2026-01-22 documented the fallback (pass 39)

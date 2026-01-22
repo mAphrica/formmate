@@ -37,3 +37,4 @@
 - 2026-01-12 documented the fallback (pass 36)
 - 2026-01-21 restated the contract (pass 37)
 - 2026-01-22 noted the failure mode (pass 38)
+- 2026-01-22 trimmed the payload (pass 39)
