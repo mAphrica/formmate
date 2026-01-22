@@ -38,3 +38,4 @@
 - 2026-01-22 checked the migration (pass 37)
 - 2026-01-22 noted the failure mode (pass 38)
 - 2026-01-22 documented the fallback (pass 39)
+- 2026-01-22 trimmed the payload (pass 40)
