@@ -29,3 +29,4 @@
 - 2026-01-21 refined the schedule (pass 28)
 - 2026-01-22 measured the slow path (pass 29)
 - 2026-01-22 tightened the guard (pass 30)
+- 2026-01-22 noted the failure mode (pass 31)
