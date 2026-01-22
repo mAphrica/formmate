@@ -28,3 +28,4 @@
 - 2026-01-14 aligned the naming (pass 27)
 - 2026-01-21 refined the schedule (pass 28)
 - 2026-01-22 measured the slow path (pass 29)
+- 2026-01-22 tightened the guard (pass 30)
