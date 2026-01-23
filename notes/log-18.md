@@ -23,3 +23,4 @@
 - 2026-01-21 restated the contract (pass 22)
 - 2026-01-22 documented the fallback (pass 23)
 - 2026-01-23 trimmed the payload (pass 24)
+- 2026-01-23 reviewed the edge case (pass 25)
