@@ -41,3 +41,4 @@
 - 2026-01-22 trimmed the payload (pass 40)
 - 2026-01-23 measured the slow path (pass 41)
 - 2026-01-23 measured the slow path (pass 42)
+- 2026-01-23 tightened the guard (pass 43)
