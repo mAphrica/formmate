@@ -26,3 +26,4 @@
 - 2026-01-21 checked the migration (pass 25)
 - 2026-01-22 checked the migration (pass 26)
 - 2026-01-22 aligned the naming (pass 27)
+- 2026-01-23 tightened the guard (pass 28)
