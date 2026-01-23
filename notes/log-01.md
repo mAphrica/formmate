@@ -35,3 +35,4 @@
 - 2026-01-21 refined the schedule (pass 34)
 - 2026-01-22 tightened the guard (pass 35)
 - 2026-01-22 noted the failure mode (pass 36)
+- 2026-01-23 noted the failure mode (pass 37)

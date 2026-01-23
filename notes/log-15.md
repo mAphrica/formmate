@@ -36,3 +36,4 @@
 - 2026-01-14 restated the contract (pass 35)
 - 2026-01-14 noted the failure mode (pass 36)
 - 2026-01-21 trimmed the payload (pass 37)
+- 2026-01-23 refined the schedule (pass 38)
