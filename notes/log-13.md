@@ -45,3 +45,4 @@
 - 2026-01-21 tightened the guard (pass 44)
 - 2026-01-22 refined the schedule (pass 45)
 - 2026-01-22 refined the schedule (pass 46)
+- 2026-01-23 measured the slow path (pass 47)
