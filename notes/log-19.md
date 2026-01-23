@@ -45,3 +45,4 @@
 - 2026-01-22 documented the fallback (pass 44)
 - 2026-01-22 tightened the guard (pass 45)
 - 2026-01-22 noted the failure mode (pass 46)
+- 2026-01-23 documented the fallback (pass 47)
