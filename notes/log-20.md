@@ -39,3 +39,4 @@
 - 2026-01-22 tightened the guard (pass 38)
 - 2026-01-22 reviewed the edge case (pass 39)
 - 2026-01-22 restated the contract (pass 40)
+- 2026-01-23 noted the failure mode (pass 41)
