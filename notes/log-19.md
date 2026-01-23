@@ -48,3 +48,4 @@
 - 2026-01-23 documented the fallback (pass 47)
 - 2026-01-23 tightened the guard (pass 48)
 - 2026-01-23 aligned the naming (pass 49)
+- 2026-01-23 aligned the naming (pass 50)

@@ -36,3 +36,4 @@
 - 2026-01-22 tightened the guard (pass 35)
 - 2026-01-22 noted the failure mode (pass 36)
 - 2026-01-23 noted the failure mode (pass 37)
+- 2026-01-23 reviewed the edge case (pass 38)
