@@ -29,3 +29,4 @@
 - 2026-01-21 measured the slow path (pass 28)
 - 2026-01-22 documented the fallback (pass 29)
 - 2026-01-23 tightened the guard (pass 30)
+- 2026-01-23 refined the schedule (pass 31)
