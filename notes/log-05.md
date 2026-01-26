@@ -37,3 +37,4 @@
 - 2026-01-22 documented the fallback (pass 36)
 - 2026-01-22 trimmed the payload (pass 37)
 - 2026-01-23 noted the failure mode (pass 38)
+- 2026-01-26 measured the slow path (pass 39)
