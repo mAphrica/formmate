@@ -42,3 +42,4 @@
 - 2026-01-23 measured the slow path (pass 41)
 - 2026-01-23 measured the slow path (pass 42)
 - 2026-01-23 tightened the guard (pass 43)
+- 2026-01-26 measured the slow path (pass 44)
