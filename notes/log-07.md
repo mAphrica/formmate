@@ -37,3 +37,4 @@
 - 2026-01-23 trimmed the payload (pass 36)
 - 2026-01-23 documented the fallback (pass 37)
 - 2026-01-26 trimmed the payload (pass 38)
+- 2026-01-26 documented the fallback (pass 39)
