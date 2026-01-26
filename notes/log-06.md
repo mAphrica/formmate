@@ -38,3 +38,4 @@
 - 2026-01-22 restated the contract (pass 37)
 - 2026-01-22 refined the schedule (pass 38)
 - 2026-01-23 measured the slow path (pass 39)
+- 2026-01-26 reviewed the edge case (pass 40)

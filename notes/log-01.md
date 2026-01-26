@@ -37,3 +37,4 @@
 - 2026-01-22 noted the failure mode (pass 36)
 - 2026-01-23 noted the failure mode (pass 37)
 - 2026-01-23 reviewed the edge case (pass 38)
+- 2026-01-26 documented the fallback (pass 39)
