@@ -50,3 +50,4 @@
 - 2026-01-23 aligned the naming (pass 49)
 - 2026-01-23 aligned the naming (pass 50)
 - 2026-01-27 refined the schedule (pass 51)
+- 2026-01-27 documented the fallback (pass 52)
