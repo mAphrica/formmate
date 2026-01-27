@@ -42,3 +42,4 @@
 - 2026-01-23 noted the failure mode (pass 41)
 - 2026-01-23 restated the contract (pass 42)
 - 2026-01-26 documented the fallback (pass 43)
+- 2026-01-27 refined the schedule (pass 44)

@@ -39,3 +39,4 @@
 - 2026-01-22 noted the failure mode (pass 38)
 - 2026-01-22 trimmed the payload (pass 39)
 - 2026-01-23 reviewed the edge case (pass 40)
+- 2026-01-27 noted the failure mode (pass 41)
