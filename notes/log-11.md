@@ -28,3 +28,4 @@
 - 2026-01-22 aligned the naming (pass 27)
 - 2026-01-23 tightened the guard (pass 28)
 - 2026-01-23 restated the contract (pass 29)
+- 2026-01-27 documented the fallback (pass 30)
