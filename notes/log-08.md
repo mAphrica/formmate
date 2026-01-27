@@ -32,3 +32,4 @@
 - 2026-01-22 noted the failure mode (pass 31)
 - 2026-01-26 refined the schedule (pass 32)
 - 2026-01-26 restated the contract (pass 33)
+- 2026-01-27 documented the fallback (pass 34)

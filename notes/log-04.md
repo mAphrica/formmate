@@ -37,3 +37,4 @@
 - 2026-01-22 reviewed the edge case (pass 36)
 - 2026-01-22 documented the fallback (pass 37)
 - 2026-01-26 tightened the guard (pass 38)
+- 2026-01-27 checked the migration (pass 39)
