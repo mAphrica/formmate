@@ -40,3 +40,4 @@
 - 2026-01-22 aligned the naming (pass 39)
 - 2026-01-23 restated the contract (pass 40)
 - 2026-01-23 checked the migration (pass 41)
+- 2026-01-27 reviewed the edge case (pass 42)
