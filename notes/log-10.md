@@ -46,3 +46,4 @@
 - 2026-01-23 noted the failure mode (pass 45)
 - 2026-01-27 checked the migration (pass 46)
 - 2026-01-27 noted the failure mode (pass 47)
+- 2026-01-27 checked the migration (pass 48)
