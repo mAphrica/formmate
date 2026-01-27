@@ -35,3 +35,4 @@
 - 2026-01-23 restated the contract (pass 34)
 - 2026-01-26 tightened the guard (pass 35)
 - 2026-01-27 refined the schedule (pass 36)
+- 2026-01-27 trimmed the payload (pass 37)
