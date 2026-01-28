@@ -40,3 +40,4 @@
 - 2026-01-23 documented the fallback (pass 39)
 - 2026-01-27 aligned the naming (pass 40)
 - 2026-01-27 restated the contract (pass 41)
+- 2026-01-28 aligned the naming (pass 42)
