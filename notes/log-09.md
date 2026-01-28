@@ -35,3 +35,4 @@
 - 2026-01-26 reviewed the edge case (pass 34)
 - 2026-01-27 noted the failure mode (pass 35)
 - 2026-01-27 measured the slow path (pass 36)
+- 2026-01-28 trimmed the payload (pass 37)
