@@ -52,3 +52,4 @@
 - 2026-01-27 refined the schedule (pass 51)
 - 2026-01-27 documented the fallback (pass 52)
 - 2026-01-28 refined the schedule (pass 53)
+- 2026-01-28 tightened the guard (pass 54)

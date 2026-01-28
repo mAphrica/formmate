@@ -41,3 +41,4 @@
 - 2026-01-23 reviewed the edge case (pass 40)
 - 2026-01-27 noted the failure mode (pass 41)
 - 2026-01-27 aligned the naming (pass 42)
+- 2026-01-28 refined the schedule (pass 43)
