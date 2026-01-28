@@ -33,3 +33,4 @@
 - 2026-01-21 trimmed the payload (pass 32)
 - 2026-01-21 trimmed the payload (pass 33)
 - 2026-01-27 restated the contract (pass 34)
+- 2026-01-28 checked the migration (pass 35)
