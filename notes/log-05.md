@@ -39,3 +39,4 @@
 - 2026-01-23 noted the failure mode (pass 38)
 - 2026-01-26 measured the slow path (pass 39)
 - 2026-01-27 documented the fallback (pass 40)
+- 2026-01-29 restated the contract (pass 41)

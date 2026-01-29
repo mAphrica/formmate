@@ -39,3 +39,4 @@
 - 2026-01-26 tightened the guard (pass 38)
 - 2026-01-27 checked the migration (pass 39)
 - 2026-01-28 trimmed the payload (pass 40)
+- 2026-01-29 tightened the guard (pass 41)
