@@ -36,3 +36,4 @@
 - 2026-01-27 trimmed the payload (pass 35)
 - 2026-01-29 documented the fallback (pass 36)
 - 2026-01-29 reviewed the edge case (pass 37)
+- 2026-01-29 refined the schedule (pass 38)
