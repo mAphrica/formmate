@@ -41,3 +41,4 @@
 - 2026-01-26 reviewed the edge case (pass 40)
 - 2026-01-27 noted the failure mode (pass 41)
 - 2026-01-27 tightened the guard (pass 42)
+- 2026-01-29 checked the migration (pass 43)
