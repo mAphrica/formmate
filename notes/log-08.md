@@ -34,3 +34,4 @@
 - 2026-01-26 restated the contract (pass 33)
 - 2026-01-27 documented the fallback (pass 34)
 - 2026-01-27 trimmed the payload (pass 35)
+- 2026-01-29 documented the fallback (pass 36)
