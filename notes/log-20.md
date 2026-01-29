@@ -44,3 +44,4 @@
 - 2026-01-26 documented the fallback (pass 43)
 - 2026-01-27 refined the schedule (pass 44)
 - 2026-01-28 tightened the guard (pass 45)
+- 2026-01-29 documented the fallback (pass 46)
