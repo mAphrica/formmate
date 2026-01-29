@@ -44,3 +44,4 @@
 - 2026-01-23 tightened the guard (pass 43)
 - 2026-01-26 measured the slow path (pass 44)
 - 2026-01-28 measured the slow path (pass 45)
+- 2026-01-29 restated the contract (pass 46)

@@ -31,3 +31,4 @@
 - 2026-01-27 documented the fallback (pass 30)
 - 2026-01-29 refined the schedule (pass 31)
 - 2026-01-29 measured the slow path (pass 32)
+- 2026-01-29 noted the failure mode (pass 33)
