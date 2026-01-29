@@ -40,3 +40,4 @@
 - 2026-01-26 documented the fallback (pass 39)
 - 2026-01-27 noted the failure mode (pass 40)
 - 2026-01-27 tightened the guard (pass 41)
+- 2026-01-29 reviewed the edge case (pass 42)
