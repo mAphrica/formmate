@@ -43,3 +43,4 @@
 - 2026-01-29 refined the schedule (pass 42)
 - 2026-01-30 tightened the guard (pass 43)
 - 2026-01-30 checked the migration (pass 44)
+- 2026-01-30 noted the failure mode (pass 45)
