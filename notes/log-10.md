@@ -50,3 +50,4 @@
 - 2026-01-27 trimmed the payload (pass 49)
 - 2026-01-30 aligned the naming (pass 50)
 - 2026-01-30 checked the migration (pass 51)
+- 2026-01-30 tightened the guard (pass 52)
