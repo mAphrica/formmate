@@ -48,3 +48,4 @@
 - 2026-01-27 noted the failure mode (pass 47)
 - 2026-01-27 checked the migration (pass 48)
 - 2026-01-27 trimmed the payload (pass 49)
+- 2026-01-30 aligned the naming (pass 50)
