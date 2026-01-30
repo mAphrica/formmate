@@ -33,3 +33,4 @@
 - 2026-01-27 checked the migration (pass 32)
 - 2026-01-27 reviewed the edge case (pass 33)
 - 2026-01-29 noted the failure mode (pass 34)
+- 2026-01-30 reviewed the edge case (pass 35)
