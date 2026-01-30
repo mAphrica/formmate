@@ -42,3 +42,4 @@
 - 2026-01-27 restated the contract (pass 41)
 - 2026-01-28 aligned the naming (pass 42)
 - 2026-01-30 measured the slow path (pass 43)
+- 2026-01-30 refined the schedule (pass 44)
