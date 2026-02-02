@@ -59,3 +59,4 @@
 - 2026-01-29 noted the failure mode (pass 58)
 - 2026-01-29 documented the fallback (pass 59)
 - 2026-01-29 aligned the naming (pass 60)
+- 2026-02-02 measured the slow path (pass 61)
