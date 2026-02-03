@@ -43,3 +43,4 @@
 - 2026-01-27 reviewed the edge case (pass 42)
 - 2026-01-27 aligned the naming (pass 43)
 - 2026-01-29 aligned the naming (pass 44)
+- 2026-02-03 documented the fallback (pass 45)
