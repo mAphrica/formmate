@@ -41,3 +41,4 @@
 - 2026-02-02 tightened the guard (pass 40)
 - 2026-02-03 checked the migration (pass 41)
 - 2026-02-03 documented the fallback (pass 42)
+- 2026-02-03 tightened the guard (pass 43)
