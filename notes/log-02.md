@@ -45,3 +45,4 @@
 - 2026-01-29 aligned the naming (pass 44)
 - 2026-02-03 documented the fallback (pass 45)
 - 2026-02-03 checked the migration (pass 46)
+- 2026-02-03 documented the fallback (pass 47)
