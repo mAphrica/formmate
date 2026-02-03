@@ -39,3 +39,4 @@
 - 2026-01-29 restated the contract (pass 38)
 - 2026-01-30 aligned the naming (pass 39)
 - 2026-01-30 noted the failure mode (pass 40)
+- 2026-02-03 restated the contract (pass 41)
