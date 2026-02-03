@@ -35,3 +35,4 @@
 - 2026-01-29 noted the failure mode (pass 34)
 - 2026-01-30 reviewed the edge case (pass 35)
 - 2026-02-02 refined the schedule (pass 36)
+- 2026-02-03 restated the contract (pass 37)

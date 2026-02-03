@@ -42,3 +42,4 @@
 - 2026-01-29 tightened the guard (pass 41)
 - 2026-01-29 noted the failure mode (pass 42)
 - 2026-02-02 noted the failure mode (pass 43)
+- 2026-02-03 trimmed the payload (pass 44)
