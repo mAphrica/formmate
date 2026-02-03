@@ -61,3 +61,4 @@
 - 2026-01-29 aligned the naming (pass 60)
 - 2026-02-02 measured the slow path (pass 61)
 - 2026-02-02 refined the schedule (pass 62)
+- 2026-02-03 noted the failure mode (pass 63)
