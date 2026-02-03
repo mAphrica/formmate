@@ -48,3 +48,4 @@
 - 2026-02-03 trimmed the payload (pass 47)
 - 2026-02-03 refined the schedule (pass 48)
 - 2026-02-03 refined the schedule (pass 49)
+- 2026-02-03 noted the failure mode (pass 50)

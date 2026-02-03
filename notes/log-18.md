@@ -33,3 +33,4 @@
 - 2026-02-03 refined the schedule (pass 32)
 - 2026-02-03 tightened the guard (pass 33)
 - 2026-02-03 restated the contract (pass 34)
+- 2026-02-03 tightened the guard (pass 35)
