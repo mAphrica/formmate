@@ -45,3 +45,4 @@
 - 2026-02-03 trimmed the payload (pass 44)
 - 2026-02-03 checked the migration (pass 45)
 - 2026-02-03 refined the schedule (pass 46)
+- 2026-02-03 noted the failure mode (pass 47)

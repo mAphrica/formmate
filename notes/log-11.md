@@ -33,3 +33,4 @@
 - 2026-01-29 measured the slow path (pass 32)
 - 2026-01-29 noted the failure mode (pass 33)
 - 2026-02-03 reviewed the edge case (pass 34)
+- 2026-02-03 checked the migration (pass 35)
