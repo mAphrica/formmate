@@ -44,3 +44,4 @@
 - 2026-01-29 checked the migration (pass 43)
 - 2026-01-30 checked the migration (pass 44)
 - 2026-01-30 trimmed the payload (pass 45)
+- 2026-02-03 reviewed the edge case (pass 46)
