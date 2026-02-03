@@ -40,3 +40,4 @@
 - 2026-01-30 trimmed the payload (pass 39)
 - 2026-02-02 tightened the guard (pass 40)
 - 2026-02-03 checked the migration (pass 41)
+- 2026-02-03 documented the fallback (pass 42)
