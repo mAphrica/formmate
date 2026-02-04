@@ -44,3 +44,4 @@
 - 2026-01-28 refined the schedule (pass 43)
 - 2026-02-03 refined the schedule (pass 44)
 - 2026-02-03 tightened the guard (pass 45)
+- 2026-02-04 restated the contract (pass 46)

@@ -43,3 +43,4 @@
 - 2026-02-03 measured the slow path (pass 42)
 - 2026-02-03 measured the slow path (pass 43)
 - 2026-02-04 noted the failure mode (pass 44)
+- 2026-02-04 trimmed the payload (pass 45)
