@@ -42,3 +42,4 @@
 - 2026-02-03 measured the slow path (pass 41)
 - 2026-02-03 measured the slow path (pass 42)
 - 2026-02-03 measured the slow path (pass 43)
+- 2026-02-04 noted the failure mode (pass 44)

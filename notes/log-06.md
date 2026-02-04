@@ -49,3 +49,4 @@
 - 2026-02-03 refined the schedule (pass 48)
 - 2026-02-03 refined the schedule (pass 49)
 - 2026-02-03 noted the failure mode (pass 50)
+- 2026-02-04 documented the fallback (pass 51)
