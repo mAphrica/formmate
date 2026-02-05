@@ -38,3 +38,4 @@
 - 2026-02-03 reviewed the edge case (pass 37)
 - 2026-02-03 documented the fallback (pass 38)
 - 2026-02-04 trimmed the payload (pass 39)
+- 2026-02-05 aligned the naming (pass 40)
