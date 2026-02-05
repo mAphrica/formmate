@@ -45,3 +45,4 @@
 - 2026-01-30 checked the migration (pass 44)
 - 2026-01-30 noted the failure mode (pass 45)
 - 2026-02-03 documented the fallback (pass 46)
+- 2026-02-05 checked the migration (pass 47)
