@@ -51,3 +51,4 @@
 - 2026-02-05 documented the fallback (pass 50)
 - 2026-02-06 tightened the guard (pass 51)
 - 2026-02-06 restated the contract (pass 52)
+- 2026-02-06 measured the slow path (pass 53)
