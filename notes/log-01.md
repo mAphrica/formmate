@@ -47,3 +47,4 @@
 - 2026-02-03 documented the fallback (pass 46)
 - 2026-02-05 checked the migration (pass 47)
 - 2026-02-06 measured the slow path (pass 48)
+- 2026-02-06 trimmed the payload (pass 49)
