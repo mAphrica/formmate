@@ -51,3 +51,4 @@
 - 2026-02-03 noted the failure mode (pass 50)
 - 2026-02-04 documented the fallback (pass 51)
 - 2026-02-05 noted the failure mode (pass 52)
+- 2026-02-06 tightened the guard (pass 53)
