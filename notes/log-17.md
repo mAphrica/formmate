@@ -45,3 +45,4 @@
 - 2026-02-03 trimmed the payload (pass 44)
 - 2026-02-03 refined the schedule (pass 45)
 - 2026-02-04 measured the slow path (pass 46)
+- 2026-02-06 checked the migration (pass 47)
