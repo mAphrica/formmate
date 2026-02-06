@@ -52,3 +52,4 @@
 - 2026-02-06 tightened the guard (pass 51)
 - 2026-02-06 restated the contract (pass 52)
 - 2026-02-06 measured the slow path (pass 53)
+- 2026-02-06 noted the failure mode (pass 54)

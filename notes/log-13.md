@@ -57,3 +57,4 @@
 - 2026-02-03 tightened the guard (pass 56)
 - 2026-02-06 restated the contract (pass 57)
 - 2026-02-06 documented the fallback (pass 58)
+- 2026-02-06 aligned the naming (pass 59)
