@@ -55,3 +55,4 @@
 - 2026-02-05 noted the failure mode (pass 54)
 - 2026-02-05 checked the migration (pass 55)
 - 2026-02-06 aligned the naming (pass 56)
+- 2026-02-06 checked the migration (pass 57)
