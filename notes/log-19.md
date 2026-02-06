@@ -70,3 +70,4 @@
 - 2026-02-06 measured the slow path (pass 69)
 - 2026-02-06 checked the migration (pass 70)
 - 2026-02-06 tightened the guard (pass 71)
+- 2026-02-06 measured the slow path (pass 72)
