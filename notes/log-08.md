@@ -49,3 +49,4 @@
 - 2026-02-06 tightened the guard (pass 48)
 - 2026-02-06 trimmed the payload (pass 49)
 - 2026-02-06 measured the slow path (pass 50)
+- 2026-02-07 documented the fallback (pass 51)
