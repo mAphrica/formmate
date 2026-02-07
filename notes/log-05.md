@@ -52,3 +52,4 @@
 - 2026-02-06 tightened the guard (pass 51)
 - 2026-02-06 refined the schedule (pass 52)
 - 2026-02-07 checked the migration (pass 53)
+- 2026-02-07 documented the fallback (pass 54)

@@ -54,3 +54,4 @@
 - 2026-02-06 documented the fallback (pass 53)
 - 2026-02-06 tightened the guard (pass 54)
 - 2026-02-06 trimmed the payload (pass 55)
+- 2026-02-07 noted the failure mode (pass 56)
