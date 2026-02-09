@@ -41,3 +41,4 @@
 - 2026-02-06 aligned the naming (pass 40)
 - 2026-02-06 measured the slow path (pass 41)
 - 2026-02-06 documented the fallback (pass 42)
+- 2026-02-09 measured the slow path (pass 43)
