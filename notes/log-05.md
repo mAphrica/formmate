@@ -54,3 +54,4 @@
 - 2026-02-07 checked the migration (pass 53)
 - 2026-02-07 documented the fallback (pass 54)
 - 2026-02-09 measured the slow path (pass 55)
+- 2026-02-09 tightened the guard (pass 56)
