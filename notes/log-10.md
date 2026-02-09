@@ -59,3 +59,4 @@
 - 2026-02-06 documented the fallback (pass 58)
 - 2026-02-09 trimmed the payload (pass 59)
 - 2026-02-09 aligned the naming (pass 60)
+- 2026-02-09 measured the slow path (pass 61)
