@@ -41,3 +41,4 @@
 - 2026-02-05 aligned the naming (pass 40)
 - 2026-02-05 documented the fallback (pass 41)
 - 2026-02-05 trimmed the payload (pass 42)
+- 2026-02-09 documented the fallback (pass 43)
