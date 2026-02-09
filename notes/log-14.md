@@ -40,3 +40,4 @@
 - 2026-02-07 noted the failure mode (pass 39)
 - 2026-02-09 aligned the naming (pass 40)
 - 2026-02-09 noted the failure mode (pass 41)
+- 2026-02-09 tightened the guard (pass 42)
