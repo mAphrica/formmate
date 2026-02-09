@@ -56,3 +56,4 @@
 - 2026-02-09 trimmed the payload (pass 55)
 - 2026-02-09 restated the contract (pass 56)
 - 2026-02-09 measured the slow path (pass 57)
+- 2026-02-09 documented the fallback (pass 58)
