@@ -38,3 +38,4 @@
 - 2026-02-06 refined the schedule (pass 37)
 - 2026-02-06 checked the migration (pass 38)
 - 2026-02-07 trimmed the payload (pass 39)
+- 2026-02-09 tightened the guard (pass 40)
