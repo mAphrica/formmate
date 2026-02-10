@@ -74,3 +74,4 @@
 - 2026-02-07 checked the migration (pass 73)
 - 2026-02-09 aligned the naming (pass 74)
 - 2026-02-09 measured the slow path (pass 75)
+- 2026-02-10 trimmed the payload (pass 76)
