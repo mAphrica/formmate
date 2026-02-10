@@ -52,3 +52,4 @@
 - 2026-02-09 documented the fallback (pass 51)
 - 2026-02-09 tightened the guard (pass 52)
 - 2026-02-10 restated the contract (pass 53)
+- 2026-02-10 noted the failure mode (pass 54)
