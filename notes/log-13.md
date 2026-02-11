@@ -63,3 +63,4 @@
 - 2026-02-09 trimmed the payload (pass 62)
 - 2026-02-09 refined the schedule (pass 63)
 - 2026-02-09 documented the fallback (pass 64)
+- 2026-02-11 noted the failure mode (pass 65)

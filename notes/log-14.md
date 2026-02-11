@@ -41,3 +41,4 @@
 - 2026-02-09 aligned the naming (pass 40)
 - 2026-02-09 noted the failure mode (pass 41)
 - 2026-02-09 tightened the guard (pass 42)
+- 2026-02-11 restated the contract (pass 43)
