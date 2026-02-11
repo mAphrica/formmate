@@ -56,3 +56,4 @@
 - 2026-02-09 reviewed the edge case (pass 55)
 - 2026-02-09 refined the schedule (pass 56)
 - 2026-02-10 documented the fallback (pass 57)
+- 2026-02-11 tightened the guard (pass 58)
