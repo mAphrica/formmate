@@ -60,3 +60,4 @@
 - 2026-02-06 refined the schedule (pass 59)
 - 2026-02-09 noted the failure mode (pass 60)
 - 2026-02-09 tightened the guard (pass 61)
+- 2026-02-11 measured the slow path (pass 62)
