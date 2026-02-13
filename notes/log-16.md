@@ -53,3 +53,4 @@
 - 2026-02-09 noted the failure mode (pass 52)
 - 2026-02-09 measured the slow path (pass 53)
 - 2026-02-11 documented the fallback (pass 54)
+- 2026-02-13 tightened the guard (pass 55)
