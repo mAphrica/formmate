@@ -55,3 +55,4 @@
 - 2026-02-11 documented the fallback (pass 54)
 - 2026-02-13 tightened the guard (pass 55)
 - 2026-02-17 noted the failure mode (pass 56)
+- 2026-02-17 aligned the naming (pass 57)
