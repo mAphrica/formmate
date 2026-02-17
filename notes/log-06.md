@@ -59,3 +59,4 @@
 - 2026-02-11 tightened the guard (pass 58)
 - 2026-02-11 noted the failure mode (pass 59)
 - 2026-02-13 aligned the naming (pass 60)
+- 2026-02-17 tightened the guard (pass 61)
