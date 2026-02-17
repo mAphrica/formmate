@@ -46,3 +46,4 @@
 - 2026-02-10 restated the contract (pass 45)
 - 2026-02-11 noted the failure mode (pass 46)
 - 2026-02-11 noted the failure mode (pass 47)
+- 2026-02-17 trimmed the payload (pass 48)
