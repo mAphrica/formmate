@@ -49,3 +49,4 @@
 - 2026-02-09 measured the slow path (pass 48)
 - 2026-02-11 checked the migration (pass 49)
 - 2026-02-11 trimmed the payload (pass 50)
+- 2026-02-17 noted the failure mode (pass 51)
