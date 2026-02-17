@@ -44,3 +44,4 @@
 - 2026-02-11 restated the contract (pass 43)
 - 2026-02-11 refined the schedule (pass 44)
 - 2026-02-17 restated the contract (pass 45)
+- 2026-02-17 documented the fallback (pass 46)
