@@ -57,3 +57,4 @@
 - 2026-02-09 tightened the guard (pass 56)
 - 2026-02-09 checked the migration (pass 57)
 - 2026-02-10 noted the failure mode (pass 58)
+- 2026-02-17 noted the failure mode (pass 59)
