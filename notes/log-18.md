@@ -42,3 +42,4 @@
 - 2026-02-10 tightened the guard (pass 41)
 - 2026-02-17 noted the failure mode (pass 42)
 - 2026-02-17 restated the contract (pass 43)
+- 2026-02-20 tightened the guard (pass 44)
