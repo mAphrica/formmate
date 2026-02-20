@@ -45,3 +45,4 @@
 - 2026-02-20 tightened the guard (pass 44)
 - 2026-02-20 reviewed the edge case (pass 45)
 - 2026-02-20 reviewed the edge case (pass 46)
+- 2026-02-20 aligned the naming (pass 47)

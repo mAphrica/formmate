@@ -57,3 +57,4 @@
 - 2026-02-17 noted the failure mode (pass 56)
 - 2026-02-17 aligned the naming (pass 57)
 - 2026-02-20 restated the contract (pass 58)
+- 2026-02-20 measured the slow path (pass 59)
