@@ -60,3 +60,4 @@
 - 2026-02-17 noted the failure mode (pass 59)
 - 2026-02-17 refined the schedule (pass 60)
 - 2026-02-20 trimmed the payload (pass 61)
+- 2026-02-20 restated the contract (pass 62)
