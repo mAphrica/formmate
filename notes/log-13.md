@@ -66,3 +66,4 @@
 - 2026-02-11 noted the failure mode (pass 65)
 - 2026-02-17 measured the slow path (pass 66)
 - 2026-02-17 trimmed the payload (pass 67)
+- 2026-02-20 tightened the guard (pass 68)
