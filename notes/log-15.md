@@ -54,3 +54,4 @@
 - 2026-02-10 trimmed the payload (pass 53)
 - 2026-02-17 refined the schedule (pass 54)
 - 2026-02-17 documented the fallback (pass 55)
+- 2026-02-20 restated the contract (pass 56)
