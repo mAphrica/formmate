@@ -82,3 +82,4 @@
 - 2026-02-20 checked the migration (pass 81)
 - 2026-02-21 reviewed the edge case (pass 82)
 - 2026-02-21 tightened the guard (pass 83)
+- 2026-02-21 aligned the naming (pass 84)
