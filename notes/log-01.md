@@ -58,3 +58,4 @@
 - 2026-02-17 measured the slow path (pass 57)
 - 2026-02-20 reviewed the edge case (pass 58)
 - 2026-02-20 tightened the guard (pass 59)
+- 2026-02-21 documented the fallback (pass 60)
