@@ -58,3 +58,4 @@
 - 2026-02-17 aligned the naming (pass 57)
 - 2026-02-20 restated the contract (pass 58)
 - 2026-02-20 measured the slow path (pass 59)
+- 2026-02-21 documented the fallback (pass 60)

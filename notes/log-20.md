@@ -64,3 +64,4 @@
 - 2026-02-17 restated the contract (pass 63)
 - 2026-02-21 restated the contract (pass 64)
 - 2026-02-21 measured the slow path (pass 65)
+- 2026-02-21 trimmed the payload (pass 66)
