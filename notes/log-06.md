@@ -65,3 +65,4 @@
 - 2026-02-20 refined the schedule (pass 64)
 - 2026-02-20 checked the migration (pass 65)
 - 2026-02-20 refined the schedule (pass 66)
+- 2026-02-21 restated the contract (pass 67)
