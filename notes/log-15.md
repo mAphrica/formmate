@@ -58,3 +58,4 @@
 - 2026-02-21 restated the contract (pass 57)
 - 2026-02-24 measured the slow path (pass 58)
 - 2026-02-24 measured the slow path (pass 59)
+- 2026-02-24 documented the fallback (pass 60)
