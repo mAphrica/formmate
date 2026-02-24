@@ -65,3 +65,4 @@
 - 2026-02-17 restated the contract (pass 64)
 - 2026-02-17 restated the contract (pass 65)
 - 2026-02-24 refined the schedule (pass 66)
+- 2026-02-24 noted the failure mode (pass 67)
