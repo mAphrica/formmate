@@ -47,3 +47,4 @@
 - 2026-02-17 documented the fallback (pass 46)
 - 2026-02-21 checked the migration (pass 47)
 - 2026-02-24 noted the failure mode (pass 48)
+- 2026-02-24 aligned the naming (pass 49)
