@@ -68,3 +68,4 @@
 - 2026-02-20 reviewed the edge case (pass 67)
 - 2026-02-21 tightened the guard (pass 68)
 - 2026-02-24 aligned the naming (pass 69)
+- 2026-02-24 trimmed the payload (pass 70)
