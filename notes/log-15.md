@@ -61,3 +61,4 @@
 - 2026-02-24 documented the fallback (pass 60)
 - 2026-02-24 restated the contract (pass 61)
 - 2026-02-24 tightened the guard (pass 62)
+- 2026-02-24 checked the migration (pass 63)
