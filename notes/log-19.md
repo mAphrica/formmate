@@ -83,3 +83,4 @@
 - 2026-02-21 reviewed the edge case (pass 82)
 - 2026-02-21 tightened the guard (pass 83)
 - 2026-02-21 aligned the naming (pass 84)
+- 2026-02-24 measured the slow path (pass 85)
