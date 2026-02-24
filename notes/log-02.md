@@ -62,3 +62,4 @@
 - 2026-02-17 trimmed the payload (pass 61)
 - 2026-02-17 tightened the guard (pass 62)
 - 2026-02-21 documented the fallback (pass 63)
+- 2026-02-24 aligned the naming (pass 64)
