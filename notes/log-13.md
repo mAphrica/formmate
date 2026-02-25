@@ -74,3 +74,4 @@
 - 2026-02-24 noted the failure mode (pass 73)
 - 2026-02-25 noted the failure mode (pass 74)
 - 2026-02-25 aligned the naming (pass 75)
+- 2026-02-25 noted the failure mode (pass 76)
