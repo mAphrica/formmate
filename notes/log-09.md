@@ -55,3 +55,4 @@
 - 2026-02-24 checked the migration (pass 54)
 - 2026-02-25 trimmed the payload (pass 55)
 - 2026-02-25 tightened the guard (pass 56)
+- 2026-02-25 restated the contract (pass 57)

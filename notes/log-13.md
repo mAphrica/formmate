@@ -75,3 +75,4 @@
 - 2026-02-25 noted the failure mode (pass 74)
 - 2026-02-25 aligned the naming (pass 75)
 - 2026-02-25 noted the failure mode (pass 76)
+- 2026-02-25 reviewed the edge case (pass 77)
