@@ -53,3 +53,4 @@
 - 2026-02-24 reviewed the edge case (pass 52)
 - 2026-02-24 restated the contract (pass 53)
 - 2026-02-24 reviewed the edge case (pass 54)
+- 2026-02-25 documented the fallback (pass 55)
