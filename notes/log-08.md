@@ -62,3 +62,4 @@
 - 2026-02-24 aligned the naming (pass 61)
 - 2026-02-24 aligned the naming (pass 62)
 - 2026-02-25 aligned the naming (pass 63)
+- 2026-02-25 documented the fallback (pass 64)

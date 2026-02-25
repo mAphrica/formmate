@@ -88,3 +88,4 @@
 - 2026-02-25 reviewed the edge case (pass 87)
 - 2026-02-25 documented the fallback (pass 88)
 - 2026-02-25 documented the fallback (pass 89)
+- 2026-02-25 restated the contract (pass 90)
