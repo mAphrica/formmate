@@ -87,3 +87,4 @@
 - 2026-02-24 checked the migration (pass 86)
 - 2026-02-25 reviewed the edge case (pass 87)
 - 2026-02-25 documented the fallback (pass 88)
+- 2026-02-25 documented the fallback (pass 89)

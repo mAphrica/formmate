@@ -48,3 +48,4 @@
 - 2026-02-21 checked the migration (pass 47)
 - 2026-02-24 noted the failure mode (pass 48)
 - 2026-02-24 aligned the naming (pass 49)
+- 2026-02-25 checked the migration (pass 50)
