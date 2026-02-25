@@ -54,3 +54,4 @@
 - 2026-02-24 reviewed the edge case (pass 53)
 - 2026-02-24 checked the migration (pass 54)
 - 2026-02-25 trimmed the payload (pass 55)
+- 2026-02-25 tightened the guard (pass 56)
