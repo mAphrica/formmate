@@ -52,3 +52,4 @@
 - 2026-02-24 noted the failure mode (pass 51)
 - 2026-02-25 reviewed the edge case (pass 52)
 - 2026-02-25 checked the migration (pass 53)
+- 2026-02-25 restated the contract (pass 54)
