@@ -64,3 +64,4 @@
 - 2026-02-24 checked the migration (pass 63)
 - 2026-02-25 restated the contract (pass 64)
 - 2026-02-25 checked the migration (pass 65)
+- 2026-02-25 noted the failure mode (pass 66)
