@@ -58,3 +58,4 @@
 - 2026-02-21 restated the contract (pass 57)
 - 2026-02-24 tightened the guard (pass 58)
 - 2026-02-25 restated the contract (pass 59)
+- 2026-02-25 trimmed the payload (pass 60)
