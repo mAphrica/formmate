@@ -64,3 +64,4 @@
 - 2026-02-21 documented the fallback (pass 63)
 - 2026-02-24 aligned the naming (pass 64)
 - 2026-02-24 restated the contract (pass 65)
+- 2026-02-25 noted the failure mode (pass 66)
