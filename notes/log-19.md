@@ -85,3 +85,4 @@
 - 2026-02-21 aligned the naming (pass 84)
 - 2026-02-24 measured the slow path (pass 85)
 - 2026-02-24 checked the migration (pass 86)
+- 2026-02-25 reviewed the edge case (pass 87)

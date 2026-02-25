@@ -50,3 +50,4 @@
 - 2026-02-21 aligned the naming (pass 49)
 - 2026-02-24 tightened the guard (pass 50)
 - 2026-02-24 noted the failure mode (pass 51)
+- 2026-02-25 reviewed the edge case (pass 52)
