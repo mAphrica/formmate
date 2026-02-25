@@ -70,3 +70,4 @@
 - 2026-02-24 reviewed the edge case (pass 69)
 - 2026-02-25 noted the failure mode (pass 70)
 - 2026-02-25 noted the failure mode (pass 71)
+- 2026-02-25 trimmed the payload (pass 72)

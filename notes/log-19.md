@@ -91,3 +91,4 @@
 - 2026-02-25 restated the contract (pass 90)
 - 2026-02-25 checked the migration (pass 91)
 - 2026-02-25 documented the fallback (pass 92)
+- 2026-02-25 checked the migration (pass 93)
