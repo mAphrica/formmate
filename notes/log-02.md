@@ -66,3 +66,4 @@
 - 2026-02-24 restated the contract (pass 65)
 - 2026-02-25 noted the failure mode (pass 66)
 - 2026-02-25 documented the fallback (pass 67)
+- 2026-02-26 measured the slow path (pass 68)
