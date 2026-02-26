@@ -59,3 +59,4 @@
 - 2026-02-24 tightened the guard (pass 58)
 - 2026-02-25 restated the contract (pass 59)
 - 2026-02-25 trimmed the payload (pass 60)
+- 2026-02-26 noted the failure mode (pass 61)
