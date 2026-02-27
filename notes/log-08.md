@@ -64,3 +64,4 @@
 - 2026-02-25 aligned the naming (pass 63)
 - 2026-02-25 documented the fallback (pass 64)
 - 2026-02-26 noted the failure mode (pass 65)
+- 2026-02-27 trimmed the payload (pass 66)
