@@ -65,3 +65,4 @@
 - 2026-02-25 documented the fallback (pass 64)
 - 2026-02-26 restated the contract (pass 65)
 - 2026-02-27 refined the schedule (pass 66)
+- 2026-03-02 noted the failure mode (pass 67)
