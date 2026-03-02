@@ -63,3 +63,4 @@
 - 2026-02-25 measured the slow path (pass 62)
 - 2026-02-25 refined the schedule (pass 63)
 - 2026-02-25 restated the contract (pass 64)
+- 2026-03-02 documented the fallback (pass 65)
