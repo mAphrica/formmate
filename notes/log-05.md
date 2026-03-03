@@ -65,3 +65,4 @@
 - 2026-02-24 reviewed the edge case (pass 64)
 - 2026-02-25 trimmed the payload (pass 65)
 - 2026-02-25 aligned the naming (pass 66)
+- 2026-03-03 checked the migration (pass 67)

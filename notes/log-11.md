@@ -56,3 +56,4 @@
 - 2026-02-25 reviewed the edge case (pass 55)
 - 2026-02-25 documented the fallback (pass 56)
 - 2026-02-25 aligned the naming (pass 57)
+- 2026-03-03 trimmed the payload (pass 58)
