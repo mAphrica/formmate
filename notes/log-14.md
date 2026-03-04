@@ -51,3 +51,4 @@
 - 2026-02-25 checked the migration (pass 50)
 - 2026-02-26 documented the fallback (pass 51)
 - 2026-03-04 noted the failure mode (pass 52)
+- 2026-03-04 restated the contract (pass 53)

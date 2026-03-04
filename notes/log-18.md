@@ -48,3 +48,4 @@
 - 2026-02-20 aligned the naming (pass 47)
 - 2026-02-21 trimmed the payload (pass 48)
 - 2026-02-24 noted the failure mode (pass 49)
+- 2026-03-04 documented the fallback (pass 50)

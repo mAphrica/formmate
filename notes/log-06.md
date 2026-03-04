@@ -69,3 +69,4 @@
 - 2026-02-24 reviewed the edge case (pass 68)
 - 2026-02-25 trimmed the payload (pass 69)
 - 2026-03-03 documented the fallback (pass 70)
+- 2026-03-04 measured the slow path (pass 71)
