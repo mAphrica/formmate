@@ -77,3 +77,4 @@
 - 2026-02-25 noted the failure mode (pass 76)
 - 2026-02-25 reviewed the edge case (pass 77)
 - 2026-03-02 measured the slow path (pass 78)
+- 2026-03-04 reviewed the edge case (pass 79)
