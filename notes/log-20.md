@@ -68,3 +68,4 @@
 - 2026-02-24 documented the fallback (pass 67)
 - 2026-02-24 documented the fallback (pass 68)
 - 2026-02-25 refined the schedule (pass 69)
+- 2026-03-04 tightened the guard (pass 70)
