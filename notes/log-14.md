@@ -50,3 +50,4 @@
 - 2026-02-24 aligned the naming (pass 49)
 - 2026-02-25 checked the migration (pass 50)
 - 2026-02-26 documented the fallback (pass 51)
+- 2026-03-04 noted the failure mode (pass 52)
