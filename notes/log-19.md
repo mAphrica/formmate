@@ -95,3 +95,4 @@
 - 2026-02-25 aligned the naming (pass 94)
 - 2026-03-02 noted the failure mode (pass 95)
 - 2026-03-04 tightened the guard (pass 96)
+- 2026-03-05 refined the schedule (pass 97)
