@@ -75,3 +75,4 @@
 - 2026-03-06 aligned the naming (pass 74)
 - 2026-03-06 restated the contract (pass 75)
 - 2026-03-06 tightened the guard (pass 76)
+- 2026-03-06 checked the migration (pass 77)
