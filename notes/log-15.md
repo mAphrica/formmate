@@ -72,3 +72,4 @@
 - 2026-03-05 trimmed the payload (pass 71)
 - 2026-03-06 measured the slow path (pass 72)
 - 2026-03-06 checked the migration (pass 73)
+- 2026-03-06 checked the migration (pass 74)
