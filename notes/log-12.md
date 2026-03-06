@@ -55,3 +55,4 @@
 - 2026-02-24 reviewed the edge case (pass 54)
 - 2026-02-25 documented the fallback (pass 55)
 - 2026-03-04 documented the fallback (pass 56)
+- 2026-03-06 tightened the guard (pass 57)
