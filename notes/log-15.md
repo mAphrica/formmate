@@ -70,3 +70,4 @@
 - 2026-03-03 trimmed the payload (pass 69)
 - 2026-03-03 aligned the naming (pass 70)
 - 2026-03-05 trimmed the payload (pass 71)
+- 2026-03-06 measured the slow path (pass 72)

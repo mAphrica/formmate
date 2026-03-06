@@ -69,3 +69,4 @@
 - 2026-02-26 measured the slow path (pass 68)
 - 2026-03-03 measured the slow path (pass 69)
 - 2026-03-04 checked the migration (pass 70)
+- 2026-03-06 reviewed the edge case (pass 71)
