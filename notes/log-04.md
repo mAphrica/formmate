@@ -75,3 +75,4 @@
 - 2026-03-04 noted the failure mode (pass 74)
 - 2026-03-04 noted the failure mode (pass 75)
 - 2026-03-05 tightened the guard (pass 76)
+- 2026-03-06 reviewed the edge case (pass 77)
