@@ -73,3 +73,4 @@
 - 2026-02-25 trimmed the payload (pass 72)
 - 2026-02-26 refined the schedule (pass 73)
 - 2026-03-06 aligned the naming (pass 74)
+- 2026-03-06 restated the contract (pass 75)
