@@ -83,3 +83,4 @@
 - 2026-03-09 restated the contract (pass 82)
 - 2026-03-09 refined the schedule (pass 83)
 - 2026-03-09 refined the schedule (pass 84)
+- 2026-03-09 tightened the guard (pass 85)

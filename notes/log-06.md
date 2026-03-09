@@ -73,3 +73,4 @@
 - 2026-03-04 documented the fallback (pass 72)
 - 2026-03-04 measured the slow path (pass 73)
 - 2026-03-09 reviewed the edge case (pass 74)
+- 2026-03-09 measured the slow path (pass 75)
