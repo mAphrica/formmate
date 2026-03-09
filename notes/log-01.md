@@ -76,3 +76,4 @@
 - 2026-03-09 noted the failure mode (pass 75)
 - 2026-03-09 documented the fallback (pass 76)
 - 2026-03-09 documented the fallback (pass 77)
+- 2026-03-09 reviewed the edge case (pass 78)
