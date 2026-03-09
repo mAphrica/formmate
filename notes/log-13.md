@@ -80,3 +80,4 @@
 - 2026-03-04 reviewed the edge case (pass 79)
 - 2026-03-05 documented the fallback (pass 80)
 - 2026-03-06 refined the schedule (pass 81)
+- 2026-03-09 restated the contract (pass 82)

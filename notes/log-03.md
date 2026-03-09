@@ -76,3 +76,4 @@
 - 2026-03-06 restated the contract (pass 75)
 - 2026-03-06 tightened the guard (pass 76)
 - 2026-03-06 checked the migration (pass 77)
+- 2026-03-09 measured the slow path (pass 78)
