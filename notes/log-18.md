@@ -52,3 +52,4 @@
 - 2026-03-05 restated the contract (pass 51)
 - 2026-03-06 refined the schedule (pass 52)
 - 2026-03-06 refined the schedule (pass 53)
+- 2026-03-09 documented the fallback (pass 54)
