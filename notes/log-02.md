@@ -71,3 +71,4 @@
 - 2026-03-04 checked the migration (pass 70)
 - 2026-03-06 reviewed the edge case (pass 71)
 - 2026-03-10 documented the fallback (pass 72)
+- 2026-03-10 trimmed the payload (pass 73)
