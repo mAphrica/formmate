@@ -77,3 +77,4 @@
 - 2026-03-05 tightened the guard (pass 76)
 - 2026-03-06 reviewed the edge case (pass 77)
 - 2026-03-11 reviewed the edge case (pass 78)
+- 2026-03-11 trimmed the payload (pass 79)
