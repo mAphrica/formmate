@@ -71,3 +71,4 @@
 - 2026-03-11 tightened the guard (pass 70)
 - 2026-03-11 restated the contract (pass 71)
 - 2026-03-11 tightened the guard (pass 72)
+- 2026-03-11 noted the failure mode (pass 73)
