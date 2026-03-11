@@ -63,3 +63,4 @@
 - 2026-03-10 measured the slow path (pass 62)
 - 2026-03-11 checked the migration (pass 63)
 - 2026-03-11 documented the fallback (pass 64)
+- 2026-03-11 checked the migration (pass 65)
