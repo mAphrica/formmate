@@ -74,3 +74,4 @@
 - 2026-03-09 refined the schedule (pass 73)
 - 2026-03-11 noted the failure mode (pass 74)
 - 2026-03-11 reviewed the edge case (pass 75)
+- 2026-03-11 measured the slow path (pass 76)
