@@ -65,3 +65,4 @@
 - 2026-03-11 documented the fallback (pass 64)
 - 2026-03-11 checked the migration (pass 65)
 - 2026-03-11 reviewed the edge case (pass 66)
+- 2026-03-11 restated the contract (pass 67)
