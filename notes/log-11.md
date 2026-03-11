@@ -58,3 +58,4 @@
 - 2026-02-25 aligned the naming (pass 57)
 - 2026-03-03 trimmed the payload (pass 58)
 - 2026-03-05 trimmed the payload (pass 59)
+- 2026-03-11 noted the failure mode (pass 60)
