@@ -79,3 +79,4 @@
 - 2026-03-09 measured the slow path (pass 78)
 - 2026-03-11 restated the contract (pass 79)
 - 2026-03-11 trimmed the payload (pass 80)
+- 2026-03-11 noted the failure mode (pass 81)
