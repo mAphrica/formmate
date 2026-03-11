@@ -59,3 +59,4 @@
 - 2026-03-06 checked the migration (pass 58)
 - 2026-03-09 documented the fallback (pass 59)
 - 2026-03-11 tightened the guard (pass 60)
+- 2026-03-11 aligned the naming (pass 61)

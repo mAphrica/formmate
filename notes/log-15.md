@@ -80,3 +80,4 @@
 - 2026-03-10 aligned the naming (pass 79)
 - 2026-03-11 checked the migration (pass 80)
 - 2026-03-11 noted the failure mode (pass 81)
+- 2026-03-11 tightened the guard (pass 82)
