@@ -71,3 +71,4 @@
 - 2026-03-04 tightened the guard (pass 70)
 - 2026-03-05 documented the fallback (pass 71)
 - 2026-03-09 noted the failure mode (pass 72)
+- 2026-03-11 refined the schedule (pass 73)
