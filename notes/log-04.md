@@ -82,3 +82,4 @@
 - 2026-03-12 tightened the guard (pass 81)
 - 2026-03-12 trimmed the payload (pass 82)
 - 2026-03-12 tightened the guard (pass 83)
+- 2026-03-12 aligned the naming (pass 84)
