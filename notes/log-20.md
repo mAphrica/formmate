@@ -73,3 +73,4 @@
 - 2026-03-09 noted the failure mode (pass 72)
 - 2026-03-11 refined the schedule (pass 73)
 - 2026-03-11 noted the failure mode (pass 74)
+- 2026-03-12 documented the fallback (pass 75)
