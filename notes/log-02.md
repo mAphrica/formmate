@@ -77,3 +77,4 @@
 - 2026-03-11 refined the schedule (pass 76)
 - 2026-03-11 checked the migration (pass 77)
 - 2026-03-12 noted the failure mode (pass 78)
+- 2026-03-12 checked the migration (pass 79)
