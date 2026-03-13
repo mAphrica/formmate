@@ -78,3 +78,4 @@
 - 2026-03-11 checked the migration (pass 77)
 - 2026-03-12 noted the failure mode (pass 78)
 - 2026-03-12 checked the migration (pass 79)
+- 2026-03-13 reviewed the edge case (pass 80)
