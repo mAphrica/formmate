@@ -67,3 +67,4 @@
 - 2026-03-13 noted the failure mode (pass 66)
 - 2026-03-13 restated the contract (pass 67)
 - 2026-03-13 checked the migration (pass 68)
+- 2026-03-13 trimmed the payload (pass 69)
