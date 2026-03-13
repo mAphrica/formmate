@@ -80,3 +80,4 @@
 - 2026-03-11 reviewed the edge case (pass 79)
 - 2026-03-12 trimmed the payload (pass 80)
 - 2026-03-12 documented the fallback (pass 81)
+- 2026-03-13 tightened the guard (pass 82)
