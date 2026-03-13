@@ -70,3 +70,4 @@
 - 2026-03-12 measured the slow path (pass 69)
 - 2026-03-12 checked the migration (pass 70)
 - 2026-03-13 noted the failure mode (pass 71)
+- 2026-03-13 measured the slow path (pass 72)
