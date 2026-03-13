@@ -90,3 +90,4 @@
 - 2026-03-13 checked the migration (pass 89)
 - 2026-03-13 checked the migration (pass 90)
 - 2026-03-13 restated the contract (pass 91)
+- 2026-03-13 noted the failure mode (pass 92)
