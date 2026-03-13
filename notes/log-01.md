@@ -83,3 +83,4 @@
 - 2026-03-13 tightened the guard (pass 82)
 - 2026-03-13 measured the slow path (pass 83)
 - 2026-03-13 tightened the guard (pass 84)
+- 2026-03-13 checked the migration (pass 85)
