@@ -85,3 +85,4 @@
 - 2026-03-12 aligned the naming (pass 84)
 - 2026-03-13 measured the slow path (pass 85)
 - 2026-03-13 aligned the naming (pass 86)
+- 2026-03-13 trimmed the payload (pass 87)
