@@ -80,3 +80,4 @@
 - 2026-03-12 measured the slow path (pass 79)
 - 2026-03-13 trimmed the payload (pass 80)
 - 2026-03-14 noted the failure mode (pass 81)
+- 2026-03-14 tightened the guard (pass 82)
