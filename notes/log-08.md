@@ -78,3 +78,4 @@
 - 2026-03-12 documented the fallback (pass 77)
 - 2026-03-13 measured the slow path (pass 78)
 - 2026-03-14 documented the fallback (pass 79)
+- 2026-03-14 noted the failure mode (pass 80)
