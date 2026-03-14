@@ -75,3 +75,4 @@
 - 2026-03-13 noted the failure mode (pass 74)
 - 2026-03-14 measured the slow path (pass 75)
 - 2026-03-14 measured the slow path (pass 76)
+- 2026-03-14 noted the failure mode (pass 77)
