@@ -69,3 +69,4 @@
 - 2026-03-13 checked the migration (pass 68)
 - 2026-03-13 trimmed the payload (pass 69)
 - 2026-03-14 noted the failure mode (pass 70)
+- 2026-03-14 noted the failure mode (pass 71)

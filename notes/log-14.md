@@ -75,3 +75,4 @@
 - 2026-03-14 trimmed the payload (pass 74)
 - 2026-03-14 trimmed the payload (pass 75)
 - 2026-03-14 reviewed the edge case (pass 76)
+- 2026-03-14 measured the slow path (pass 77)
