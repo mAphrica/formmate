@@ -80,3 +80,4 @@
 - 2026-03-12 checked the migration (pass 79)
 - 2026-03-13 reviewed the edge case (pass 80)
 - 2026-03-13 aligned the naming (pass 81)
+- 2026-03-14 documented the fallback (pass 82)
