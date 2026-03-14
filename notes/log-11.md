@@ -66,3 +66,4 @@
 - 2026-03-13 documented the fallback (pass 65)
 - 2026-03-13 aligned the naming (pass 66)
 - 2026-03-13 reviewed the edge case (pass 67)
+- 2026-03-14 trimmed the payload (pass 68)
