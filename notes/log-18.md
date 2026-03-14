@@ -65,3 +65,4 @@
 - 2026-03-13 measured the slow path (pass 64)
 - 2026-03-14 refined the schedule (pass 65)
 - 2026-03-14 checked the migration (pass 66)
+- 2026-03-14 restated the contract (pass 67)

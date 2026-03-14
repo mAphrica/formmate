@@ -88,3 +88,4 @@
 - 2026-03-13 trimmed the payload (pass 87)
 - 2026-03-13 restated the contract (pass 88)
 - 2026-03-13 noted the failure mode (pass 89)
+- 2026-03-14 reviewed the edge case (pass 90)
