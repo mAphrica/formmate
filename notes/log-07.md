@@ -73,3 +73,4 @@
 - 2026-03-13 aligned the naming (pass 72)
 - 2026-03-13 aligned the naming (pass 73)
 - 2026-03-13 noted the failure mode (pass 74)
+- 2026-03-14 measured the slow path (pass 75)
