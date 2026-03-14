@@ -79,3 +79,4 @@
 - 2026-03-12 measured the slow path (pass 78)
 - 2026-03-13 tightened the guard (pass 79)
 - 2026-03-14 measured the slow path (pass 80)
+- 2026-03-14 documented the fallback (pass 81)
