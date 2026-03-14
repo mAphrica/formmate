@@ -87,3 +87,4 @@
 - 2026-03-14 measured the slow path (pass 86)
 - 2026-03-14 restated the contract (pass 87)
 - 2026-03-14 measured the slow path (pass 88)
+- 2026-03-14 refined the schedule (pass 89)
