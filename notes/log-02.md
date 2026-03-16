@@ -82,3 +82,4 @@
 - 2026-03-13 aligned the naming (pass 81)
 - 2026-03-14 documented the fallback (pass 82)
 - 2026-03-14 measured the slow path (pass 83)
+- 2026-03-16 noted the failure mode (pass 84)
