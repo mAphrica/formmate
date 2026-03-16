@@ -70,3 +70,4 @@
 - 2026-03-13 trimmed the payload (pass 69)
 - 2026-03-14 noted the failure mode (pass 70)
 - 2026-03-14 noted the failure mode (pass 71)
+- 2026-03-16 documented the fallback (pass 72)

@@ -77,3 +77,4 @@
 - 2026-03-14 reviewed the edge case (pass 76)
 - 2026-03-14 measured the slow path (pass 77)
 - 2026-03-16 reviewed the edge case (pass 78)
+- 2026-03-16 restated the contract (pass 79)
