@@ -72,3 +72,4 @@
 - 2026-03-14 noted the failure mode (pass 71)
 - 2026-03-16 documented the fallback (pass 72)
 - 2026-03-16 noted the failure mode (pass 73)
+- 2026-03-16 restated the contract (pass 74)
