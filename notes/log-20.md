@@ -86,3 +86,4 @@
 - 2026-03-16 documented the fallback (pass 85)
 - 2026-03-16 noted the failure mode (pass 86)
 - 2026-03-16 tightened the guard (pass 87)
+- 2026-03-16 trimmed the payload (pass 88)
