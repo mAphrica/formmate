@@ -80,3 +80,4 @@
 - 2026-03-16 restated the contract (pass 79)
 - 2026-03-16 aligned the naming (pass 80)
 - 2026-03-16 aligned the naming (pass 81)
+- 2026-03-16 noted the failure mode (pass 82)
