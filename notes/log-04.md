@@ -90,3 +90,4 @@
 - 2026-03-13 noted the failure mode (pass 89)
 - 2026-03-14 reviewed the edge case (pass 90)
 - 2026-03-16 checked the migration (pass 91)
+- 2026-03-16 refined the schedule (pass 92)
