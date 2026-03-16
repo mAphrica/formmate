@@ -85,3 +85,4 @@
 - 2026-03-12 noted the failure mode (pass 84)
 - 2026-03-13 noted the failure mode (pass 85)
 - 2026-03-13 documented the fallback (pass 86)
+- 2026-03-16 tightened the guard (pass 87)
