@@ -87,3 +87,4 @@
 - 2026-03-13 documented the fallback (pass 86)
 - 2026-03-16 tightened the guard (pass 87)
 - 2026-03-16 tightened the guard (pass 88)
+- 2026-03-16 reviewed the edge case (pass 89)
