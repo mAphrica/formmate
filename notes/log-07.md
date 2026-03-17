@@ -82,3 +82,4 @@
 - 2026-03-16 checked the migration (pass 81)
 - 2026-03-16 checked the migration (pass 82)
 - 2026-03-16 documented the fallback (pass 83)
+- 2026-03-17 aligned the naming (pass 84)
