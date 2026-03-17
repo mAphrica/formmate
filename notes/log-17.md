@@ -86,3 +86,4 @@
 - 2026-03-16 documented the fallback (pass 85)
 - 2026-03-16 trimmed the payload (pass 86)
 - 2026-03-16 restated the contract (pass 87)
+- 2026-03-17 aligned the naming (pass 88)
