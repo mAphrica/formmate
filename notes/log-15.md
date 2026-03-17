@@ -90,3 +90,4 @@
 - 2026-03-16 reviewed the edge case (pass 89)
 - 2026-03-16 tightened the guard (pass 90)
 - 2026-03-17 documented the fallback (pass 91)
+- 2026-03-17 refined the schedule (pass 92)
