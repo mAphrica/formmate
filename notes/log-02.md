@@ -88,3 +88,4 @@
 - 2026-03-16 checked the migration (pass 87)
 - 2026-03-17 reviewed the edge case (pass 88)
 - 2026-03-17 aligned the naming (pass 89)
+- 2026-03-18 restated the contract (pass 90)
