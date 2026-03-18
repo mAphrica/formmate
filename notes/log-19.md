@@ -107,3 +107,4 @@
 - 2026-03-14 tightened the guard (pass 106)
 - 2026-03-16 documented the fallback (pass 107)
 - 2026-03-16 tightened the guard (pass 108)
+- 2026-03-18 documented the fallback (pass 109)
