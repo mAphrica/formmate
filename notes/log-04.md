@@ -93,3 +93,4 @@
 - 2026-03-16 refined the schedule (pass 92)
 - 2026-03-17 documented the fallback (pass 93)
 - 2026-03-17 restated the contract (pass 94)
+- 2026-03-18 measured the slow path (pass 95)
