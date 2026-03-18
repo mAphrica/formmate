@@ -85,3 +85,4 @@
 - 2026-03-18 reviewed the edge case (pass 84)
 - 2026-03-18 measured the slow path (pass 85)
 - 2026-03-18 restated the contract (pass 86)
+- 2026-03-18 aligned the naming (pass 87)
