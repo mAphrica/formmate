@@ -110,3 +110,4 @@
 - 2026-03-18 documented the fallback (pass 109)
 - 2026-03-18 trimmed the payload (pass 110)
 - 2026-03-19 reviewed the edge case (pass 111)
+- 2026-03-19 aligned the naming (pass 112)

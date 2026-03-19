@@ -84,3 +84,4 @@
 - 2026-03-16 documented the fallback (pass 83)
 - 2026-03-17 aligned the naming (pass 84)
 - 2026-03-17 noted the failure mode (pass 85)
+- 2026-03-19 refined the schedule (pass 86)
