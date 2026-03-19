@@ -93,3 +93,4 @@
 - 2026-03-18 noted the failure mode (pass 92)
 - 2026-03-19 documented the fallback (pass 93)
 - 2026-03-19 trimmed the payload (pass 94)
+- 2026-03-19 measured the slow path (pass 95)
