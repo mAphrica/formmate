@@ -91,3 +91,4 @@
 - 2026-03-16 restated the contract (pass 90)
 - 2026-03-16 refined the schedule (pass 91)
 - 2026-03-18 noted the failure mode (pass 92)
+- 2026-03-19 documented the fallback (pass 93)
