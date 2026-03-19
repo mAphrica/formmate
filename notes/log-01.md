@@ -95,3 +95,4 @@
 - 2026-03-16 noted the failure mode (pass 94)
 - 2026-03-19 trimmed the payload (pass 95)
 - 2026-03-19 noted the failure mode (pass 96)
+- 2026-03-19 aligned the naming (pass 97)
