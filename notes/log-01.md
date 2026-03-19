@@ -94,3 +94,4 @@
 - 2026-03-16 documented the fallback (pass 93)
 - 2026-03-16 noted the failure mode (pass 94)
 - 2026-03-19 trimmed the payload (pass 95)
+- 2026-03-19 noted the failure mode (pass 96)
