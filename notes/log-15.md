@@ -96,3 +96,4 @@
 - 2026-03-19 noted the failure mode (pass 95)
 - 2026-03-19 restated the contract (pass 96)
 - 2026-03-19 tightened the guard (pass 97)
+- 2026-03-19 noted the failure mode (pass 98)

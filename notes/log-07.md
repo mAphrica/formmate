@@ -86,3 +86,4 @@
 - 2026-03-17 noted the failure mode (pass 85)
 - 2026-03-19 refined the schedule (pass 86)
 - 2026-03-19 restated the contract (pass 87)
+- 2026-03-19 checked the migration (pass 88)
