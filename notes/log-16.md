@@ -87,3 +87,4 @@
 - 2026-03-18 restated the contract (pass 86)
 - 2026-03-18 aligned the naming (pass 87)
 - 2026-03-19 trimmed the payload (pass 88)
+- 2026-03-19 noted the failure mode (pass 89)
