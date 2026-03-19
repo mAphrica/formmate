@@ -99,3 +99,4 @@
 - 2026-03-19 noted the failure mode (pass 98)
 - 2026-03-19 noted the failure mode (pass 99)
 - 2026-03-19 checked the migration (pass 100)
+- 2026-03-19 reviewed the edge case (pass 101)
