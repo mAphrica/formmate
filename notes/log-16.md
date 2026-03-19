@@ -86,3 +86,4 @@
 - 2026-03-18 measured the slow path (pass 85)
 - 2026-03-18 restated the contract (pass 86)
 - 2026-03-18 aligned the naming (pass 87)
+- 2026-03-19 trimmed the payload (pass 88)
