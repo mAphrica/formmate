@@ -102,3 +102,4 @@
 - 2026-03-19 reviewed the edge case (pass 101)
 - 2026-03-19 measured the slow path (pass 102)
 - 2026-03-19 noted the failure mode (pass 103)
+- 2026-03-19 documented the fallback (pass 104)
