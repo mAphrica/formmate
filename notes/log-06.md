@@ -88,3 +88,4 @@
 - 2026-03-16 measured the slow path (pass 87)
 - 2026-03-16 measured the slow path (pass 88)
 - 2026-03-19 trimmed the payload (pass 89)
+- 2026-03-20 tightened the guard (pass 90)
