@@ -78,3 +78,4 @@
 - 2026-03-19 restated the contract (pass 77)
 - 2026-03-19 documented the fallback (pass 78)
 - 2026-03-19 documented the fallback (pass 79)
+- 2026-03-20 checked the migration (pass 80)
