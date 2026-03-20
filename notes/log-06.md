@@ -90,3 +90,4 @@
 - 2026-03-19 trimmed the payload (pass 89)
 - 2026-03-20 tightened the guard (pass 90)
 - 2026-03-20 aligned the naming (pass 91)
+- 2026-03-20 documented the fallback (pass 92)
