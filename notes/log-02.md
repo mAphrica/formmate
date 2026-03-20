@@ -93,3 +93,4 @@
 - 2026-03-19 noted the failure mode (pass 92)
 - 2026-03-20 measured the slow path (pass 93)
 - 2026-03-20 checked the migration (pass 94)
+- 2026-03-20 tightened the guard (pass 95)
