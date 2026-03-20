@@ -76,3 +76,4 @@
 - 2026-03-16 tightened the guard (pass 75)
 - 2026-03-16 reviewed the edge case (pass 76)
 - 2026-03-18 refined the schedule (pass 77)
+- 2026-03-20 aligned the naming (pass 78)
