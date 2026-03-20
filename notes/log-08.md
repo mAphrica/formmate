@@ -88,3 +88,4 @@
 - 2026-03-19 restated the contract (pass 87)
 - 2026-03-20 checked the migration (pass 88)
 - 2026-03-20 measured the slow path (pass 89)
+- 2026-03-20 refined the schedule (pass 90)
