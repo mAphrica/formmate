@@ -91,3 +91,4 @@
 - 2026-03-18 restated the contract (pass 90)
 - 2026-03-19 aligned the naming (pass 91)
 - 2026-03-19 noted the failure mode (pass 92)
+- 2026-03-20 measured the slow path (pass 93)
