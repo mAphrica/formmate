@@ -92,3 +92,4 @@
 - 2026-03-20 aligned the naming (pass 91)
 - 2026-03-20 documented the fallback (pass 92)
 - 2026-03-20 trimmed the payload (pass 93)
+- 2026-03-23 documented the fallback (pass 94)
