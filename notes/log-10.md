@@ -89,3 +89,4 @@
 - 2026-03-18 documented the fallback (pass 88)
 - 2026-03-19 noted the failure mode (pass 89)
 - 2026-03-19 aligned the naming (pass 90)
+- 2026-03-23 trimmed the payload (pass 91)
