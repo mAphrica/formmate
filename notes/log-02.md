@@ -94,3 +94,4 @@
 - 2026-03-20 measured the slow path (pass 93)
 - 2026-03-20 checked the migration (pass 94)
 - 2026-03-20 tightened the guard (pass 95)
+- 2026-03-23 reviewed the edge case (pass 96)
