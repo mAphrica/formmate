@@ -90,3 +90,4 @@
 - 2026-03-20 trimmed the payload (pass 89)
 - 2026-03-23 reviewed the edge case (pass 90)
 - 2026-03-23 aligned the naming (pass 91)
+- 2026-03-24 documented the fallback (pass 92)
