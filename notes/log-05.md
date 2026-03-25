@@ -94,3 +94,4 @@
 - 2026-03-19 aligned the naming (pass 93)
 - 2026-03-20 trimmed the payload (pass 94)
 - 2026-03-20 restated the contract (pass 95)
+- 2026-03-25 checked the migration (pass 96)

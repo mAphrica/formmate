@@ -80,3 +80,4 @@
 - 2026-03-19 documented the fallback (pass 79)
 - 2026-03-20 checked the migration (pass 80)
 - 2026-03-20 trimmed the payload (pass 81)
+- 2026-03-25 aligned the naming (pass 82)
