@@ -117,3 +117,4 @@
 - 2026-03-20 tightened the guard (pass 116)
 - 2026-03-20 tightened the guard (pass 117)
 - 2026-03-20 checked the migration (pass 118)
+- 2026-03-25 documented the fallback (pass 119)
