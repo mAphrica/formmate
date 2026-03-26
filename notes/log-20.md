@@ -94,3 +94,4 @@
 - 2026-03-20 aligned the naming (pass 93)
 - 2026-03-20 checked the migration (pass 94)
 - 2026-03-25 reviewed the edge case (pass 95)
+- 2026-03-26 tightened the guard (pass 96)

@@ -100,3 +100,4 @@
 - 2026-03-23 restated the contract (pass 99)
 - 2026-03-23 refined the schedule (pass 100)
 - 2026-03-25 documented the fallback (pass 101)
+- 2026-03-26 aligned the naming (pass 102)
