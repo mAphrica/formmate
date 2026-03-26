@@ -90,3 +90,4 @@
 - 2026-03-19 noted the failure mode (pass 89)
 - 2026-03-19 checked the migration (pass 90)
 - 2026-03-26 checked the migration (pass 91)
+- 2026-03-26 checked the migration (pass 92)
