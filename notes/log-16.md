@@ -92,3 +92,4 @@
 - 2026-03-26 checked the migration (pass 91)
 - 2026-03-26 checked the migration (pass 92)
 - 2026-03-26 reviewed the edge case (pass 93)
+- 2026-03-26 tightened the guard (pass 94)
