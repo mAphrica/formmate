@@ -78,3 +78,4 @@
 - 2026-03-18 refined the schedule (pass 77)
 - 2026-03-20 aligned the naming (pass 78)
 - 2026-03-20 documented the fallback (pass 79)
+- 2026-03-26 trimmed the payload (pass 80)
