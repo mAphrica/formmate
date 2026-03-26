@@ -80,3 +80,4 @@
 - 2026-03-20 trimmed the payload (pass 79)
 - 2026-03-25 refined the schedule (pass 80)
 - 2026-03-25 documented the fallback (pass 81)
+- 2026-03-26 checked the migration (pass 82)
