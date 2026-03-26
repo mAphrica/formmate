@@ -103,3 +103,4 @@
 - 2026-03-26 aligned the naming (pass 102)
 - 2026-03-26 tightened the guard (pass 103)
 - 2026-03-26 checked the migration (pass 104)
+- 2026-03-26 reviewed the edge case (pass 105)
