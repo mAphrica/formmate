@@ -97,3 +97,4 @@
 - 2026-03-20 checked the migration (pass 96)
 - 2026-03-23 documented the fallback (pass 97)
 - 2026-03-23 refined the schedule (pass 98)
+- 2026-03-26 documented the fallback (pass 99)
