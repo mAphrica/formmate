@@ -93,3 +93,4 @@
 - 2026-03-20 reviewed the edge case (pass 92)
 - 2026-03-26 tightened the guard (pass 93)
 - 2026-03-26 aligned the naming (pass 94)
+- 2026-03-26 documented the fallback (pass 95)
