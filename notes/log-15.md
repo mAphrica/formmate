@@ -106,3 +106,4 @@
 - 2026-03-20 documented the fallback (pass 105)
 - 2026-03-20 trimmed the payload (pass 106)
 - 2026-03-20 refined the schedule (pass 107)
+- 2026-03-26 aligned the naming (pass 108)
