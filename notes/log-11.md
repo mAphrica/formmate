@@ -85,3 +85,4 @@
 - 2026-03-27 measured the slow path (pass 84)
 - 2026-03-27 tightened the guard (pass 85)
 - 2026-03-27 noted the failure mode (pass 86)
+- 2026-03-27 noted the failure mode (pass 87)
