@@ -110,3 +110,4 @@
 - 2026-03-27 refined the schedule (pass 109)
 - 2026-03-27 measured the slow path (pass 110)
 - 2026-03-27 documented the fallback (pass 111)
+- 2026-03-27 measured the slow path (pass 112)

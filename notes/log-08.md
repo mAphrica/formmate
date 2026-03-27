@@ -95,3 +95,4 @@
 - 2026-03-25 checked the migration (pass 94)
 - 2026-03-26 restated the contract (pass 95)
 - 2026-03-26 trimmed the payload (pass 96)
+- 2026-03-27 restated the contract (pass 97)
