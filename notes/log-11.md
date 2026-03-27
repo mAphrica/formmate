@@ -83,3 +83,4 @@
 - 2026-03-25 aligned the naming (pass 82)
 - 2026-03-26 restated the contract (pass 83)
 - 2026-03-27 measured the slow path (pass 84)
+- 2026-03-27 tightened the guard (pass 85)
