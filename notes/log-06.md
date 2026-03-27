@@ -96,3 +96,4 @@
 - 2026-03-25 noted the failure mode (pass 95)
 - 2026-03-26 refined the schedule (pass 96)
 - 2026-03-26 measured the slow path (pass 97)
+- 2026-03-27 measured the slow path (pass 98)
