@@ -98,3 +98,4 @@
 - 2026-03-27 restated the contract (pass 97)
 - 2026-03-27 documented the fallback (pass 98)
 - 2026-03-27 restated the contract (pass 99)
+- 2026-03-27 tightened the guard (pass 100)
