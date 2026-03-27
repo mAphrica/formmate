@@ -104,3 +104,4 @@
 - 2026-03-27 noted the failure mode (pass 103)
 - 2026-03-27 restated the contract (pass 104)
 - 2026-03-27 aligned the naming (pass 105)
+- 2026-03-27 checked the migration (pass 106)

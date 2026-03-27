@@ -101,3 +101,4 @@
 - 2026-03-26 aligned the naming (pass 100)
 - 2026-03-27 documented the fallback (pass 101)
 - 2026-03-27 measured the slow path (pass 102)
+- 2026-03-27 reviewed the edge case (pass 103)
