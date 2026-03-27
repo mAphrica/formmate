@@ -120,3 +120,4 @@
 - 2026-03-25 documented the fallback (pass 119)
 - 2026-03-26 documented the fallback (pass 120)
 - 2026-03-26 noted the failure mode (pass 121)
+- 2026-03-27 aligned the naming (pass 122)
