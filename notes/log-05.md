@@ -97,3 +97,4 @@
 - 2026-03-25 checked the migration (pass 96)
 - 2026-03-26 aligned the naming (pass 97)
 - 2026-03-27 measured the slow path (pass 98)
+- 2026-03-27 refined the schedule (pass 99)
