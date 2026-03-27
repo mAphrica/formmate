@@ -106,3 +106,4 @@
 - 2026-03-23 reviewed the edge case (pass 105)
 - 2026-03-26 refined the schedule (pass 106)
 - 2026-03-26 trimmed the payload (pass 107)
+- 2026-03-27 noted the failure mode (pass 108)

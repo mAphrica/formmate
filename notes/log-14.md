@@ -99,3 +99,4 @@
 - 2026-03-23 refined the schedule (pass 98)
 - 2026-03-26 documented the fallback (pass 99)
 - 2026-03-26 aligned the naming (pass 100)
+- 2026-03-27 documented the fallback (pass 101)
