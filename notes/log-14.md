@@ -103,3 +103,4 @@
 - 2026-03-27 measured the slow path (pass 102)
 - 2026-03-27 reviewed the edge case (pass 103)
 - 2026-03-27 tightened the guard (pass 104)
+- 2026-03-27 noted the failure mode (pass 105)
