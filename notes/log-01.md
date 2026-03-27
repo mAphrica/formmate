@@ -102,3 +102,4 @@
 - 2026-03-25 documented the fallback (pass 101)
 - 2026-03-26 aligned the naming (pass 102)
 - 2026-03-27 noted the failure mode (pass 103)
+- 2026-03-27 restated the contract (pass 104)

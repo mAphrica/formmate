@@ -81,3 +81,4 @@
 - 2026-03-25 trimmed the payload (pass 80)
 - 2026-03-26 measured the slow path (pass 81)
 - 2026-03-26 tightened the guard (pass 82)
+- 2026-03-27 documented the fallback (pass 83)

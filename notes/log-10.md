@@ -94,3 +94,4 @@
 - 2026-03-26 checked the migration (pass 93)
 - 2026-03-26 noted the failure mode (pass 94)
 - 2026-03-27 noted the failure mode (pass 95)
+- 2026-03-27 documented the fallback (pass 96)
