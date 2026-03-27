@@ -96,3 +96,4 @@
 - 2026-03-20 tightened the guard (pass 95)
 - 2026-03-23 reviewed the edge case (pass 96)
 - 2026-03-27 documented the fallback (pass 97)
+- 2026-03-27 checked the migration (pass 98)
