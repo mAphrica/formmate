@@ -98,3 +98,4 @@
 - 2026-03-26 documented the fallback (pass 97)
 - 2026-03-27 aligned the naming (pass 98)
 - 2026-03-27 measured the slow path (pass 99)
+- 2026-03-31 documented the fallback (pass 100)
