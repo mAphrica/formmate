@@ -83,3 +83,4 @@
 - 2026-03-27 refined the schedule (pass 82)
 - 2026-03-27 reviewed the edge case (pass 83)
 - 2026-03-31 aligned the naming (pass 84)
+- 2026-03-31 trimmed the payload (pass 85)
