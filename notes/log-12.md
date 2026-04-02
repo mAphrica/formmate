@@ -87,3 +87,4 @@
 - 2026-04-02 checked the migration (pass 86)
 - 2026-04-02 trimmed the payload (pass 87)
 - 2026-04-02 reviewed the edge case (pass 88)
+- 2026-04-02 tightened the guard (pass 89)

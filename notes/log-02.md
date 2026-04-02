@@ -98,3 +98,4 @@
 - 2026-03-27 documented the fallback (pass 97)
 - 2026-03-27 checked the migration (pass 98)
 - 2026-04-02 documented the fallback (pass 99)
+- 2026-04-02 reviewed the edge case (pass 100)
