@@ -114,3 +114,4 @@
 - 2026-03-27 aligned the naming (pass 113)
 - 2026-03-31 refined the schedule (pass 114)
 - 2026-04-01 trimmed the payload (pass 115)
+- 2026-04-02 noted the failure mode (pass 116)

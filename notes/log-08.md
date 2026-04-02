@@ -100,3 +100,4 @@
 - 2026-03-27 restated the contract (pass 99)
 - 2026-03-27 tightened the guard (pass 100)
 - 2026-04-01 restated the contract (pass 101)
+- 2026-04-02 reviewed the edge case (pass 102)
