@@ -110,3 +110,4 @@
 - 2026-04-02 reviewed the edge case (pass 109)
 - 2026-04-02 aligned the naming (pass 110)
 - 2026-04-02 tightened the guard (pass 111)
+- 2026-04-02 tightened the guard (pass 112)
