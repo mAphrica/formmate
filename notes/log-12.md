@@ -85,3 +85,4 @@
 - 2026-03-31 aligned the naming (pass 84)
 - 2026-03-31 trimmed the payload (pass 85)
 - 2026-04-02 checked the migration (pass 86)
+- 2026-04-02 trimmed the payload (pass 87)
