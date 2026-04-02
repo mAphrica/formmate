@@ -83,3 +83,4 @@
 - 2026-03-26 checked the migration (pass 82)
 - 2026-03-26 trimmed the payload (pass 83)
 - 2026-03-26 tightened the guard (pass 84)
+- 2026-04-02 restated the contract (pass 85)
