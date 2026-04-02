@@ -99,3 +99,4 @@
 - 2026-03-27 tightened the guard (pass 98)
 - 2026-03-27 measured the slow path (pass 99)
 - 2026-03-27 documented the fallback (pass 100)
+- 2026-04-02 trimmed the payload (pass 101)
