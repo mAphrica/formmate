@@ -123,3 +123,4 @@
 - 2026-03-27 aligned the naming (pass 122)
 - 2026-04-02 tightened the guard (pass 123)
 - 2026-04-02 checked the migration (pass 124)
+- 2026-04-02 aligned the naming (pass 125)
