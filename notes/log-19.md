@@ -122,3 +122,4 @@
 - 2026-03-26 noted the failure mode (pass 121)
 - 2026-03-27 aligned the naming (pass 122)
 - 2026-04-02 tightened the guard (pass 123)
+- 2026-04-02 checked the migration (pass 124)

@@ -88,3 +88,4 @@
 - 2026-03-27 noted the failure mode (pass 87)
 - 2026-03-27 aligned the naming (pass 88)
 - 2026-03-31 refined the schedule (pass 89)
+- 2026-04-02 restated the contract (pass 90)
