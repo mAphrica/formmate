@@ -83,3 +83,4 @@
 - 2026-03-26 tightened the guard (pass 82)
 - 2026-03-27 documented the fallback (pass 83)
 - 2026-04-02 tightened the guard (pass 84)
+- 2026-04-02 trimmed the payload (pass 85)
