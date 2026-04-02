@@ -99,3 +99,4 @@
 - 2026-03-27 checked the migration (pass 98)
 - 2026-04-02 documented the fallback (pass 99)
 - 2026-04-02 reviewed the edge case (pass 100)
+- 2026-04-02 restated the contract (pass 101)

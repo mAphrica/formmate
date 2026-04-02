@@ -102,3 +102,4 @@
 - 2026-04-01 tightened the guard (pass 101)
 - 2026-04-02 documented the fallback (pass 102)
 - 2026-04-02 measured the slow path (pass 103)
+- 2026-04-02 checked the migration (pass 104)
