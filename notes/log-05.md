@@ -102,3 +102,4 @@
 - 2026-03-27 trimmed the payload (pass 101)
 - 2026-03-31 checked the migration (pass 102)
 - 2026-04-02 trimmed the payload (pass 103)
+- 2026-04-03 tightened the guard (pass 104)
