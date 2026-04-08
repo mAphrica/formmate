@@ -101,3 +101,4 @@
 - 2026-03-27 documented the fallback (pass 100)
 - 2026-04-02 trimmed the payload (pass 101)
 - 2026-04-02 tightened the guard (pass 102)
+- 2026-04-08 tightened the guard (pass 103)

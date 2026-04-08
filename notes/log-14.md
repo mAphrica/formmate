@@ -111,3 +111,4 @@
 - 2026-04-02 checked the migration (pass 110)
 - 2026-04-03 restated the contract (pass 111)
 - 2026-04-08 noted the failure mode (pass 112)
+- 2026-04-08 documented the fallback (pass 113)
