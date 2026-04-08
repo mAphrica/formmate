@@ -104,3 +104,4 @@
 - 2026-04-02 measured the slow path (pass 103)
 - 2026-04-02 documented the fallback (pass 104)
 - 2026-04-02 refined the schedule (pass 105)
+- 2026-04-08 refined the schedule (pass 106)

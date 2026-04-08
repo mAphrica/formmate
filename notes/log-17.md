@@ -102,3 +102,4 @@
 - 2026-04-02 aligned the naming (pass 101)
 - 2026-04-03 trimmed the payload (pass 102)
 - 2026-04-03 restated the contract (pass 103)
+- 2026-04-08 checked the migration (pass 104)
