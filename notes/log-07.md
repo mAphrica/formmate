@@ -100,3 +100,4 @@
 - 2026-03-27 refined the schedule (pass 99)
 - 2026-04-02 aligned the naming (pass 100)
 - 2026-04-02 reviewed the edge case (pass 101)
+- 2026-04-13 measured the slow path (pass 102)
