@@ -106,3 +106,4 @@
 - 2026-04-02 tightened the guard (pass 105)
 - 2026-04-03 refined the schedule (pass 106)
 - 2026-04-13 measured the slow path (pass 107)
+- 2026-04-13 restated the contract (pass 108)
