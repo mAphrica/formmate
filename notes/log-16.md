@@ -104,3 +104,4 @@
 - 2026-04-02 measured the slow path (pass 103)
 - 2026-04-02 checked the migration (pass 104)
 - 2026-04-03 documented the fallback (pass 105)
+- 2026-04-13 measured the slow path (pass 106)
