@@ -102,3 +102,4 @@
 - 2026-04-02 trimmed the payload (pass 101)
 - 2026-04-02 tightened the guard (pass 102)
 - 2026-04-08 tightened the guard (pass 103)
+- 2026-04-13 refined the schedule (pass 104)

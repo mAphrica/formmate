@@ -104,3 +104,4 @@
 - 2026-04-02 trimmed the payload (pass 103)
 - 2026-04-03 tightened the guard (pass 104)
 - 2026-04-08 noted the failure mode (pass 105)
+- 2026-04-13 noted the failure mode (pass 106)
