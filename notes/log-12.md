@@ -93,3 +93,4 @@
 - 2026-04-03 documented the fallback (pass 92)
 - 2026-04-08 aligned the naming (pass 93)
 - 2026-04-13 checked the migration (pass 94)
+- 2026-04-24 refined the schedule (pass 95)
