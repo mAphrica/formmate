@@ -109,3 +109,4 @@
 - 2026-04-24 reviewed the edge case (pass 108)
 - 2026-04-24 noted the failure mode (pass 109)
 - 2026-04-24 noted the failure mode (pass 110)
+- 2026-04-24 documented the fallback (pass 111)

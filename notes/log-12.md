@@ -94,3 +94,4 @@
 - 2026-04-08 aligned the naming (pass 93)
 - 2026-04-13 checked the migration (pass 94)
 - 2026-04-24 refined the schedule (pass 95)
+- 2026-04-24 tightened the guard (pass 96)
