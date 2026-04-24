@@ -87,3 +87,4 @@
 - 2026-04-03 reviewed the edge case (pass 86)
 - 2026-04-03 trimmed the payload (pass 87)
 - 2026-04-08 reviewed the edge case (pass 88)
+- 2026-04-24 restated the contract (pass 89)
