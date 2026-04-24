@@ -92,3 +92,4 @@
 - 2026-04-02 aligned the naming (pass 91)
 - 2026-04-02 noted the failure mode (pass 92)
 - 2026-04-02 reviewed the edge case (pass 93)
+- 2026-04-24 restated the contract (pass 94)
