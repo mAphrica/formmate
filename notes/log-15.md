@@ -117,3 +117,4 @@
 - 2026-04-02 noted the failure mode (pass 116)
 - 2026-04-02 aligned the naming (pass 117)
 - 2026-04-13 documented the fallback (pass 118)
+- 2026-04-24 reviewed the edge case (pass 119)
