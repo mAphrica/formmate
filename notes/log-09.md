@@ -86,3 +86,4 @@
 - 2026-04-02 restated the contract (pass 85)
 - 2026-04-08 checked the migration (pass 86)
 - 2026-04-10 trimmed the payload (pass 87)
+- 2026-04-24 reviewed the edge case (pass 88)
