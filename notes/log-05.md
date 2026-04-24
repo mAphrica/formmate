@@ -106,3 +106,4 @@
 - 2026-04-08 noted the failure mode (pass 105)
 - 2026-04-13 noted the failure mode (pass 106)
 - 2026-04-13 noted the failure mode (pass 107)
+- 2026-04-24 aligned the naming (pass 108)
