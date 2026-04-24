@@ -114,3 +114,4 @@
 - 2026-04-02 reviewed the edge case (pass 113)
 - 2026-04-13 trimmed the payload (pass 114)
 - 2026-04-24 refined the schedule (pass 115)
+- 2026-04-24 documented the fallback (pass 116)
