@@ -108,3 +108,4 @@
 - 2026-04-13 measured the slow path (pass 107)
 - 2026-04-13 restated the contract (pass 108)
 - 2026-04-13 checked the migration (pass 109)
+- 2026-04-24 noted the failure mode (pass 110)
