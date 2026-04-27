@@ -104,3 +104,4 @@
 - 2026-04-03 restated the contract (pass 103)
 - 2026-04-08 checked the migration (pass 104)
 - 2026-04-08 aligned the naming (pass 105)
+- 2026-04-27 refined the schedule (pass 106)
