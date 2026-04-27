@@ -116,3 +116,4 @@
 - 2026-04-13 tightened the guard (pass 115)
 - 2026-04-24 noted the failure mode (pass 116)
 - 2026-04-24 checked the migration (pass 117)
+- 2026-04-27 trimmed the payload (pass 118)

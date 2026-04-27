@@ -116,3 +116,4 @@
 - 2026-04-24 refined the schedule (pass 115)
 - 2026-04-24 documented the fallback (pass 116)
 - 2026-04-27 restated the contract (pass 117)
+- 2026-04-27 checked the migration (pass 118)
