@@ -104,3 +104,4 @@
 - 2026-04-08 tightened the guard (pass 103)
 - 2026-04-13 refined the schedule (pass 104)
 - 2026-04-27 measured the slow path (pass 105)
+- 2026-04-28 checked the migration (pass 106)

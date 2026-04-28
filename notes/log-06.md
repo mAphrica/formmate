@@ -106,3 +106,4 @@
 - 2026-04-02 refined the schedule (pass 105)
 - 2026-04-08 refined the schedule (pass 106)
 - 2026-04-27 refined the schedule (pass 107)
+- 2026-04-28 noted the failure mode (pass 108)

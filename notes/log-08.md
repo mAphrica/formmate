@@ -110,3 +110,4 @@
 - 2026-04-13 checked the migration (pass 109)
 - 2026-04-24 noted the failure mode (pass 110)
 - 2026-04-27 documented the fallback (pass 111)
+- 2026-04-28 refined the schedule (pass 112)
