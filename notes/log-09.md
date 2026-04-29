@@ -89,3 +89,4 @@
 - 2026-04-24 reviewed the edge case (pass 88)
 - 2026-04-28 aligned the naming (pass 89)
 - 2026-04-29 trimmed the payload (pass 90)
+- 2026-04-29 tightened the guard (pass 91)
