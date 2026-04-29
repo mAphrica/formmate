@@ -119,3 +119,4 @@
 - 2026-04-13 documented the fallback (pass 118)
 - 2026-04-24 reviewed the edge case (pass 119)
 - 2026-04-29 tightened the guard (pass 120)
+- 2026-04-29 trimmed the payload (pass 121)
