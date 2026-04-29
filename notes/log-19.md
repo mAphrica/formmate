@@ -128,3 +128,4 @@
 - 2026-04-03 noted the failure mode (pass 127)
 - 2026-04-03 aligned the naming (pass 128)
 - 2026-04-24 aligned the naming (pass 129)
+- 2026-04-29 documented the fallback (pass 130)
