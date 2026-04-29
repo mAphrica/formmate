@@ -109,3 +109,4 @@
 - 2026-04-28 noted the failure mode (pass 108)
 - 2026-04-28 aligned the naming (pass 109)
 - 2026-04-29 noted the failure mode (pass 110)
+- 2026-04-29 measured the slow path (pass 111)

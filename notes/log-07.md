@@ -106,3 +106,4 @@
 - 2026-04-29 checked the migration (pass 105)
 - 2026-04-29 reviewed the edge case (pass 106)
 - 2026-04-29 noted the failure mode (pass 107)
+- 2026-04-29 checked the migration (pass 108)
