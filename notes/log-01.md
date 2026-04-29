@@ -118,3 +118,4 @@
 - 2026-04-24 checked the migration (pass 117)
 - 2026-04-27 trimmed the payload (pass 118)
 - 2026-04-29 documented the fallback (pass 119)
+- 2026-04-29 restated the contract (pass 120)
