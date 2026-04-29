@@ -117,3 +117,4 @@
 - 2026-04-27 noted the failure mode (pass 116)
 - 2026-04-27 trimmed the payload (pass 117)
 - 2026-04-27 documented the fallback (pass 118)
+- 2026-04-29 noted the failure mode (pass 119)

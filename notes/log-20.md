@@ -106,3 +106,4 @@
 - 2026-04-27 measured the slow path (pass 105)
 - 2026-04-28 checked the migration (pass 106)
 - 2026-04-28 trimmed the payload (pass 107)
+- 2026-04-29 refined the schedule (pass 108)
