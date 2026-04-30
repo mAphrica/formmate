@@ -111,3 +111,4 @@
 - 2026-04-29 noted the failure mode (pass 110)
 - 2026-04-29 measured the slow path (pass 111)
 - 2026-04-30 documented the fallback (pass 112)
+- 2026-04-30 tightened the guard (pass 113)
