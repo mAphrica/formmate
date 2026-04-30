@@ -98,3 +98,4 @@
 - 2026-04-24 measured the slow path (pass 97)
 - 2026-04-28 restated the contract (pass 98)
 - 2026-04-28 tightened the guard (pass 99)
+- 2026-04-30 trimmed the payload (pass 100)
