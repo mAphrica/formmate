@@ -110,3 +110,4 @@
 - 2026-04-29 restated the contract (pass 109)
 - 2026-04-30 noted the failure mode (pass 110)
 - 2026-04-30 aligned the naming (pass 111)
+- 2026-04-30 trimmed the payload (pass 112)
