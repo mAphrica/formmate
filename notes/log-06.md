@@ -113,3 +113,4 @@
 - 2026-04-30 documented the fallback (pass 112)
 - 2026-04-30 tightened the guard (pass 113)
 - 2026-04-30 aligned the naming (pass 114)
+- 2026-04-30 refined the schedule (pass 115)
