@@ -100,3 +100,4 @@
 - 2026-04-28 tightened the guard (pass 99)
 - 2026-04-30 trimmed the payload (pass 100)
 - 2026-04-30 refined the schedule (pass 101)
+- 2026-05-01 restated the contract (pass 102)
