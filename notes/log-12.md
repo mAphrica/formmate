@@ -99,3 +99,4 @@
 - 2026-04-29 checked the migration (pass 98)
 - 2026-04-29 tightened the guard (pass 99)
 - 2026-04-29 restated the contract (pass 100)
+- 2026-05-01 documented the fallback (pass 101)
