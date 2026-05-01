@@ -119,3 +119,4 @@
 - 2026-04-27 checked the migration (pass 118)
 - 2026-04-29 documented the fallback (pass 119)
 - 2026-04-29 noted the failure mode (pass 120)
+- 2026-05-01 aligned the naming (pass 121)
