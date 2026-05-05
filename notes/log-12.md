@@ -101,3 +101,4 @@
 - 2026-04-29 restated the contract (pass 100)
 - 2026-05-01 documented the fallback (pass 101)
 - 2026-05-05 refined the schedule (pass 102)
+- 2026-05-05 trimmed the payload (pass 103)
