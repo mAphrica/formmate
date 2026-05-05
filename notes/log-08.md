@@ -112,3 +112,4 @@
 - 2026-04-27 documented the fallback (pass 111)
 - 2026-04-28 refined the schedule (pass 112)
 - 2026-04-29 tightened the guard (pass 113)
+- 2026-05-05 tightened the guard (pass 114)

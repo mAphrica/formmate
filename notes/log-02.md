@@ -114,3 +114,4 @@
 - 2026-04-30 reviewed the edge case (pass 113)
 - 2026-05-01 tightened the guard (pass 114)
 - 2026-05-01 reviewed the edge case (pass 115)
+- 2026-05-05 documented the fallback (pass 116)
