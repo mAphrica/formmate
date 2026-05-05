@@ -120,3 +120,4 @@
 - 2026-04-29 documented the fallback (pass 119)
 - 2026-04-29 restated the contract (pass 120)
 - 2026-05-01 tightened the guard (pass 121)
+- 2026-05-05 reviewed the edge case (pass 122)
