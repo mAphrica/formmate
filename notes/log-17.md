@@ -111,3 +111,4 @@
 - 2026-04-30 trimmed the payload (pass 110)
 - 2026-05-01 measured the slow path (pass 111)
 - 2026-05-05 aligned the naming (pass 112)
+- 2026-05-05 tightened the guard (pass 113)
