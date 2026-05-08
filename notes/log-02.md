@@ -116,3 +116,4 @@
 - 2026-05-01 reviewed the edge case (pass 115)
 - 2026-05-05 documented the fallback (pass 116)
 - 2026-05-05 measured the slow path (pass 117)
+- 2026-05-08 reviewed the edge case (pass 118)
