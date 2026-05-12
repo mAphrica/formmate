@@ -122,3 +122,4 @@
 - 2026-05-01 tightened the guard (pass 121)
 - 2026-05-05 reviewed the edge case (pass 122)
 - 2026-05-08 refined the schedule (pass 123)
+- 2026-05-12 noted the failure mode (pass 124)
