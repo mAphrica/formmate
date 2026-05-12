@@ -135,3 +135,4 @@
 - 2026-05-01 checked the migration (pass 134)
 - 2026-05-05 aligned the naming (pass 135)
 - 2026-05-05 noted the failure mode (pass 136)
+- 2026-05-12 refined the schedule (pass 137)
