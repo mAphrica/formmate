@@ -93,3 +93,4 @@
 - 2026-04-29 refined the schedule (pass 92)
 - 2026-04-30 tightened the guard (pass 93)
 - 2026-05-05 tightened the guard (pass 94)
+- 2026-05-12 checked the migration (pass 95)

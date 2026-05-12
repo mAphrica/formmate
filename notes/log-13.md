@@ -119,3 +119,4 @@
 - 2026-04-27 documented the fallback (pass 118)
 - 2026-04-29 noted the failure mode (pass 119)
 - 2026-04-30 refined the schedule (pass 120)
+- 2026-05-12 reviewed the edge case (pass 121)
