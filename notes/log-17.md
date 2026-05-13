@@ -117,3 +117,4 @@
 - 2026-05-13 restated the contract (pass 116)
 - 2026-05-13 tightened the guard (pass 117)
 - 2026-05-13 documented the fallback (pass 118)
+- 2026-05-13 tightened the guard (pass 119)
