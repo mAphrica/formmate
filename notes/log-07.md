@@ -111,3 +111,4 @@
 - 2026-04-30 noted the failure mode (pass 110)
 - 2026-04-30 noted the failure mode (pass 111)
 - 2026-05-01 measured the slow path (pass 112)
+- 2026-05-13 refined the schedule (pass 113)
