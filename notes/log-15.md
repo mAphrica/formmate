@@ -128,3 +128,4 @@
 - 2026-05-05 tightened the guard (pass 127)
 - 2026-05-08 measured the slow path (pass 128)
 - 2026-05-13 trimmed the payload (pass 129)
+- 2026-05-13 trimmed the payload (pass 130)
