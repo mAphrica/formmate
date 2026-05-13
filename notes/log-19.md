@@ -136,3 +136,4 @@
 - 2026-05-05 aligned the naming (pass 135)
 - 2026-05-05 noted the failure mode (pass 136)
 - 2026-05-12 refined the schedule (pass 137)
+- 2026-05-13 tightened the guard (pass 138)
