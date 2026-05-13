@@ -119,3 +119,4 @@
 - 2026-05-05 reviewed the edge case (pass 118)
 - 2026-05-05 refined the schedule (pass 119)
 - 2026-05-13 trimmed the payload (pass 120)
+- 2026-05-13 tightened the guard (pass 121)
