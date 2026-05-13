@@ -95,3 +95,4 @@
 - 2026-05-05 tightened the guard (pass 94)
 - 2026-05-12 checked the migration (pass 95)
 - 2026-05-13 documented the fallback (pass 96)
+- 2026-05-13 measured the slow path (pass 97)
