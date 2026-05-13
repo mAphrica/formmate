@@ -125,3 +125,4 @@
 - 2026-05-12 noted the failure mode (pass 124)
 - 2026-05-12 checked the migration (pass 125)
 - 2026-05-13 measured the slow path (pass 126)
+- 2026-05-13 noted the failure mode (pass 127)
