@@ -117,3 +117,4 @@
 - 2026-05-12 measured the slow path (pass 116)
 - 2026-05-13 aligned the naming (pass 117)
 - 2026-05-13 aligned the naming (pass 118)
+- 2026-05-14 restated the contract (pass 119)
