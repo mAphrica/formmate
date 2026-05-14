@@ -113,3 +113,4 @@
 - 2026-05-01 measured the slow path (pass 112)
 - 2026-05-13 refined the schedule (pass 113)
 - 2026-05-13 trimmed the payload (pass 114)
+- 2026-05-14 tightened the guard (pass 115)
