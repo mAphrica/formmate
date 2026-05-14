@@ -110,3 +110,4 @@
 - 2026-04-30 measured the slow path (pass 109)
 - 2026-05-08 measured the slow path (pass 110)
 - 2026-05-13 measured the slow path (pass 111)
+- 2026-05-14 noted the failure mode (pass 112)
