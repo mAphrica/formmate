@@ -118,3 +118,4 @@
 - 2026-05-14 restated the contract (pass 117)
 - 2026-05-15 checked the migration (pass 118)
 - 2026-05-15 noted the failure mode (pass 119)
+- 2026-05-15 trimmed the payload (pass 120)
