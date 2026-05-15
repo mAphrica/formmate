@@ -127,3 +127,4 @@
 - 2026-05-13 measured the slow path (pass 126)
 - 2026-05-13 noted the failure mode (pass 127)
 - 2026-05-15 documented the fallback (pass 128)
+- 2026-05-15 trimmed the payload (pass 129)
