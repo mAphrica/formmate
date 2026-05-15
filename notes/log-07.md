@@ -115,3 +115,4 @@
 - 2026-05-13 trimmed the payload (pass 114)
 - 2026-05-14 tightened the guard (pass 115)
 - 2026-05-15 restated the contract (pass 116)
+- 2026-05-15 documented the fallback (pass 117)
