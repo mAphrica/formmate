@@ -98,3 +98,4 @@
 - 2026-05-13 measured the slow path (pass 97)
 - 2026-05-15 restated the contract (pass 98)
 - 2026-05-15 checked the migration (pass 99)
+- 2026-05-15 trimmed the payload (pass 100)
