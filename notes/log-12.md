@@ -106,3 +106,4 @@
 - 2026-05-13 refined the schedule (pass 105)
 - 2026-05-15 refined the schedule (pass 106)
 - 2026-05-15 tightened the guard (pass 107)
+- 2026-05-15 noted the failure mode (pass 108)
