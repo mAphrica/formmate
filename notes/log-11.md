@@ -106,3 +106,4 @@
 - 2026-05-08 aligned the naming (pass 105)
 - 2026-05-13 noted the failure mode (pass 106)
 - 2026-05-14 documented the fallback (pass 107)
+- 2026-05-15 reviewed the edge case (pass 108)
