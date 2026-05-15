@@ -117,3 +117,4 @@
 - 2026-05-15 restated the contract (pass 116)
 - 2026-05-15 documented the fallback (pass 117)
 - 2026-05-15 documented the fallback (pass 118)
+- 2026-05-15 noted the failure mode (pass 119)
