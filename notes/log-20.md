@@ -117,3 +117,4 @@
 - 2026-05-14 refined the schedule (pass 116)
 - 2026-05-14 restated the contract (pass 117)
 - 2026-05-15 checked the migration (pass 118)
+- 2026-05-15 noted the failure mode (pass 119)

@@ -124,3 +124,4 @@
 - 2026-05-14 aligned the naming (pass 123)
 - 2026-05-15 measured the slow path (pass 124)
 - 2026-05-15 restated the contract (pass 125)
+- 2026-05-15 reviewed the edge case (pass 126)
