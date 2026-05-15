@@ -121,3 +121,4 @@
 - 2026-05-14 restated the contract (pass 120)
 - 2026-05-15 measured the slow path (pass 121)
 - 2026-05-15 documented the fallback (pass 122)
+- 2026-05-15 trimmed the payload (pass 123)
