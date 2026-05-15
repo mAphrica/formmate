@@ -118,3 +118,4 @@
 - 2026-05-13 tightened the guard (pass 117)
 - 2026-05-13 documented the fallback (pass 118)
 - 2026-05-13 tightened the guard (pass 119)
+- 2026-05-15 noted the failure mode (pass 120)

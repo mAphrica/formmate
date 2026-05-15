@@ -123,3 +123,4 @@
 - 2026-05-13 checked the migration (pass 122)
 - 2026-05-14 aligned the naming (pass 123)
 - 2026-05-15 measured the slow path (pass 124)
+- 2026-05-15 restated the contract (pass 125)
