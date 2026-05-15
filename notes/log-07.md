@@ -114,3 +114,4 @@
 - 2026-05-13 refined the schedule (pass 113)
 - 2026-05-13 trimmed the payload (pass 114)
 - 2026-05-14 tightened the guard (pass 115)
+- 2026-05-15 restated the contract (pass 116)
