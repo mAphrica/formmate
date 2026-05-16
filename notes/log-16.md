@@ -123,3 +123,4 @@
 - 2026-05-13 documented the fallback (pass 122)
 - 2026-05-14 documented the fallback (pass 123)
 - 2026-05-15 noted the failure mode (pass 124)
+- 2026-05-16 trimmed the payload (pass 125)
