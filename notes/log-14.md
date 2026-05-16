@@ -128,3 +128,4 @@
 - 2026-05-15 tightened the guard (pass 127)
 - 2026-05-16 checked the migration (pass 128)
 - 2026-05-16 trimmed the payload (pass 129)
+- 2026-05-16 documented the fallback (pass 130)

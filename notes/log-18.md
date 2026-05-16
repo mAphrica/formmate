@@ -99,3 +99,4 @@
 - 2026-05-13 reviewed the edge case (pass 98)
 - 2026-05-15 documented the fallback (pass 99)
 - 2026-05-16 measured the slow path (pass 100)
+- 2026-05-16 documented the fallback (pass 101)
