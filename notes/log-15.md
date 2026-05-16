@@ -133,3 +133,4 @@
 - 2026-05-15 refined the schedule (pass 132)
 - 2026-05-15 documented the fallback (pass 133)
 - 2026-05-16 trimmed the payload (pass 134)
+- 2026-05-16 checked the migration (pass 135)
