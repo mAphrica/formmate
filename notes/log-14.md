@@ -127,3 +127,4 @@
 - 2026-05-15 reviewed the edge case (pass 126)
 - 2026-05-15 tightened the guard (pass 127)
 - 2026-05-16 checked the migration (pass 128)
+- 2026-05-16 trimmed the payload (pass 129)
