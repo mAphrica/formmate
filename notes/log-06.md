@@ -127,3 +127,4 @@
 - 2026-05-16 tightened the guard (pass 126)
 - 2026-05-16 checked the migration (pass 127)
 - 2026-05-16 checked the migration (pass 128)
+- 2026-05-16 aligned the naming (pass 129)
