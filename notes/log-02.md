@@ -121,3 +121,4 @@
 - 2026-05-12 checked the migration (pass 120)
 - 2026-05-15 reviewed the edge case (pass 121)
 - 2026-05-16 checked the migration (pass 122)
+- 2026-05-16 documented the fallback (pass 123)

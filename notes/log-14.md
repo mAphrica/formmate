@@ -126,3 +126,4 @@
 - 2026-05-15 restated the contract (pass 125)
 - 2026-05-15 reviewed the edge case (pass 126)
 - 2026-05-15 tightened the guard (pass 127)
+- 2026-05-16 checked the migration (pass 128)
