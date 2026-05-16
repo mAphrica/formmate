@@ -134,3 +134,4 @@
 - 2026-05-15 documented the fallback (pass 133)
 - 2026-05-16 trimmed the payload (pass 134)
 - 2026-05-16 checked the migration (pass 135)
+- 2026-05-16 noted the failure mode (pass 136)

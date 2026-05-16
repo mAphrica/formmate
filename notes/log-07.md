@@ -118,3 +118,4 @@
 - 2026-05-15 documented the fallback (pass 117)
 - 2026-05-15 documented the fallback (pass 118)
 - 2026-05-15 noted the failure mode (pass 119)
+- 2026-05-16 checked the migration (pass 120)
