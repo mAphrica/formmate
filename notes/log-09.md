@@ -100,3 +100,4 @@
 - 2026-05-15 checked the migration (pass 99)
 - 2026-05-15 trimmed the payload (pass 100)
 - 2026-05-16 noted the failure mode (pass 101)
+- 2026-05-16 documented the fallback (pass 102)
