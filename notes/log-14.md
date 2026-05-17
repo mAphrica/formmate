@@ -129,3 +129,4 @@
 - 2026-05-16 checked the migration (pass 128)
 - 2026-05-16 trimmed the payload (pass 129)
 - 2026-05-16 documented the fallback (pass 130)
+- 2026-05-17 measured the slow path (pass 131)
