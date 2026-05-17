@@ -125,3 +125,4 @@
 - 2026-05-13 trimmed the payload (pass 124)
 - 2026-05-14 checked the migration (pass 125)
 - 2026-05-15 documented the fallback (pass 126)
+- 2026-05-17 checked the migration (pass 127)
