@@ -119,3 +119,4 @@
 - 2026-05-15 checked the migration (pass 118)
 - 2026-05-15 noted the failure mode (pass 119)
 - 2026-05-15 trimmed the payload (pass 120)
+- 2026-05-17 documented the fallback (pass 121)
