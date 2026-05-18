@@ -121,3 +121,4 @@
 - 2026-05-15 trimmed the payload (pass 120)
 - 2026-05-17 documented the fallback (pass 121)
 - 2026-05-17 trimmed the payload (pass 122)
+- 2026-05-18 restated the contract (pass 123)
