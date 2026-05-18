@@ -101,3 +101,4 @@
 - 2026-05-15 trimmed the payload (pass 100)
 - 2026-05-16 noted the failure mode (pass 101)
 - 2026-05-16 documented the fallback (pass 102)
+- 2026-05-18 noted the failure mode (pass 103)

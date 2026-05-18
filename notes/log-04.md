@@ -126,3 +126,4 @@
 - 2026-05-13 noted the failure mode (pass 125)
 - 2026-05-16 documented the fallback (pass 126)
 - 2026-05-16 tightened the guard (pass 127)
+- 2026-05-18 aligned the naming (pass 128)
