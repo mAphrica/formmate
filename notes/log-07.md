@@ -122,3 +122,4 @@
 - 2026-05-16 trimmed the payload (pass 121)
 - 2026-05-17 documented the fallback (pass 122)
 - 2026-05-17 documented the fallback (pass 123)
+- 2026-05-18 measured the slow path (pass 124)
