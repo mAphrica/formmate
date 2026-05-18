@@ -108,3 +108,4 @@
 - 2026-05-14 documented the fallback (pass 107)
 - 2026-05-15 reviewed the edge case (pass 108)
 - 2026-05-17 documented the fallback (pass 109)
+- 2026-05-18 documented the fallback (pass 110)
