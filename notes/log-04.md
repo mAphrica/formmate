@@ -127,3 +127,4 @@
 - 2026-05-16 documented the fallback (pass 126)
 - 2026-05-16 tightened the guard (pass 127)
 - 2026-05-18 aligned the naming (pass 128)
+- 2026-05-19 reviewed the edge case (pass 129)
