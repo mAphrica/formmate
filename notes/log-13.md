@@ -128,3 +128,4 @@
 - 2026-05-17 checked the migration (pass 127)
 - 2026-05-17 refined the schedule (pass 128)
 - 2026-05-18 reviewed the edge case (pass 129)
+- 2026-05-20 tightened the guard (pass 130)

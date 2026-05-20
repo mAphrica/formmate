@@ -127,3 +127,4 @@
 - 2026-05-16 restated the contract (pass 126)
 - 2026-05-16 tightened the guard (pass 127)
 - 2026-05-17 reviewed the edge case (pass 128)
+- 2026-05-20 aligned the naming (pass 129)
