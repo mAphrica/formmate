@@ -131,3 +131,4 @@
 - 2026-05-16 reviewed the edge case (pass 130)
 - 2026-05-17 aligned the naming (pass 131)
 - 2026-05-17 tightened the guard (pass 132)
+- 2026-05-20 noted the failure mode (pass 133)
