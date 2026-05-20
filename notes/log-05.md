@@ -120,3 +120,4 @@
 - 2026-05-16 trimmed the payload (pass 119)
 - 2026-05-18 tightened the guard (pass 120)
 - 2026-05-18 noted the failure mode (pass 121)
+- 2026-05-20 documented the fallback (pass 122)

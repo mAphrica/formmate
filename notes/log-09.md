@@ -102,3 +102,4 @@
 - 2026-05-16 noted the failure mode (pass 101)
 - 2026-05-16 documented the fallback (pass 102)
 - 2026-05-18 noted the failure mode (pass 103)
+- 2026-05-20 measured the slow path (pass 104)
