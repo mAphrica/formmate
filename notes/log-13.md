@@ -130,3 +130,4 @@
 - 2026-05-18 reviewed the edge case (pass 129)
 - 2026-05-20 tightened the guard (pass 130)
 - 2026-05-21 measured the slow path (pass 131)
+- 2026-05-21 trimmed the payload (pass 132)

@@ -123,3 +123,4 @@
 - 2026-05-20 documented the fallback (pass 122)
 - 2026-05-20 aligned the naming (pass 123)
 - 2026-05-21 aligned the naming (pass 124)
+- 2026-05-21 reviewed the edge case (pass 125)
