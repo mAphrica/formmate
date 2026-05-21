@@ -128,3 +128,4 @@
 - 2026-05-17 noted the failure mode (pass 127)
 - 2026-05-17 trimmed the payload (pass 128)
 - 2026-05-19 tightened the guard (pass 129)
+- 2026-05-21 documented the fallback (pass 130)
