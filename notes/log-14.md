@@ -134,3 +134,4 @@
 - 2026-05-19 tightened the guard (pass 133)
 - 2026-05-19 reviewed the edge case (pass 134)
 - 2026-05-21 noted the failure mode (pass 135)
+- 2026-05-21 checked the migration (pass 136)

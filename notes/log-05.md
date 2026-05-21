@@ -124,3 +124,4 @@
 - 2026-05-20 aligned the naming (pass 123)
 - 2026-05-21 aligned the naming (pass 124)
 - 2026-05-21 reviewed the edge case (pass 125)
+- 2026-05-21 trimmed the payload (pass 126)
