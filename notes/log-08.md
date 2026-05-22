@@ -131,3 +131,4 @@
 - 2026-05-21 documented the fallback (pass 130)
 - 2026-05-22 documented the fallback (pass 131)
 - 2026-05-22 noted the failure mode (pass 132)
+- 2026-05-22 documented the fallback (pass 133)
