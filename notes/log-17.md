@@ -123,3 +123,4 @@
 - 2026-05-16 refined the schedule (pass 122)
 - 2026-05-17 measured the slow path (pass 123)
 - 2026-05-20 restated the contract (pass 124)
+- 2026-05-22 noted the failure mode (pass 125)
