@@ -130,3 +130,4 @@
 - 2026-05-20 aligned the naming (pass 129)
 - 2026-05-21 trimmed the payload (pass 130)
 - 2026-05-22 trimmed the payload (pass 131)
+- 2026-05-22 tightened the guard (pass 132)
