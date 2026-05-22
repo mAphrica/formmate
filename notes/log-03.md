@@ -118,3 +118,4 @@
 - 2026-05-17 tightened the guard (pass 117)
 - 2026-05-21 refined the schedule (pass 118)
 - 2026-05-21 noted the failure mode (pass 119)
+- 2026-05-22 documented the fallback (pass 120)
