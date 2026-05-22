@@ -113,3 +113,4 @@
 - 2026-05-18 tightened the guard (pass 112)
 - 2026-05-21 tightened the guard (pass 113)
 - 2026-05-21 trimmed the payload (pass 114)
+- 2026-05-22 checked the migration (pass 115)
