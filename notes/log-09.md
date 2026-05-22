@@ -105,3 +105,4 @@
 - 2026-05-20 measured the slow path (pass 104)
 - 2026-05-22 restated the contract (pass 105)
 - 2026-05-22 trimmed the payload (pass 106)
+- 2026-05-22 trimmed the payload (pass 107)

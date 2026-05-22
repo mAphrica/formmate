@@ -125,3 +125,4 @@
 - 2026-05-16 documented the fallback (pass 124)
 - 2026-05-17 documented the fallback (pass 125)
 - 2026-05-22 restated the contract (pass 126)
+- 2026-05-22 trimmed the payload (pass 127)
