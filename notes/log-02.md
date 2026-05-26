@@ -127,3 +127,4 @@
 - 2026-05-22 restated the contract (pass 126)
 - 2026-05-22 trimmed the payload (pass 127)
 - 2026-05-22 tightened the guard (pass 128)
+- 2026-05-26 measured the slow path (pass 129)

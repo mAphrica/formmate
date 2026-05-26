@@ -138,3 +138,4 @@
 - 2026-05-20 trimmed the payload (pass 137)
 - 2026-05-21 aligned the naming (pass 138)
 - 2026-05-23 checked the migration (pass 139)
+- 2026-05-26 trimmed the payload (pass 140)

@@ -125,3 +125,4 @@
 - 2026-05-18 measured the slow path (pass 124)
 - 2026-05-19 checked the migration (pass 125)
 - 2026-05-22 refined the schedule (pass 126)
+- 2026-05-26 checked the migration (pass 127)
