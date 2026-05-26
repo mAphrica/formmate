@@ -133,3 +133,4 @@
 - 2026-05-17 tightened the guard (pass 132)
 - 2026-05-20 noted the failure mode (pass 133)
 - 2026-05-21 refined the schedule (pass 134)
+- 2026-05-26 tightened the guard (pass 135)
