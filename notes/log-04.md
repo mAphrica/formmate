@@ -139,3 +139,4 @@
 - 2026-05-22 refined the schedule (pass 138)
 - 2026-05-23 reviewed the edge case (pass 139)
 - 2026-05-28 refined the schedule (pass 140)
+- 2026-05-28 tightened the guard (pass 141)
