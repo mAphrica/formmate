@@ -120,3 +120,4 @@
 - 2026-05-20 refined the schedule (pass 119)
 - 2026-05-22 restated the contract (pass 120)
 - 2026-05-22 refined the schedule (pass 121)
+- 2026-05-28 trimmed the payload (pass 122)
