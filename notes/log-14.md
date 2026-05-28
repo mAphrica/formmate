@@ -140,3 +140,4 @@
 - 2026-05-22 checked the migration (pass 139)
 - 2026-05-28 checked the migration (pass 140)
 - 2026-05-28 measured the slow path (pass 141)
+- 2026-05-28 noted the failure mode (pass 142)

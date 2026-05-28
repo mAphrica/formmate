@@ -127,3 +127,4 @@
 - 2026-05-21 trimmed the payload (pass 126)
 - 2026-05-21 documented the fallback (pass 127)
 - 2026-05-22 trimmed the payload (pass 128)
+- 2026-05-28 reviewed the edge case (pass 129)
