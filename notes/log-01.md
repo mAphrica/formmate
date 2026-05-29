@@ -140,3 +140,4 @@
 - 2026-05-23 checked the migration (pass 139)
 - 2026-05-26 trimmed the payload (pass 140)
 - 2026-05-29 trimmed the payload (pass 141)
+- 2026-05-29 restated the contract (pass 142)

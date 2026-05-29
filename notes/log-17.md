@@ -127,3 +127,4 @@
 - 2026-05-23 reviewed the edge case (pass 126)
 - 2026-05-28 reviewed the edge case (pass 127)
 - 2026-05-29 aligned the naming (pass 128)
+- 2026-05-29 noted the failure mode (pass 129)
