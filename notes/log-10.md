@@ -122,3 +122,4 @@
 - 2026-05-22 refined the schedule (pass 121)
 - 2026-05-28 trimmed the payload (pass 122)
 - 2026-05-29 trimmed the payload (pass 123)
+- 2026-05-29 checked the migration (pass 124)
