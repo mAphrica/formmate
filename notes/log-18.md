@@ -103,3 +103,4 @@
 - 2026-05-16 reviewed the edge case (pass 102)
 - 2026-05-22 documented the fallback (pass 103)
 - 2026-05-22 tightened the guard (pass 104)
+- 2026-05-29 aligned the naming (pass 105)
