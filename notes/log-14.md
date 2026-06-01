@@ -143,3 +143,4 @@
 - 2026-05-28 noted the failure mode (pass 142)
 - 2026-05-28 noted the failure mode (pass 143)
 - 2026-05-28 refined the schedule (pass 144)
+- 2026-06-01 measured the slow path (pass 145)
