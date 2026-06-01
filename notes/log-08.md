@@ -135,3 +135,4 @@
 - 2026-05-22 documented the fallback (pass 134)
 - 2026-05-22 noted the failure mode (pass 135)
 - 2026-05-28 aligned the naming (pass 136)
+- 2026-06-01 documented the fallback (pass 137)
