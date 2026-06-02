@@ -127,3 +127,4 @@
 - 2026-05-22 refined the schedule (pass 126)
 - 2026-05-22 noted the failure mode (pass 127)
 - 2026-05-28 reviewed the edge case (pass 128)
+- 2026-06-02 measured the slow path (pass 129)
