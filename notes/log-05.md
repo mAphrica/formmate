@@ -129,3 +129,4 @@
 - 2026-05-22 trimmed the payload (pass 128)
 - 2026-05-28 reviewed the edge case (pass 129)
 - 2026-05-28 refined the schedule (pass 130)
+- 2026-06-02 checked the migration (pass 131)
