@@ -138,3 +138,4 @@
 - 2026-06-01 documented the fallback (pass 137)
 - 2026-06-02 tightened the guard (pass 138)
 - 2026-06-02 measured the slow path (pass 139)
+- 2026-06-04 restated the contract (pass 140)
