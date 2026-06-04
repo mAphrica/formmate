@@ -130,3 +130,4 @@
 - 2026-05-26 measured the slow path (pass 129)
 - 2026-05-29 documented the fallback (pass 130)
 - 2026-06-03 tightened the guard (pass 131)
+- 2026-06-04 noted the failure mode (pass 132)

@@ -117,3 +117,4 @@
 - 2026-05-22 checked the migration (pass 116)
 - 2026-05-23 aligned the naming (pass 117)
 - 2026-05-28 reviewed the edge case (pass 118)
+- 2026-06-04 aligned the naming (pass 119)
