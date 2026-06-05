@@ -118,3 +118,4 @@
 - 2026-05-23 aligned the naming (pass 117)
 - 2026-05-28 reviewed the edge case (pass 118)
 - 2026-06-04 aligned the naming (pass 119)
+- 2026-06-05 restated the contract (pass 120)
