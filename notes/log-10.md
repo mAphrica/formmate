@@ -125,3 +125,4 @@
 - 2026-05-29 checked the migration (pass 124)
 - 2026-06-01 noted the failure mode (pass 125)
 - 2026-06-01 documented the fallback (pass 126)
+- 2026-06-05 documented the fallback (pass 127)
