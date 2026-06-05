@@ -135,3 +135,4 @@
 - 2026-05-21 refined the schedule (pass 134)
 - 2026-05-26 tightened the guard (pass 135)
 - 2026-05-29 documented the fallback (pass 136)
+- 2026-06-05 reviewed the edge case (pass 137)

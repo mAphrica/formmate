@@ -134,3 +134,4 @@
 - 2026-05-22 restated the contract (pass 133)
 - 2026-05-29 trimmed the payload (pass 134)
 - 2026-06-01 refined the schedule (pass 135)
+- 2026-06-05 documented the fallback (pass 136)
