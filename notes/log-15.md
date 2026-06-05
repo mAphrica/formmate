@@ -146,3 +146,4 @@
 - 2026-06-01 noted the failure mode (pass 145)
 - 2026-06-01 restated the contract (pass 146)
 - 2026-06-02 checked the migration (pass 147)
+- 2026-06-05 tightened the guard (pass 148)
