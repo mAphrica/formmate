@@ -104,3 +104,4 @@
 - 2026-05-22 documented the fallback (pass 103)
 - 2026-05-22 tightened the guard (pass 104)
 - 2026-05-29 aligned the naming (pass 105)
+- 2026-06-05 tightened the guard (pass 106)
