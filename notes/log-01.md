@@ -141,3 +141,4 @@
 - 2026-05-26 trimmed the payload (pass 140)
 - 2026-05-29 trimmed the payload (pass 141)
 - 2026-05-29 restated the contract (pass 142)
+- 2026-06-05 aligned the naming (pass 143)

@@ -137,3 +137,4 @@
 - 2026-06-05 documented the fallback (pass 136)
 - 2026-06-05 trimmed the payload (pass 137)
 - 2026-06-05 refined the schedule (pass 138)
+- 2026-06-05 measured the slow path (pass 139)
