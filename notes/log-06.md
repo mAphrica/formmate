@@ -137,3 +137,4 @@
 - 2026-05-29 documented the fallback (pass 136)
 - 2026-06-05 reviewed the edge case (pass 137)
 - 2026-06-05 refined the schedule (pass 138)
+- 2026-06-08 checked the migration (pass 139)
