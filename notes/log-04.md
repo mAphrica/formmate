@@ -144,3 +144,4 @@
 - 2026-05-28 reviewed the edge case (pass 143)
 - 2026-06-01 tightened the guard (pass 144)
 - 2026-06-04 restated the contract (pass 145)
+- 2026-06-09 trimmed the payload (pass 146)
