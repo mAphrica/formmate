@@ -127,3 +127,4 @@
 - 2026-06-01 documented the fallback (pass 126)
 - 2026-06-05 documented the fallback (pass 127)
 - 2026-06-05 refined the schedule (pass 128)
+- 2026-06-09 restated the contract (pass 129)
