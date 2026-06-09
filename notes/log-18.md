@@ -105,3 +105,4 @@
 - 2026-05-22 tightened the guard (pass 104)
 - 2026-05-29 aligned the naming (pass 105)
 - 2026-06-05 tightened the guard (pass 106)
+- 2026-06-09 reviewed the edge case (pass 107)
