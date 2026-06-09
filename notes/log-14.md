@@ -147,3 +147,4 @@
 - 2026-06-03 documented the fallback (pass 146)
 - 2026-06-05 refined the schedule (pass 147)
 - 2026-06-05 trimmed the payload (pass 148)
+- 2026-06-09 tightened the guard (pass 149)
