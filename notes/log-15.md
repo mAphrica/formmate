@@ -148,3 +148,4 @@
 - 2026-06-02 checked the migration (pass 147)
 - 2026-06-05 tightened the guard (pass 148)
 - 2026-06-09 documented the fallback (pass 149)
+- 2026-06-09 checked the migration (pass 150)
