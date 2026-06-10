@@ -115,3 +115,4 @@
 - 2026-06-05 reviewed the edge case (pass 114)
 - 2026-06-09 tightened the guard (pass 115)
 - 2026-06-09 trimmed the payload (pass 116)
+- 2026-06-10 aligned the naming (pass 117)
