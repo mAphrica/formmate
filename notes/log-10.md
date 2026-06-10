@@ -129,3 +129,4 @@
 - 2026-06-05 refined the schedule (pass 128)
 - 2026-06-09 restated the contract (pass 129)
 - 2026-06-09 noted the failure mode (pass 130)
+- 2026-06-10 checked the migration (pass 131)
