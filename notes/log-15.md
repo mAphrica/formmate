@@ -152,3 +152,4 @@
 - 2026-06-09 measured the slow path (pass 151)
 - 2026-06-09 measured the slow path (pass 152)
 - 2026-06-10 checked the migration (pass 153)
+- 2026-06-10 documented the fallback (pass 154)
