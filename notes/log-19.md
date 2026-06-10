@@ -151,3 +151,4 @@
 - 2026-06-02 documented the fallback (pass 150)
 - 2026-06-05 noted the failure mode (pass 151)
 - 2026-06-09 checked the migration (pass 152)
+- 2026-06-10 measured the slow path (pass 153)
