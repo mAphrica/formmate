@@ -142,3 +142,4 @@
 - 2026-06-11 refined the schedule (pass 141)
 - 2026-06-11 measured the slow path (pass 142)
 - 2026-06-11 reviewed the edge case (pass 143)
+- 2026-06-11 checked the migration (pass 144)

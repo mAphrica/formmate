@@ -119,3 +119,4 @@
 - 2026-06-05 reviewed the edge case (pass 118)
 - 2026-06-05 trimmed the payload (pass 119)
 - 2026-06-11 aligned the naming (pass 120)
+- 2026-06-11 documented the fallback (pass 121)
