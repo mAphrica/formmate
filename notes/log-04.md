@@ -146,3 +146,4 @@
 - 2026-06-04 restated the contract (pass 145)
 - 2026-06-09 trimmed the payload (pass 146)
 - 2026-06-10 documented the fallback (pass 147)
+- 2026-06-11 reviewed the edge case (pass 148)
