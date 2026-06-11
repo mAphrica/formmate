@@ -139,3 +139,4 @@
 - 2026-06-10 measured the slow path (pass 138)
 - 2026-06-10 aligned the naming (pass 139)
 - 2026-06-10 aligned the naming (pass 140)
+- 2026-06-11 refined the schedule (pass 141)
