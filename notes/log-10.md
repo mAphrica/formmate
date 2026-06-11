@@ -131,3 +131,4 @@
 - 2026-06-09 noted the failure mode (pass 130)
 - 2026-06-10 checked the migration (pass 131)
 - 2026-06-11 aligned the naming (pass 132)
+- 2026-06-11 reviewed the edge case (pass 133)
