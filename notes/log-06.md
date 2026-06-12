@@ -144,3 +144,4 @@
 - 2026-06-10 trimmed the payload (pass 143)
 - 2026-06-11 restated the contract (pass 144)
 - 2026-06-12 reviewed the edge case (pass 145)
+- 2026-06-12 checked the migration (pass 146)
