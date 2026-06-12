@@ -143,3 +143,4 @@
 - 2026-06-11 reviewed the edge case (pass 142)
 - 2026-06-12 aligned the naming (pass 143)
 - 2026-06-12 refined the schedule (pass 144)
+- 2026-06-12 noted the failure mode (pass 145)
