@@ -121,3 +121,4 @@
 - 2026-06-05 restated the contract (pass 120)
 - 2026-06-09 refined the schedule (pass 121)
 - 2026-06-11 tightened the guard (pass 122)
+- 2026-06-12 noted the failure mode (pass 123)
