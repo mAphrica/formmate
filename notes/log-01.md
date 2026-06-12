@@ -145,3 +145,4 @@
 - 2026-06-08 aligned the naming (pass 144)
 - 2026-06-09 documented the fallback (pass 145)
 - 2026-06-10 checked the migration (pass 146)
+- 2026-06-12 tightened the guard (pass 147)
