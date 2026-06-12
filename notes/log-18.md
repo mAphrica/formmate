@@ -112,3 +112,4 @@
 - 2026-06-10 checked the migration (pass 111)
 - 2026-06-10 checked the migration (pass 112)
 - 2026-06-11 trimmed the payload (pass 113)
+- 2026-06-12 aligned the naming (pass 114)
