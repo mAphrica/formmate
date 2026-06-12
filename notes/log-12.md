@@ -122,3 +122,4 @@
 - 2026-06-09 refined the schedule (pass 121)
 - 2026-06-11 tightened the guard (pass 122)
 - 2026-06-12 noted the failure mode (pass 123)
+- 2026-06-12 aligned the naming (pass 124)
