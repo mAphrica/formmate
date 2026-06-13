@@ -114,3 +114,4 @@
 - 2026-06-11 trimmed the payload (pass 113)
 - 2026-06-12 aligned the naming (pass 114)
 - 2026-06-12 measured the slow path (pass 115)
+- 2026-06-13 documented the fallback (pass 116)
