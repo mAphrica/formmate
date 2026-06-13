@@ -149,3 +149,4 @@
 - 2026-06-11 reviewed the edge case (pass 148)
 - 2026-06-12 documented the fallback (pass 149)
 - 2026-06-12 tightened the guard (pass 150)
+- 2026-06-13 documented the fallback (pass 151)

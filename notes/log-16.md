@@ -143,3 +143,4 @@
 - 2026-06-11 measured the slow path (pass 142)
 - 2026-06-11 reviewed the edge case (pass 143)
 - 2026-06-11 checked the migration (pass 144)
+- 2026-06-13 aligned the naming (pass 145)
