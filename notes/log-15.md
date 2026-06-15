@@ -155,3 +155,4 @@
 - 2026-06-10 documented the fallback (pass 154)
 - 2026-06-15 restated the contract (pass 155)
 - 2026-06-15 reviewed the edge case (pass 156)
+- 2026-06-15 restated the contract (pass 157)
