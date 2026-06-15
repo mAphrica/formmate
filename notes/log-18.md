@@ -115,3 +115,4 @@
 - 2026-06-12 aligned the naming (pass 114)
 - 2026-06-12 measured the slow path (pass 115)
 - 2026-06-13 documented the fallback (pass 116)
+- 2026-06-15 reviewed the edge case (pass 117)
