@@ -121,3 +121,4 @@
 - 2026-06-11 aligned the naming (pass 120)
 - 2026-06-11 documented the fallback (pass 121)
 - 2026-06-12 tightened the guard (pass 122)
+- 2026-06-17 aligned the naming (pass 123)
