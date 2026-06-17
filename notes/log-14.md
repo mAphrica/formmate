@@ -155,3 +155,4 @@
 - 2026-06-15 aligned the naming (pass 154)
 - 2026-06-15 noted the failure mode (pass 155)
 - 2026-06-17 trimmed the payload (pass 156)
+- 2026-06-17 checked the migration (pass 157)
