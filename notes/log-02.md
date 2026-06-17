@@ -133,3 +133,4 @@
 - 2026-06-04 noted the failure mode (pass 132)
 - 2026-06-10 tightened the guard (pass 133)
 - 2026-06-13 aligned the naming (pass 134)
+- 2026-06-17 noted the failure mode (pass 135)
