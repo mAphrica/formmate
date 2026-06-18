@@ -138,3 +138,4 @@
 - 2026-06-12 tightened the guard (pass 137)
 - 2026-06-13 refined the schedule (pass 138)
 - 2026-06-15 reviewed the edge case (pass 139)
+- 2026-06-18 checked the migration (pass 140)
