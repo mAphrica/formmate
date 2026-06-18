@@ -150,3 +150,4 @@
 - 2026-06-18 documented the fallback (pass 149)
 - 2026-06-18 checked the migration (pass 150)
 - 2026-06-18 aligned the naming (pass 151)
+- 2026-06-18 checked the migration (pass 152)
