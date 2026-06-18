@@ -128,3 +128,4 @@
 - 2026-06-16 checked the migration (pass 127)
 - 2026-06-18 restated the contract (pass 128)
 - 2026-06-18 noted the failure mode (pass 129)
+- 2026-06-18 restated the contract (pass 130)

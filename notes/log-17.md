@@ -140,3 +140,4 @@
 - 2026-06-15 reviewed the edge case (pass 139)
 - 2026-06-18 checked the migration (pass 140)
 - 2026-06-18 restated the contract (pass 141)
+- 2026-06-18 refined the schedule (pass 142)
