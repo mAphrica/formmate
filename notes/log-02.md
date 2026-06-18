@@ -136,3 +136,4 @@
 - 2026-06-17 noted the failure mode (pass 135)
 - 2026-06-18 reviewed the edge case (pass 136)
 - 2026-06-18 documented the fallback (pass 137)
+- 2026-06-18 trimmed the payload (pass 138)

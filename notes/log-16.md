@@ -150,3 +150,4 @@
 - 2026-06-17 noted the failure mode (pass 149)
 - 2026-06-18 noted the failure mode (pass 150)
 - 2026-06-18 restated the contract (pass 151)
+- 2026-06-18 aligned the naming (pass 152)
