@@ -156,3 +156,4 @@
 - 2026-06-15 noted the failure mode (pass 155)
 - 2026-06-17 trimmed the payload (pass 156)
 - 2026-06-17 checked the migration (pass 157)
+- 2026-06-18 tightened the guard (pass 158)
