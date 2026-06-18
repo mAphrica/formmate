@@ -157,3 +157,4 @@
 - 2026-06-18 reviewed the edge case (pass 156)
 - 2026-06-18 documented the fallback (pass 157)
 - 2026-06-18 reviewed the edge case (pass 158)
+- 2026-06-18 trimmed the payload (pass 159)
