@@ -159,3 +159,4 @@
 - 2026-06-18 reviewed the edge case (pass 158)
 - 2026-06-18 trimmed the payload (pass 159)
 - 2026-06-18 measured the slow path (pass 160)
+- 2026-06-18 refined the schedule (pass 161)
