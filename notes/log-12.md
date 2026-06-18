@@ -124,3 +124,4 @@
 - 2026-06-12 noted the failure mode (pass 123)
 - 2026-06-12 aligned the naming (pass 124)
 - 2026-06-13 reviewed the edge case (pass 125)
+- 2026-06-18 checked the migration (pass 126)

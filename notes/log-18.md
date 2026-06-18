@@ -117,3 +117,4 @@
 - 2026-06-13 documented the fallback (pass 116)
 - 2026-06-15 reviewed the edge case (pass 117)
 - 2026-06-18 trimmed the payload (pass 118)
+- 2026-06-18 restated the contract (pass 119)
