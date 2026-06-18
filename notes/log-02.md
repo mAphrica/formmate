@@ -137,3 +137,4 @@
 - 2026-06-18 reviewed the edge case (pass 136)
 - 2026-06-18 documented the fallback (pass 137)
 - 2026-06-18 trimmed the payload (pass 138)
+- 2026-06-18 tightened the guard (pass 139)
