@@ -134,3 +134,4 @@
 - 2026-06-13 reviewed the edge case (pass 133)
 - 2026-06-17 trimmed the payload (pass 134)
 - 2026-06-18 checked the migration (pass 135)
+- 2026-06-18 noted the failure mode (pass 136)
