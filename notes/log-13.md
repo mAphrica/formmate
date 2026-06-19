@@ -149,3 +149,4 @@
 - 2026-06-18 documented the fallback (pass 148)
 - 2026-06-18 refined the schedule (pass 149)
 - 2026-06-18 restated the contract (pass 150)
+- 2026-06-19 trimmed the payload (pass 151)
