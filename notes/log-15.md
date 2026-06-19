@@ -159,3 +159,4 @@
 - 2026-06-16 trimmed the payload (pass 158)
 - 2026-06-18 measured the slow path (pass 159)
 - 2026-06-18 tightened the guard (pass 160)
+- 2026-06-19 noted the failure mode (pass 161)
