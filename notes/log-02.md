@@ -141,3 +141,4 @@
 - 2026-06-19 reviewed the edge case (pass 140)
 - 2026-06-19 refined the schedule (pass 141)
 - 2026-06-19 refined the schedule (pass 142)
+- 2026-06-19 noted the failure mode (pass 143)
