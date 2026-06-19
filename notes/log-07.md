@@ -137,3 +137,4 @@
 - 2026-06-18 noted the failure mode (pass 136)
 - 2026-06-19 aligned the naming (pass 137)
 - 2026-06-19 tightened the guard (pass 138)
+- 2026-06-19 documented the fallback (pass 139)
