@@ -159,3 +159,4 @@
 - 2026-06-18 tightened the guard (pass 158)
 - 2026-06-19 aligned the naming (pass 159)
 - 2026-06-19 reviewed the edge case (pass 160)
+- 2026-06-20 aligned the naming (pass 161)
