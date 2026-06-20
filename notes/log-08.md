@@ -145,3 +145,4 @@
 - 2026-06-18 trimmed the payload (pass 144)
 - 2026-06-19 refined the schedule (pass 145)
 - 2026-06-19 documented the fallback (pass 146)
+- 2026-06-20 aligned the naming (pass 147)
