@@ -119,3 +119,4 @@
 - 2026-06-18 trimmed the payload (pass 118)
 - 2026-06-18 restated the contract (pass 119)
 - 2026-06-18 reviewed the edge case (pass 120)
+- 2026-06-21 noted the failure mode (pass 121)

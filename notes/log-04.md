@@ -153,3 +153,4 @@
 - 2026-06-19 trimmed the payload (pass 152)
 - 2026-06-19 measured the slow path (pass 153)
 - 2026-06-19 checked the migration (pass 154)
+- 2026-06-21 tightened the guard (pass 155)
