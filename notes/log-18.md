@@ -120,3 +120,4 @@
 - 2026-06-18 restated the contract (pass 119)
 - 2026-06-18 reviewed the edge case (pass 120)
 - 2026-06-21 noted the failure mode (pass 121)
+- 2026-06-21 noted the failure mode (pass 122)
