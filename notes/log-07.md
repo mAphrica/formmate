@@ -139,3 +139,4 @@
 - 2026-06-19 tightened the guard (pass 138)
 - 2026-06-19 documented the fallback (pass 139)
 - 2026-06-21 checked the migration (pass 140)
+- 2026-06-21 restated the contract (pass 141)

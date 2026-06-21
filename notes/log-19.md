@@ -162,3 +162,4 @@
 - 2026-06-18 refined the schedule (pass 161)
 - 2026-06-19 measured the slow path (pass 162)
 - 2026-06-20 documented the fallback (pass 163)
+- 2026-06-21 checked the migration (pass 164)
