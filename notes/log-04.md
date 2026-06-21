@@ -154,3 +154,4 @@
 - 2026-06-19 measured the slow path (pass 153)
 - 2026-06-19 checked the migration (pass 154)
 - 2026-06-21 tightened the guard (pass 155)
+- 2026-06-21 aligned the naming (pass 156)
