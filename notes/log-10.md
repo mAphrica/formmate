@@ -141,3 +141,4 @@
 - 2026-06-19 tightened the guard (pass 140)
 - 2026-06-19 noted the failure mode (pass 141)
 - 2026-06-19 restated the contract (pass 142)
+- 2026-06-22 checked the migration (pass 143)

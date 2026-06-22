@@ -154,3 +154,4 @@
 - 2026-06-19 noted the failure mode (pass 153)
 - 2026-06-20 documented the fallback (pass 154)
 - 2026-06-20 aligned the naming (pass 155)
+- 2026-06-22 checked the migration (pass 156)
