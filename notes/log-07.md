@@ -142,3 +142,4 @@
 - 2026-06-21 restated the contract (pass 141)
 - 2026-06-22 noted the failure mode (pass 142)
 - 2026-06-22 checked the migration (pass 143)
+- 2026-06-22 reviewed the edge case (pass 144)

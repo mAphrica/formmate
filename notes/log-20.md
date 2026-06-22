@@ -137,3 +137,4 @@
 - 2026-06-18 checked the migration (pass 136)
 - 2026-06-21 checked the migration (pass 137)
 - 2026-06-22 checked the migration (pass 138)
+- 2026-06-22 documented the fallback (pass 139)
