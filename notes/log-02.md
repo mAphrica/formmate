@@ -145,3 +145,4 @@
 - 2026-06-22 refined the schedule (pass 144)
 - 2026-06-22 tightened the guard (pass 145)
 - 2026-06-22 documented the fallback (pass 146)
+- 2026-06-22 reviewed the edge case (pass 147)

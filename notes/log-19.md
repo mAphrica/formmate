@@ -163,3 +163,4 @@
 - 2026-06-19 measured the slow path (pass 162)
 - 2026-06-20 documented the fallback (pass 163)
 - 2026-06-21 checked the migration (pass 164)
+- 2026-06-22 trimmed the payload (pass 165)
