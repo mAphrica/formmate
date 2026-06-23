@@ -135,3 +135,4 @@
 - 2026-06-22 refined the schedule (pass 134)
 - 2026-06-22 tightened the guard (pass 135)
 - 2026-06-22 measured the slow path (pass 136)
+- 2026-06-23 documented the fallback (pass 137)
