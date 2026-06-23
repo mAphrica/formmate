@@ -156,3 +156,4 @@
 - 2026-06-20 measured the slow path (pass 155)
 - 2026-06-21 restated the contract (pass 156)
 - 2026-06-22 noted the failure mode (pass 157)
+- 2026-06-23 measured the slow path (pass 158)
