@@ -158,3 +158,4 @@
 - 2026-06-22 measured the slow path (pass 157)
 - 2026-06-24 checked the migration (pass 158)
 - 2026-06-24 tightened the guard (pass 159)
+- 2026-06-24 checked the migration (pass 160)
