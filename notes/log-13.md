@@ -158,3 +158,4 @@
 - 2026-06-23 trimmed the payload (pass 157)
 - 2026-06-24 tightened the guard (pass 158)
 - 2026-06-24 checked the migration (pass 159)
+- 2026-06-24 restated the contract (pass 160)

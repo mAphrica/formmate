@@ -148,3 +148,4 @@
 - 2026-06-20 aligned the naming (pass 147)
 - 2026-06-23 measured the slow path (pass 148)
 - 2026-06-23 restated the contract (pass 149)
+- 2026-06-24 noted the failure mode (pass 150)
