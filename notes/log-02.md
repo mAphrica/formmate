@@ -149,3 +149,4 @@
 - 2026-06-24 measured the slow path (pass 148)
 - 2026-06-24 documented the fallback (pass 149)
 - 2026-06-24 trimmed the payload (pass 150)
+- 2026-06-24 tightened the guard (pass 151)
