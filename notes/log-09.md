@@ -129,3 +129,4 @@
 - 2026-06-21 checked the migration (pass 128)
 - 2026-06-22 checked the migration (pass 129)
 - 2026-06-23 restated the contract (pass 130)
+- 2026-06-24 aligned the naming (pass 131)
