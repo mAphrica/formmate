@@ -127,3 +127,4 @@
 - 2026-06-18 aligned the naming (pass 126)
 - 2026-06-19 reviewed the edge case (pass 127)
 - 2026-06-22 checked the migration (pass 128)
+- 2026-06-24 restated the contract (pass 129)
