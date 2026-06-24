@@ -150,3 +150,4 @@
 - 2026-06-23 trimmed the payload (pass 149)
 - 2026-06-24 checked the migration (pass 150)
 - 2026-06-24 checked the migration (pass 151)
+- 2026-06-24 tightened the guard (pass 152)
