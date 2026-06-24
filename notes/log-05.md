@@ -148,3 +148,4 @@
 - 2026-06-22 refined the schedule (pass 147)
 - 2026-06-22 restated the contract (pass 148)
 - 2026-06-23 trimmed the payload (pass 149)
+- 2026-06-24 checked the migration (pass 150)
