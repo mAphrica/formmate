@@ -168,3 +168,4 @@
 - 2026-06-23 checked the migration (pass 167)
 - 2026-06-24 checked the migration (pass 168)
 - 2026-06-25 tightened the guard (pass 169)
+- 2026-06-25 trimmed the payload (pass 170)

@@ -160,3 +160,4 @@
 - 2026-06-24 tightened the guard (pass 159)
 - 2026-06-24 checked the migration (pass 160)
 - 2026-06-24 restated the contract (pass 161)
+- 2026-06-25 measured the slow path (pass 162)
