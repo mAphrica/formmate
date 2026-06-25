@@ -158,3 +158,4 @@
 - 2026-06-22 documented the fallback (pass 157)
 - 2026-06-23 measured the slow path (pass 158)
 - 2026-06-24 restated the contract (pass 159)
+- 2026-06-25 reviewed the edge case (pass 160)
