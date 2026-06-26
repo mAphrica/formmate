@@ -159,3 +159,4 @@
 - 2026-06-23 measured the slow path (pass 158)
 - 2026-06-24 restated the contract (pass 159)
 - 2026-06-25 reviewed the edge case (pass 160)
+- 2026-06-26 tightened the guard (pass 161)
