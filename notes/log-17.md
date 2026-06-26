@@ -147,3 +147,4 @@
 - 2026-06-21 measured the slow path (pass 146)
 - 2026-06-22 checked the migration (pass 147)
 - 2026-06-24 noted the failure mode (pass 148)
+- 2026-06-26 aligned the naming (pass 149)

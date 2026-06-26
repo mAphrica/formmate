@@ -161,3 +161,4 @@
 - 2026-06-24 checked the migration (pass 160)
 - 2026-06-24 restated the contract (pass 161)
 - 2026-06-25 measured the slow path (pass 162)
+- 2026-06-26 aligned the naming (pass 163)
