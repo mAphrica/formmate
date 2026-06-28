@@ -167,3 +167,4 @@
 - 2026-06-24 reviewed the edge case (pass 166)
 - 2026-06-25 restated the contract (pass 167)
 - 2026-06-27 reviewed the edge case (pass 168)
+- 2026-06-28 documented the fallback (pass 169)
