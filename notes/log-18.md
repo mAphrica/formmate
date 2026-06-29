@@ -130,3 +130,4 @@
 - 2026-06-24 documented the fallback (pass 129)
 - 2026-06-26 trimmed the payload (pass 130)
 - 2026-06-27 trimmed the payload (pass 131)
+- 2026-06-29 trimmed the payload (pass 132)
