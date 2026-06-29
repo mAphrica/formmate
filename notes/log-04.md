@@ -163,3 +163,4 @@
 - 2026-06-23 tightened the guard (pass 162)
 - 2026-06-25 reviewed the edge case (pass 163)
 - 2026-06-25 checked the migration (pass 164)
+- 2026-06-29 aligned the naming (pass 165)
