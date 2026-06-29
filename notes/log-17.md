@@ -151,3 +151,4 @@
 - 2026-06-26 refined the schedule (pass 150)
 - 2026-06-28 trimmed the payload (pass 151)
 - 2026-06-29 checked the migration (pass 152)
+- 2026-06-29 documented the fallback (pass 153)

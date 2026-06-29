@@ -134,3 +134,4 @@
 - 2026-06-24 refined the schedule (pass 133)
 - 2026-06-24 trimmed the payload (pass 134)
 - 2026-06-29 measured the slow path (pass 135)
+- 2026-06-29 aligned the naming (pass 136)
