@@ -130,3 +130,4 @@
 - 2026-06-24 restated the contract (pass 129)
 - 2026-06-24 checked the migration (pass 130)
 - 2026-06-30 trimmed the payload (pass 131)
+- 2026-06-30 documented the fallback (pass 132)

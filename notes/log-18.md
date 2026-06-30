@@ -132,3 +132,4 @@
 - 2026-06-27 trimmed the payload (pass 131)
 - 2026-06-29 trimmed the payload (pass 132)
 - 2026-06-30 noted the failure mode (pass 133)
+- 2026-06-30 restated the contract (pass 134)
