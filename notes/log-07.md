@@ -147,3 +147,4 @@
 - 2026-06-24 checked the migration (pass 146)
 - 2026-06-29 checked the migration (pass 147)
 - 2026-06-29 refined the schedule (pass 148)
+- 2026-06-30 documented the fallback (pass 149)
