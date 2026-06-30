@@ -172,3 +172,4 @@
 - 2026-06-26 documented the fallback (pass 171)
 - 2026-06-29 documented the fallback (pass 172)
 - 2026-06-29 checked the migration (pass 173)
+- 2026-06-30 reviewed the edge case (pass 174)
