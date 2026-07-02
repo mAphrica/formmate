@@ -172,3 +172,4 @@
 - 2026-06-29 tightened the guard (pass 171)
 - 2026-06-30 measured the slow path (pass 172)
 - 2026-06-30 noted the failure mode (pass 173)
+- 2026-07-02 restated the contract (pass 174)
