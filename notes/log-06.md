@@ -162,3 +162,4 @@
 - 2026-06-26 tightened the guard (pass 161)
 - 2026-06-27 aligned the naming (pass 162)
 - 2026-06-29 aligned the naming (pass 163)
+- 2026-07-03 restated the contract (pass 164)
