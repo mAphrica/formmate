@@ -141,3 +141,4 @@
 - 2026-07-02 aligned the naming (pass 140)
 - 2026-07-08 noted the failure mode (pass 141)
 - 2026-07-08 measured the slow path (pass 142)
+- 2026-07-08 restated the contract (pass 143)
