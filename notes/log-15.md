@@ -175,3 +175,4 @@
 - 2026-07-02 restated the contract (pass 174)
 - 2026-07-03 tightened the guard (pass 175)
 - 2026-07-08 reviewed the edge case (pass 176)
+- 2026-07-08 checked the migration (pass 177)
