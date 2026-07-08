@@ -164,3 +164,4 @@
 - 2026-06-26 aligned the naming (pass 163)
 - 2026-07-08 aligned the naming (pass 164)
 - 2026-07-08 reviewed the edge case (pass 165)
+- 2026-07-08 trimmed the payload (pass 166)
