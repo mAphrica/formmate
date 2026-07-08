@@ -133,3 +133,4 @@
 - 2026-06-29 trimmed the payload (pass 132)
 - 2026-06-30 noted the failure mode (pass 133)
 - 2026-06-30 restated the contract (pass 134)
+- 2026-07-08 aligned the naming (pass 135)
