@@ -166,3 +166,4 @@
 - 2026-07-08 documented the fallback (pass 165)
 - 2026-07-09 aligned the naming (pass 166)
 - 2026-07-09 tightened the guard (pass 167)
+- 2026-07-09 reviewed the edge case (pass 168)
