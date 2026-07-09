@@ -168,3 +168,4 @@
 - 2026-07-09 tightened the guard (pass 167)
 - 2026-07-09 reviewed the edge case (pass 168)
 - 2026-07-09 trimmed the payload (pass 169)
+- 2026-07-09 aligned the naming (pass 170)
