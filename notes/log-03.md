@@ -142,3 +142,4 @@
 - 2026-07-08 noted the failure mode (pass 141)
 - 2026-07-08 measured the slow path (pass 142)
 - 2026-07-08 restated the contract (pass 143)
+- 2026-07-09 reviewed the edge case (pass 144)
