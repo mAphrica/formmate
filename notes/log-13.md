@@ -165,3 +165,4 @@
 - 2026-07-08 restated the contract (pass 164)
 - 2026-07-08 documented the fallback (pass 165)
 - 2026-07-09 aligned the naming (pass 166)
+- 2026-07-09 tightened the guard (pass 167)

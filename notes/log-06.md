@@ -166,3 +166,4 @@
 - 2026-07-09 reviewed the edge case (pass 165)
 - 2026-07-09 restated the contract (pass 166)
 - 2026-07-09 documented the fallback (pass 167)
+- 2026-07-09 refined the schedule (pass 168)
