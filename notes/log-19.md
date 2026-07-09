@@ -176,3 +176,4 @@
 - 2026-07-08 refined the schedule (pass 175)
 - 2026-07-09 reviewed the edge case (pass 176)
 - 2026-07-09 aligned the naming (pass 177)
+- 2026-07-09 tightened the guard (pass 178)
