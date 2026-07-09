@@ -170,3 +170,4 @@
 - 2026-07-09 aligned the naming (pass 169)
 - 2026-07-09 noted the failure mode (pass 170)
 - 2026-07-09 reviewed the edge case (pass 171)
+- 2026-07-09 documented the fallback (pass 172)
