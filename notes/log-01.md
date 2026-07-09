@@ -167,3 +167,4 @@
 - 2026-07-08 noted the failure mode (pass 166)
 - 2026-07-08 checked the migration (pass 167)
 - 2026-07-09 trimmed the payload (pass 168)
+- 2026-07-09 aligned the naming (pass 169)
