@@ -176,3 +176,4 @@
 - 2026-07-03 tightened the guard (pass 175)
 - 2026-07-08 reviewed the edge case (pass 176)
 - 2026-07-08 checked the migration (pass 177)
+- 2026-07-09 measured the slow path (pass 178)
