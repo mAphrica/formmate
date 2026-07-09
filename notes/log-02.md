@@ -155,3 +155,4 @@
 - 2026-07-08 documented the fallback (pass 154)
 - 2026-07-08 restated the contract (pass 155)
 - 2026-07-09 refined the schedule (pass 156)
+- 2026-07-09 noted the failure mode (pass 157)
