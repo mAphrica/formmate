@@ -139,3 +139,4 @@
 - 2026-07-03 aligned the naming (pass 138)
 - 2026-07-09 refined the schedule (pass 139)
 - 2026-07-09 documented the fallback (pass 140)
+- 2026-07-09 checked the migration (pass 141)
