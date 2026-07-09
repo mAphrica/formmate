@@ -146,3 +146,4 @@
 - 2026-07-09 tightened the guard (pass 145)
 - 2026-07-09 trimmed the payload (pass 146)
 - 2026-07-09 trimmed the payload (pass 147)
+- 2026-07-09 noted the failure mode (pass 148)
