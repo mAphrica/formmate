@@ -169,3 +169,4 @@
 - 2026-06-30 reviewed the edge case (pass 168)
 - 2026-07-08 tightened the guard (pass 169)
 - 2026-07-09 refined the schedule (pass 170)
+- 2026-07-09 trimmed the payload (pass 171)

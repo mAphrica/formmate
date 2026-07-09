@@ -154,3 +154,4 @@
 - 2026-06-29 documented the fallback (pass 153)
 - 2026-07-08 checked the migration (pass 154)
 - 2026-07-09 checked the migration (pass 155)
+- 2026-07-09 trimmed the payload (pass 156)
