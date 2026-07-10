@@ -149,3 +149,4 @@
 - 2026-07-09 noted the failure mode (pass 148)
 - 2026-07-09 refined the schedule (pass 149)
 - 2026-07-09 documented the fallback (pass 150)
+- 2026-07-10 tightened the guard (pass 151)
