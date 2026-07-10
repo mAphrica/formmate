@@ -170,3 +170,4 @@
 - 2026-07-08 tightened the guard (pass 169)
 - 2026-07-09 refined the schedule (pass 170)
 - 2026-07-09 trimmed the payload (pass 171)
+- 2026-07-10 documented the fallback (pass 172)
