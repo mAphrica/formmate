@@ -159,3 +159,4 @@
 - 2026-06-29 tightened the guard (pass 158)
 - 2026-07-08 refined the schedule (pass 159)
 - 2026-07-09 checked the migration (pass 160)
+- 2026-07-10 trimmed the payload (pass 161)

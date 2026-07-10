@@ -178,3 +178,4 @@
 - 2026-07-09 aligned the naming (pass 177)
 - 2026-07-09 tightened the guard (pass 178)
 - 2026-07-09 restated the contract (pass 179)
+- 2026-07-10 checked the migration (pass 180)
