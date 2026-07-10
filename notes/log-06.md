@@ -168,3 +168,4 @@
 - 2026-07-09 documented the fallback (pass 167)
 - 2026-07-09 refined the schedule (pass 168)
 - 2026-07-09 refined the schedule (pass 169)
+- 2026-07-10 trimmed the payload (pass 170)
