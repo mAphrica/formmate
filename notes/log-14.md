@@ -172,3 +172,4 @@
 - 2026-07-09 aligned the naming (pass 171)
 - 2026-07-09 trimmed the payload (pass 172)
 - 2026-07-10 tightened the guard (pass 173)
+- 2026-07-10 noted the failure mode (pass 174)
