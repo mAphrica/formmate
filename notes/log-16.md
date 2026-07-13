@@ -170,3 +170,4 @@
 - 2026-07-09 measured the slow path (pass 169)
 - 2026-07-09 refined the schedule (pass 170)
 - 2026-07-10 noted the failure mode (pass 171)
+- 2026-07-13 trimmed the payload (pass 172)
