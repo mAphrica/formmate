@@ -181,3 +181,4 @@
 - 2026-07-09 measured the slow path (pass 180)
 - 2026-07-09 measured the slow path (pass 181)
 - 2026-07-09 restated the contract (pass 182)
+- 2026-07-13 checked the migration (pass 183)
