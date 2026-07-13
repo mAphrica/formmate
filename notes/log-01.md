@@ -171,3 +171,4 @@
 - 2026-07-09 noted the failure mode (pass 170)
 - 2026-07-09 reviewed the edge case (pass 171)
 - 2026-07-09 documented the fallback (pass 172)
+- 2026-07-13 measured the slow path (pass 173)

@@ -180,3 +180,4 @@
 - 2026-07-09 restated the contract (pass 179)
 - 2026-07-10 checked the migration (pass 180)
 - 2026-07-13 checked the migration (pass 181)
+- 2026-07-13 documented the fallback (pass 182)
