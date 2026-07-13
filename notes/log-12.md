@@ -141,3 +141,4 @@
 - 2026-07-09 tightened the guard (pass 140)
 - 2026-07-09 reviewed the edge case (pass 141)
 - 2026-07-13 tightened the guard (pass 142)
+- 2026-07-13 aligned the naming (pass 143)
