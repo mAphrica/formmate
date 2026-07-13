@@ -156,3 +156,4 @@
 - 2026-07-09 measured the slow path (pass 155)
 - 2026-07-09 measured the slow path (pass 156)
 - 2026-07-10 reviewed the edge case (pass 157)
+- 2026-07-13 tightened the guard (pass 158)

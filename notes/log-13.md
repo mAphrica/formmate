@@ -173,3 +173,4 @@
 - 2026-07-13 refined the schedule (pass 172)
 - 2026-07-13 aligned the naming (pass 173)
 - 2026-07-13 documented the fallback (pass 174)
+- 2026-07-13 restated the contract (pass 175)
