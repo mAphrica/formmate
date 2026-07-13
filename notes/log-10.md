@@ -154,3 +154,4 @@
 - 2026-07-09 checked the migration (pass 153)
 - 2026-07-09 measured the slow path (pass 154)
 - 2026-07-10 restated the contract (pass 155)
+- 2026-07-13 documented the fallback (pass 156)

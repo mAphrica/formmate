@@ -137,3 +137,4 @@
 - 2026-07-09 tightened the guard (pass 136)
 - 2026-07-09 aligned the naming (pass 137)
 - 2026-07-09 noted the failure mode (pass 138)
+- 2026-07-13 trimmed the payload (pass 139)
