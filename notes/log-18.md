@@ -139,3 +139,4 @@
 - 2026-07-09 documented the fallback (pass 138)
 - 2026-07-10 noted the failure mode (pass 139)
 - 2026-07-13 checked the migration (pass 140)
+- 2026-07-14 tightened the guard (pass 141)
