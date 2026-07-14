@@ -143,3 +143,4 @@
 - 2026-07-13 tightened the guard (pass 142)
 - 2026-07-13 aligned the naming (pass 143)
 - 2026-07-13 noted the failure mode (pass 144)
+- 2026-07-14 aligned the naming (pass 145)
