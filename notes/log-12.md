@@ -144,3 +144,4 @@
 - 2026-07-13 aligned the naming (pass 143)
 - 2026-07-13 noted the failure mode (pass 144)
 - 2026-07-14 aligned the naming (pass 145)
+- 2026-07-14 documented the fallback (pass 146)
