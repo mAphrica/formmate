@@ -153,3 +153,4 @@
 - 2026-07-09 noted the failure mode (pass 152)
 - 2026-07-09 noted the failure mode (pass 153)
 - 2026-07-09 documented the fallback (pass 154)
+- 2026-07-14 reviewed the edge case (pass 155)
