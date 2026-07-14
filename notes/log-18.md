@@ -141,3 +141,4 @@
 - 2026-07-13 checked the migration (pass 140)
 - 2026-07-14 tightened the guard (pass 141)
 - 2026-07-14 reviewed the edge case (pass 142)
+- 2026-07-14 documented the fallback (pass 143)
