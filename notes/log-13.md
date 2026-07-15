@@ -176,3 +176,4 @@
 - 2026-07-13 restated the contract (pass 175)
 - 2026-07-14 aligned the naming (pass 176)
 - 2026-07-15 measured the slow path (pass 177)
+- 2026-07-15 checked the migration (pass 178)
