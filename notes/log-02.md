@@ -166,3 +166,4 @@
 - 2026-07-15 tightened the guard (pass 165)
 - 2026-07-15 trimmed the payload (pass 166)
 - 2026-07-15 refined the schedule (pass 167)
+- 2026-07-15 noted the failure mode (pass 168)

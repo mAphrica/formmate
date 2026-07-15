@@ -167,3 +167,4 @@
 - 2026-07-14 documented the fallback (pass 166)
 - 2026-07-15 reviewed the edge case (pass 167)
 - 2026-07-15 reviewed the edge case (pass 168)
+- 2026-07-15 noted the failure mode (pass 169)
