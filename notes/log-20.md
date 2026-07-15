@@ -156,3 +156,4 @@
 - 2026-07-14 reviewed the edge case (pass 155)
 - 2026-07-14 measured the slow path (pass 156)
 - 2026-07-15 aligned the naming (pass 157)
+- 2026-07-15 restated the contract (pass 158)
