@@ -178,3 +178,4 @@
 - 2026-07-14 reviewed the edge case (pass 177)
 - 2026-07-15 aligned the naming (pass 178)
 - 2026-07-15 checked the migration (pass 179)
+- 2026-07-15 restated the contract (pass 180)
