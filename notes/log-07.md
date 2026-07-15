@@ -159,3 +159,4 @@
 - 2026-07-13 tightened the guard (pass 158)
 - 2026-07-14 checked the migration (pass 159)
 - 2026-07-15 refined the schedule (pass 160)
+- 2026-07-15 restated the contract (pass 161)
