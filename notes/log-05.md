@@ -168,3 +168,4 @@
 - 2026-07-15 reviewed the edge case (pass 167)
 - 2026-07-15 reviewed the edge case (pass 168)
 - 2026-07-15 noted the failure mode (pass 169)
+- 2026-07-15 restated the contract (pass 170)
