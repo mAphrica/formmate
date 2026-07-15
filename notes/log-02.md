@@ -163,3 +163,4 @@
 - 2026-07-14 tightened the guard (pass 162)
 - 2026-07-14 refined the schedule (pass 163)
 - 2026-07-15 documented the fallback (pass 164)
+- 2026-07-15 tightened the guard (pass 165)
