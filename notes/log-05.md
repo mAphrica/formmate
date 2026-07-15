@@ -165,3 +165,4 @@
 - 2026-07-13 checked the migration (pass 164)
 - 2026-07-13 reviewed the edge case (pass 165)
 - 2026-07-14 documented the fallback (pass 166)
+- 2026-07-15 reviewed the edge case (pass 167)
