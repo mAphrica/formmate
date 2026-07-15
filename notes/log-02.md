@@ -164,3 +164,4 @@
 - 2026-07-14 refined the schedule (pass 163)
 - 2026-07-15 documented the fallback (pass 164)
 - 2026-07-15 tightened the guard (pass 165)
+- 2026-07-15 trimmed the payload (pass 166)
