@@ -187,3 +187,4 @@
 - 2026-07-14 documented the fallback (pass 186)
 - 2026-07-16 aligned the naming (pass 187)
 - 2026-07-16 refined the schedule (pass 188)
+- 2026-07-16 refined the schedule (pass 189)
