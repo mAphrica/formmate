@@ -177,3 +177,4 @@
 - 2026-07-15 reviewed the edge case (pass 176)
 - 2026-07-15 tightened the guard (pass 177)
 - 2026-07-15 trimmed the payload (pass 178)
+- 2026-07-16 documented the fallback (pass 179)
