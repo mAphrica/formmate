@@ -157,3 +157,4 @@
 - 2026-07-13 documented the fallback (pass 156)
 - 2026-07-13 noted the failure mode (pass 157)
 - 2026-07-16 trimmed the payload (pass 158)
+- 2026-07-16 tightened the guard (pass 159)
