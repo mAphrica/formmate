@@ -177,3 +177,4 @@
 - 2026-07-13 checked the migration (pass 176)
 - 2026-07-14 measured the slow path (pass 177)
 - 2026-07-15 checked the migration (pass 178)
+- 2026-07-16 tightened the guard (pass 179)
