@@ -175,3 +175,4 @@
 - 2026-07-15 refined the schedule (pass 174)
 - 2026-07-15 tightened the guard (pass 175)
 - 2026-07-16 noted the failure mode (pass 176)
+- 2026-07-16 checked the migration (pass 177)
