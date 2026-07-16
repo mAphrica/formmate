@@ -178,3 +178,4 @@
 - 2026-07-15 tightened the guard (pass 177)
 - 2026-07-15 trimmed the payload (pass 178)
 - 2026-07-16 documented the fallback (pass 179)
+- 2026-07-16 trimmed the payload (pass 180)
