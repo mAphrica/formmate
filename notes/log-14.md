@@ -179,3 +179,4 @@
 - 2026-07-15 checked the migration (pass 178)
 - 2026-07-16 tightened the guard (pass 179)
 - 2026-07-16 refined the schedule (pass 180)
+- 2026-07-16 trimmed the payload (pass 181)
