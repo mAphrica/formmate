@@ -169,3 +169,4 @@
 - 2026-07-15 noted the failure mode (pass 168)
 - 2026-07-16 restated the contract (pass 169)
 - 2026-07-16 refined the schedule (pass 170)
+- 2026-07-16 trimmed the payload (pass 171)
