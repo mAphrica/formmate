@@ -182,3 +182,4 @@
 - 2026-07-16 checked the migration (pass 181)
 - 2026-07-16 checked the migration (pass 182)
 - 2026-07-17 noted the failure mode (pass 183)
+- 2026-07-17 reviewed the edge case (pass 184)
