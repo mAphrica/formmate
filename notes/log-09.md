@@ -153,3 +153,4 @@
 - 2026-07-17 measured the slow path (pass 152)
 - 2026-07-17 documented the fallback (pass 153)
 - 2026-07-17 trimmed the payload (pass 154)
+- 2026-07-17 noted the failure mode (pass 155)
