@@ -183,3 +183,4 @@
 - 2026-07-13 documented the fallback (pass 182)
 - 2026-07-15 tightened the guard (pass 183)
 - 2026-07-17 restated the contract (pass 184)
+- 2026-07-17 refined the schedule (pass 185)
