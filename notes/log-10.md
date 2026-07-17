@@ -167,3 +167,4 @@
 - 2026-07-17 checked the migration (pass 166)
 - 2026-07-17 refined the schedule (pass 167)
 - 2026-07-17 measured the slow path (pass 168)
+- 2026-07-17 aligned the naming (pass 169)
