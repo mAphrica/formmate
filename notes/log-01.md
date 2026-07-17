@@ -181,3 +181,4 @@
 - 2026-07-16 trimmed the payload (pass 180)
 - 2026-07-16 checked the migration (pass 181)
 - 2026-07-16 checked the migration (pass 182)
+- 2026-07-17 noted the failure mode (pass 183)
