@@ -155,3 +155,4 @@
 - 2026-07-17 trimmed the payload (pass 154)
 - 2026-07-17 noted the failure mode (pass 155)
 - 2026-07-17 reviewed the edge case (pass 156)
+- 2026-07-17 tightened the guard (pass 157)
