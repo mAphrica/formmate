@@ -178,3 +178,4 @@
 - 2026-07-16 restated the contract (pass 177)
 - 2026-07-16 restated the contract (pass 178)
 - 2026-07-17 restated the contract (pass 179)
+- 2026-07-17 noted the failure mode (pass 180)
