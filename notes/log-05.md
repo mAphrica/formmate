@@ -172,3 +172,4 @@
 - 2026-07-16 restated the contract (pass 171)
 - 2026-07-17 trimmed the payload (pass 172)
 - 2026-07-17 restated the contract (pass 173)
+- 2026-07-17 aligned the naming (pass 174)
