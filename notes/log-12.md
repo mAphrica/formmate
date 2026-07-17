@@ -150,3 +150,4 @@
 - 2026-07-16 refined the schedule (pass 149)
 - 2026-07-16 refined the schedule (pass 150)
 - 2026-07-16 trimmed the payload (pass 151)
+- 2026-07-17 noted the failure mode (pass 152)
