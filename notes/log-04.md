@@ -180,3 +180,4 @@
 - 2026-07-17 restated the contract (pass 179)
 - 2026-07-17 noted the failure mode (pass 180)
 - 2026-07-17 restated the contract (pass 181)
+- 2026-07-20 aligned the naming (pass 182)
