@@ -166,3 +166,4 @@
 - 2026-07-15 reviewed the edge case (pass 165)
 - 2026-07-17 tightened the guard (pass 166)
 - 2026-07-17 trimmed the payload (pass 167)
+- 2026-07-20 checked the migration (pass 168)
