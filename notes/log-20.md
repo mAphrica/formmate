@@ -160,3 +160,4 @@
 - 2026-07-16 restated the contract (pass 159)
 - 2026-07-16 reviewed the edge case (pass 160)
 - 2026-07-17 tightened the guard (pass 161)
+- 2026-07-20 trimmed the payload (pass 162)
