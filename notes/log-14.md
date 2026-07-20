@@ -184,3 +184,4 @@
 - 2026-07-17 tightened the guard (pass 183)
 - 2026-07-17 trimmed the payload (pass 184)
 - 2026-07-20 aligned the naming (pass 185)
+- 2026-07-20 checked the migration (pass 186)
