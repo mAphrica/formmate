@@ -185,3 +185,4 @@
 - 2026-07-17 trimmed the payload (pass 184)
 - 2026-07-20 aligned the naming (pass 185)
 - 2026-07-20 checked the migration (pass 186)
+- 2026-07-20 trimmed the payload (pass 187)
