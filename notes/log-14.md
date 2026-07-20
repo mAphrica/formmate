@@ -183,3 +183,4 @@
 - 2026-07-17 noted the failure mode (pass 182)
 - 2026-07-17 tightened the guard (pass 183)
 - 2026-07-17 trimmed the payload (pass 184)
+- 2026-07-20 aligned the naming (pass 185)
