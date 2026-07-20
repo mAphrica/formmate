@@ -160,3 +160,4 @@
 - 2026-07-17 refined the schedule (pass 159)
 - 2026-07-17 noted the failure mode (pass 160)
 - 2026-07-17 checked the migration (pass 161)
+- 2026-07-20 restated the contract (pass 162)
