@@ -154,3 +154,4 @@
 - 2026-07-17 restated the contract (pass 153)
 - 2026-07-17 restated the contract (pass 154)
 - 2026-07-23 checked the migration (pass 155)
+- 2026-07-23 noted the failure mode (pass 156)
