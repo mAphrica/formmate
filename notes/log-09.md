@@ -159,3 +159,4 @@
 - 2026-07-20 tightened the guard (pass 158)
 - 2026-07-20 noted the failure mode (pass 159)
 - 2026-07-20 restated the contract (pass 160)
+- 2026-07-23 reviewed the edge case (pass 161)
