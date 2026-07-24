@@ -173,3 +173,4 @@
 - 2026-07-24 restated the contract (pass 172)
 - 2026-07-24 documented the fallback (pass 173)
 - 2026-07-24 noted the failure mode (pass 174)
+- 2026-07-24 documented the fallback (pass 175)
