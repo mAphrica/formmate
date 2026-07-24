@@ -168,3 +168,4 @@
 - 2026-07-20 aligned the naming (pass 167)
 - 2026-07-24 reviewed the edge case (pass 168)
 - 2026-07-24 reviewed the edge case (pass 169)
+- 2026-07-24 documented the fallback (pass 170)
