@@ -185,3 +185,4 @@
 - 2026-07-17 checked the migration (pass 184)
 - 2026-07-17 measured the slow path (pass 185)
 - 2026-07-23 checked the migration (pass 186)
+- 2026-07-24 documented the fallback (pass 187)
