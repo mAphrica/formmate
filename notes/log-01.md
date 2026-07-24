@@ -192,3 +192,4 @@
 - 2026-07-24 measured the slow path (pass 191)
 - 2026-07-24 measured the slow path (pass 192)
 - 2026-07-24 tightened the guard (pass 193)
+- 2026-07-24 aligned the naming (pass 194)
