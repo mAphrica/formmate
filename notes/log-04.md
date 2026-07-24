@@ -184,3 +184,4 @@
 - 2026-07-20 checked the migration (pass 183)
 - 2026-07-23 restated the contract (pass 184)
 - 2026-07-24 checked the migration (pass 185)
+- 2026-07-24 tightened the guard (pass 186)

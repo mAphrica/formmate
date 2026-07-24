@@ -183,3 +183,4 @@
 - 2026-07-20 aligned the naming (pass 182)
 - 2026-07-20 refined the schedule (pass 183)
 - 2026-07-24 noted the failure mode (pass 184)
+- 2026-07-24 restated the contract (pass 185)
