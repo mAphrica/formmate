@@ -175,3 +175,4 @@
 - 2026-07-17 aligned the naming (pass 174)
 - 2026-07-20 documented the fallback (pass 175)
 - 2026-07-20 measured the slow path (pass 176)
+- 2026-07-24 tightened the guard (pass 177)
