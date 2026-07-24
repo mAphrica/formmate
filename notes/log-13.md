@@ -184,3 +184,4 @@
 - 2026-07-17 documented the fallback (pass 183)
 - 2026-07-17 trimmed the payload (pass 184)
 - 2026-07-20 documented the fallback (pass 185)
+- 2026-07-24 restated the contract (pass 186)
