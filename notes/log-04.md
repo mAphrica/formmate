@@ -185,3 +185,4 @@
 - 2026-07-23 restated the contract (pass 184)
 - 2026-07-24 checked the migration (pass 185)
 - 2026-07-24 tightened the guard (pass 186)
+- 2026-07-24 documented the fallback (pass 187)
