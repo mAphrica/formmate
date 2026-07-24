@@ -166,3 +166,4 @@
 - 2026-07-17 refined the schedule (pass 165)
 - 2026-07-17 reviewed the edge case (pass 166)
 - 2026-07-17 refined the schedule (pass 167)
+- 2026-07-24 noted the failure mode (pass 168)
