@@ -186,3 +186,4 @@
 - 2026-07-24 checked the migration (pass 185)
 - 2026-07-24 tightened the guard (pass 186)
 - 2026-07-24 documented the fallback (pass 187)
+- 2026-07-27 trimmed the payload (pass 188)
