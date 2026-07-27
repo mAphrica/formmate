@@ -162,3 +162,4 @@
 - 2026-07-17 checked the migration (pass 161)
 - 2026-07-20 restated the contract (pass 162)
 - 2026-07-24 noted the failure mode (pass 163)
+- 2026-07-27 aligned the naming (pass 164)
