@@ -165,3 +165,4 @@
 - 2026-07-27 aligned the naming (pass 164)
 - 2026-07-27 tightened the guard (pass 165)
 - 2026-07-27 documented the fallback (pass 166)
+- 2026-07-27 documented the fallback (pass 167)
