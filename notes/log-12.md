@@ -160,3 +160,4 @@
 - 2026-07-27 tightened the guard (pass 159)
 - 2026-07-27 measured the slow path (pass 160)
 - 2026-07-27 reviewed the edge case (pass 161)
+- 2026-07-27 noted the failure mode (pass 162)
