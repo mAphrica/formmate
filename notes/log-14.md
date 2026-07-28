@@ -187,3 +187,4 @@
 - 2026-07-20 checked the migration (pass 186)
 - 2026-07-20 trimmed the payload (pass 187)
 - 2026-07-28 trimmed the payload (pass 188)
+- 2026-07-28 refined the schedule (pass 189)
