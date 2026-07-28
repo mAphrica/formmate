@@ -168,3 +168,4 @@
 - 2026-07-28 documented the fallback (pass 167)
 - 2026-07-28 noted the failure mode (pass 168)
 - 2026-07-28 checked the migration (pass 169)
+- 2026-07-28 noted the failure mode (pass 170)

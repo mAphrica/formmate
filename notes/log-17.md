@@ -173,3 +173,4 @@
 - 2026-07-24 noted the failure mode (pass 172)
 - 2026-07-28 checked the migration (pass 173)
 - 2026-07-28 documented the fallback (pass 174)
+- 2026-07-28 aligned the naming (pass 175)
