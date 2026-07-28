@@ -187,3 +187,4 @@
 - 2026-07-24 restated the contract (pass 186)
 - 2026-07-24 checked the migration (pass 187)
 - 2026-07-28 aligned the naming (pass 188)
+- 2026-07-28 noted the failure mode (pass 189)
