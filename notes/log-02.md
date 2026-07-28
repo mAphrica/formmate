@@ -180,3 +180,4 @@
 - 2026-07-24 checked the migration (pass 179)
 - 2026-07-28 restated the contract (pass 180)
 - 2026-07-28 trimmed the payload (pass 181)
+- 2026-07-28 reviewed the edge case (pass 182)
