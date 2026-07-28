@@ -166,3 +166,4 @@
 - 2026-07-24 trimmed the payload (pass 165)
 - 2026-07-24 aligned the naming (pass 166)
 - 2026-07-28 documented the fallback (pass 167)
+- 2026-07-28 noted the failure mode (pass 168)

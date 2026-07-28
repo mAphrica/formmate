@@ -179,3 +179,4 @@
 - 2026-07-24 noted the failure mode (pass 178)
 - 2026-07-24 checked the migration (pass 179)
 - 2026-07-28 restated the contract (pass 180)
+- 2026-07-28 trimmed the payload (pass 181)
