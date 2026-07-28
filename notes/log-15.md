@@ -200,3 +200,4 @@
 - 2026-07-27 refined the schedule (pass 199)
 - 2026-07-27 documented the fallback (pass 200)
 - 2026-07-28 tightened the guard (pass 201)
+- 2026-07-28 measured the slow path (pass 202)
