@@ -197,3 +197,4 @@
 - 2026-07-28 refined the schedule (pass 196)
 - 2026-07-28 trimmed the payload (pass 197)
 - 2026-07-29 refined the schedule (pass 198)
+- 2026-07-29 documented the fallback (pass 199)

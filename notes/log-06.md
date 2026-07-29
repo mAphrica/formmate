@@ -193,3 +193,4 @@
 - 2026-07-28 checked the migration (pass 192)
 - 2026-07-29 noted the failure mode (pass 193)
 - 2026-07-29 tightened the guard (pass 194)
+- 2026-07-29 aligned the naming (pass 195)
