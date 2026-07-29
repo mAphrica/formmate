@@ -168,3 +168,4 @@
 - 2026-07-27 documented the fallback (pass 167)
 - 2026-07-28 refined the schedule (pass 168)
 - 2026-07-29 restated the contract (pass 169)
+- 2026-07-29 tightened the guard (pass 170)
