@@ -191,3 +191,4 @@
 - 2026-07-27 restated the contract (pass 190)
 - 2026-07-28 refined the schedule (pass 191)
 - 2026-07-28 tightened the guard (pass 192)
+- 2026-07-29 measured the slow path (pass 193)
