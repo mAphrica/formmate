@@ -170,3 +170,4 @@
 - 2026-07-28 checked the migration (pass 169)
 - 2026-07-28 noted the failure mode (pass 170)
 - 2026-07-29 restated the contract (pass 171)
+- 2026-07-29 restated the contract (pass 172)

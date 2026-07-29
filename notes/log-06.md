@@ -192,3 +192,4 @@
 - 2026-07-28 refined the schedule (pass 191)
 - 2026-07-28 checked the migration (pass 192)
 - 2026-07-29 noted the failure mode (pass 193)
+- 2026-07-29 tightened the guard (pass 194)
