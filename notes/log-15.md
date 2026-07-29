@@ -202,3 +202,4 @@
 - 2026-07-28 tightened the guard (pass 201)
 - 2026-07-28 measured the slow path (pass 202)
 - 2026-07-29 noted the failure mode (pass 203)
+- 2026-07-29 aligned the naming (pass 204)
