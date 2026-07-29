@@ -174,3 +174,4 @@
 - 2026-07-28 checked the migration (pass 173)
 - 2026-07-28 documented the fallback (pass 174)
 - 2026-07-28 aligned the naming (pass 175)
+- 2026-07-29 restated the contract (pass 176)
