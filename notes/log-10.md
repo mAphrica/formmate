@@ -172,3 +172,4 @@
 - 2026-07-20 documented the fallback (pass 171)
 - 2026-07-20 measured the slow path (pass 172)
 - 2026-07-24 aligned the naming (pass 173)
+- 2026-07-29 reviewed the edge case (pass 174)
