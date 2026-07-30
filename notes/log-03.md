@@ -171,3 +171,4 @@
 - 2026-07-29 tightened the guard (pass 170)
 - 2026-07-30 tightened the guard (pass 171)
 - 2026-07-30 refined the schedule (pass 172)
+- 2026-07-30 checked the migration (pass 173)
