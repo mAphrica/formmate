@@ -200,3 +200,4 @@
 - 2026-07-29 documented the fallback (pass 199)
 - 2026-07-29 tightened the guard (pass 200)
 - 2026-07-29 aligned the naming (pass 201)
+- 2026-07-30 refined the schedule (pass 202)
