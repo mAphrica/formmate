@@ -182,3 +182,4 @@
 - 2026-07-30 checked the migration (pass 181)
 - 2026-07-30 noted the failure mode (pass 182)
 - 2026-07-30 refined the schedule (pass 183)
+- 2026-07-30 documented the fallback (pass 184)
