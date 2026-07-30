@@ -190,3 +190,4 @@
 - 2026-07-28 noted the failure mode (pass 189)
 - 2026-07-29 documented the fallback (pass 190)
 - 2026-07-30 tightened the guard (pass 191)
+- 2026-07-30 reviewed the edge case (pass 192)

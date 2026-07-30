@@ -195,3 +195,4 @@
 - 2026-07-29 reviewed the edge case (pass 194)
 - 2026-07-29 measured the slow path (pass 195)
 - 2026-07-30 trimmed the payload (pass 196)
+- 2026-07-30 refined the schedule (pass 197)
