@@ -179,3 +179,4 @@
 - 2026-07-29 tightened the guard (pass 178)
 - 2026-07-30 noted the failure mode (pass 179)
 - 2026-07-30 restated the contract (pass 180)
+- 2026-07-30 checked the migration (pass 181)

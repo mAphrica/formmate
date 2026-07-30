@@ -184,3 +184,4 @@
 - 2026-07-29 measured the slow path (pass 183)
 - 2026-07-29 restated the contract (pass 184)
 - 2026-07-30 aligned the naming (pass 185)
+- 2026-07-30 reviewed the edge case (pass 186)
