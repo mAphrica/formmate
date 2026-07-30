@@ -196,3 +196,4 @@
 - 2026-07-30 refined the schedule (pass 195)
 - 2026-07-30 measured the slow path (pass 196)
 - 2026-07-30 documented the fallback (pass 197)
+- 2026-07-30 documented the fallback (pass 198)
