@@ -186,3 +186,4 @@
 - 2026-07-29 noted the failure mode (pass 185)
 - 2026-07-30 restated the contract (pass 186)
 - 2026-07-30 documented the fallback (pass 187)
+- 2026-07-30 checked the migration (pass 188)
