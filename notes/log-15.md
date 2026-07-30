@@ -207,3 +207,4 @@
 - 2026-07-30 noted the failure mode (pass 206)
 - 2026-07-30 restated the contract (pass 207)
 - 2026-07-30 trimmed the payload (pass 208)
+- 2026-07-30 aligned the naming (pass 209)
