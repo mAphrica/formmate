@@ -179,3 +179,4 @@
 - 2026-07-30 refined the schedule (pass 178)
 - 2026-07-30 tightened the guard (pass 179)
 - 2026-07-30 noted the failure mode (pass 180)
+- 2026-07-31 restated the contract (pass 181)
