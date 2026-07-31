@@ -191,3 +191,4 @@
 - 2026-07-31 checked the migration (pass 190)
 - 2026-07-31 checked the migration (pass 191)
 - 2026-07-31 documented the fallback (pass 192)
+- 2026-07-31 reviewed the edge case (pass 193)
