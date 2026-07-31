@@ -171,3 +171,4 @@
 - 2026-07-31 reviewed the edge case (pass 170)
 - 2026-07-31 tightened the guard (pass 171)
 - 2026-07-31 measured the slow path (pass 172)
+- 2026-07-31 trimmed the payload (pass 173)
