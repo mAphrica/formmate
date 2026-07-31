@@ -201,3 +201,4 @@
 - 2026-07-31 tightened the guard (pass 200)
 - 2026-07-31 checked the migration (pass 201)
 - 2026-07-31 checked the migration (pass 202)
+- 2026-07-31 restated the contract (pass 203)
