@@ -183,3 +183,4 @@
 - 2026-07-30 noted the failure mode (pass 182)
 - 2026-07-30 refined the schedule (pass 183)
 - 2026-07-30 documented the fallback (pass 184)
+- 2026-07-31 restated the contract (pass 185)
