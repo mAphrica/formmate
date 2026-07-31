@@ -193,3 +193,4 @@
 - 2026-07-31 refined the schedule (pass 192)
 - 2026-07-31 tightened the guard (pass 193)
 - 2026-07-31 tightened the guard (pass 194)
+- 2026-07-31 documented the fallback (pass 195)
