@@ -169,3 +169,4 @@
 - 2026-07-27 reviewed the edge case (pass 168)
 - 2026-07-30 aligned the naming (pass 169)
 - 2026-07-30 documented the fallback (pass 170)
+- 2026-07-31 restated the contract (pass 171)
