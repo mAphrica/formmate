@@ -165,3 +165,4 @@
 - 2026-07-29 documented the fallback (pass 164)
 - 2026-07-29 checked the migration (pass 165)
 - 2026-07-30 measured the slow path (pass 166)
+- 2026-07-31 aligned the naming (pass 167)
