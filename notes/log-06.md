@@ -196,3 +196,4 @@
 - 2026-07-29 aligned the naming (pass 195)
 - 2026-07-29 measured the slow path (pass 196)
 - 2026-07-31 documented the fallback (pass 197)
+- 2026-07-31 refined the schedule (pass 198)

@@ -188,3 +188,4 @@
 - 2026-07-30 reviewed the edge case (pass 187)
 - 2026-07-30 refined the schedule (pass 188)
 - 2026-07-31 reviewed the edge case (pass 189)
+- 2026-07-31 checked the migration (pass 190)
