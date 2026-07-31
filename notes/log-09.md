@@ -174,3 +174,4 @@
 - 2026-07-29 documented the fallback (pass 173)
 - 2026-07-30 noted the failure mode (pass 174)
 - 2026-07-30 documented the fallback (pass 175)
+- 2026-07-31 aligned the naming (pass 176)
