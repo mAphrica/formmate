@@ -170,3 +170,4 @@
 - 2026-07-30 aligned the naming (pass 169)
 - 2026-07-30 documented the fallback (pass 170)
 - 2026-07-31 restated the contract (pass 171)
+- 2026-07-31 aligned the naming (pass 172)
