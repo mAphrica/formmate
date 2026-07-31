@@ -194,3 +194,4 @@
 - 2026-07-30 aligned the naming (pass 193)
 - 2026-07-30 trimmed the payload (pass 194)
 - 2026-07-31 restated the contract (pass 195)
+- 2026-07-31 trimmed the payload (pass 196)
