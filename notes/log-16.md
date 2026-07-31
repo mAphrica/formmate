@@ -201,3 +201,4 @@
 - 2026-07-31 restated the contract (pass 200)
 - 2026-07-31 noted the failure mode (pass 201)
 - 2026-07-31 measured the slow path (pass 202)
+- 2026-07-31 trimmed the payload (pass 203)
