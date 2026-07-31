@@ -172,3 +172,4 @@
 - 2026-07-31 documented the fallback (pass 171)
 - 2026-07-31 checked the migration (pass 172)
 - 2026-07-31 noted the failure mode (pass 173)
+- 2026-07-31 refined the schedule (pass 174)
