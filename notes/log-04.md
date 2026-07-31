@@ -193,3 +193,4 @@
 - 2026-07-28 tightened the guard (pass 192)
 - 2026-07-29 measured the slow path (pass 193)
 - 2026-07-29 reviewed the edge case (pass 194)
+- 2026-07-31 documented the fallback (pass 195)
