@@ -159,3 +159,4 @@
 - 2026-07-31 trimmed the payload (pass 158)
 - 2026-07-31 tightened the guard (pass 159)
 - 2026-07-31 tightened the guard (pass 160)
+- 2026-07-31 documented the fallback (pass 161)
