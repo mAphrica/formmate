@@ -173,3 +173,4 @@
 - 2026-07-31 measured the slow path (pass 172)
 - 2026-07-31 trimmed the payload (pass 173)
 - 2026-07-31 trimmed the payload (pass 174)
+- 2026-07-31 documented the fallback (pass 175)

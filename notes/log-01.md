@@ -203,3 +203,4 @@
 - 2026-07-30 refined the schedule (pass 202)
 - 2026-07-30 checked the migration (pass 203)
 - 2026-07-30 noted the failure mode (pass 204)
+- 2026-07-31 measured the slow path (pass 205)
