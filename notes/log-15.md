@@ -211,3 +211,4 @@
 - 2026-07-31 measured the slow path (pass 210)
 - 2026-07-31 aligned the naming (pass 211)
 - 2026-07-31 noted the failure mode (pass 212)
+- 2026-07-31 reviewed the edge case (pass 213)
