@@ -176,3 +176,4 @@
 - 2026-07-31 documented the fallback (pass 175)
 - 2026-07-31 noted the failure mode (pass 176)
 - 2026-07-31 measured the slow path (pass 177)
+- 2026-07-31 restated the contract (pass 178)
