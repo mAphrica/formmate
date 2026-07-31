@@ -183,3 +183,4 @@
 - 2026-07-31 checked the migration (pass 182)
 - 2026-07-31 noted the failure mode (pass 183)
 - 2026-07-31 aligned the naming (pass 184)
+- 2026-07-31 noted the failure mode (pass 185)
