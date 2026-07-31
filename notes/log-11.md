@@ -160,3 +160,4 @@
 - 2026-07-31 tightened the guard (pass 159)
 - 2026-07-31 tightened the guard (pass 160)
 - 2026-07-31 documented the fallback (pass 161)
+- 2026-07-31 restated the contract (pass 162)
