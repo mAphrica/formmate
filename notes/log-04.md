@@ -195,3 +195,4 @@
 - 2026-07-29 reviewed the edge case (pass 194)
 - 2026-07-31 documented the fallback (pass 195)
 - 2026-07-31 reviewed the edge case (pass 196)
+- 2026-07-31 trimmed the payload (pass 197)

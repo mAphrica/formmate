@@ -196,3 +196,4 @@
 - 2026-07-31 restated the contract (pass 195)
 - 2026-07-31 trimmed the payload (pass 196)
 - 2026-07-31 checked the migration (pass 197)
+- 2026-07-31 documented the fallback (pass 198)
