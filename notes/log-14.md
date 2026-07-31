@@ -197,3 +197,4 @@
 - 2026-07-31 noted the failure mode (pass 196)
 - 2026-07-31 checked the migration (pass 197)
 - 2026-07-31 checked the migration (pass 198)
+- 2026-07-31 trimmed the payload (pass 199)
