@@ -191,3 +191,4 @@
 - 2026-07-31 checked the migration (pass 190)
 - 2026-07-31 trimmed the payload (pass 191)
 - 2026-07-31 refined the schedule (pass 192)
+- 2026-07-31 tightened the guard (pass 193)
