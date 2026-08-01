@@ -178,3 +178,4 @@
 - 2026-07-31 trimmed the payload (pass 177)
 - 2026-07-31 refined the schedule (pass 178)
 - 2026-08-01 noted the failure mode (pass 179)
+- 2026-08-01 tightened the guard (pass 180)
