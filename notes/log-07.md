@@ -185,3 +185,4 @@
 - 2026-07-30 documented the fallback (pass 184)
 - 2026-07-31 restated the contract (pass 185)
 - 2026-07-31 documented the fallback (pass 186)
+- 2026-08-01 aligned the naming (pass 187)

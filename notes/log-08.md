@@ -182,3 +182,4 @@
 - 2026-08-01 reviewed the edge case (pass 181)
 - 2026-08-01 trimmed the payload (pass 182)
 - 2026-08-01 noted the failure mode (pass 183)
+- 2026-08-01 noted the failure mode (pass 184)
