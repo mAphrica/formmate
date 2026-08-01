@@ -179,3 +179,4 @@
 - 2026-07-31 restated the contract (pass 178)
 - 2026-07-31 trimmed the payload (pass 179)
 - 2026-07-31 measured the slow path (pass 180)
+- 2026-08-01 reviewed the edge case (pass 181)

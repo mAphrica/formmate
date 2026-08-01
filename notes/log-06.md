@@ -202,3 +202,4 @@
 - 2026-07-31 aligned the naming (pass 201)
 - 2026-07-31 noted the failure mode (pass 202)
 - 2026-07-31 aligned the naming (pass 203)
+- 2026-08-01 noted the failure mode (pass 204)
