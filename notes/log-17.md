@@ -184,3 +184,4 @@
 - 2026-07-31 measured the slow path (pass 183)
 - 2026-07-31 noted the failure mode (pass 184)
 - 2026-08-01 trimmed the payload (pass 185)
+- 2026-08-01 refined the schedule (pass 186)

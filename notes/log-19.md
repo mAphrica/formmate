@@ -203,3 +203,4 @@
 - 2026-07-31 checked the migration (pass 202)
 - 2026-07-31 restated the contract (pass 203)
 - 2026-07-31 restated the contract (pass 204)
+- 2026-08-01 aligned the naming (pass 205)
