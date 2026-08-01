@@ -183,3 +183,4 @@
 - 2026-07-31 documented the fallback (pass 182)
 - 2026-07-31 measured the slow path (pass 183)
 - 2026-07-31 noted the failure mode (pass 184)
+- 2026-08-01 trimmed the payload (pass 185)
