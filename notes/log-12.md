@@ -178,3 +178,4 @@
 - 2026-07-31 measured the slow path (pass 177)
 - 2026-07-31 restated the contract (pass 178)
 - 2026-08-01 noted the failure mode (pass 179)
+- 2026-08-01 noted the failure mode (pass 180)

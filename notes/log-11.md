@@ -163,3 +163,4 @@
 - 2026-07-31 restated the contract (pass 162)
 - 2026-08-01 aligned the naming (pass 163)
 - 2026-08-01 reviewed the edge case (pass 164)
+- 2026-08-01 trimmed the payload (pass 165)
