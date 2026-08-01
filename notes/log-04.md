@@ -200,3 +200,4 @@
 - 2026-07-31 trimmed the payload (pass 199)
 - 2026-07-31 noted the failure mode (pass 200)
 - 2026-08-01 aligned the naming (pass 201)
+- 2026-08-01 noted the failure mode (pass 202)
