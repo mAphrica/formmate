@@ -210,3 +210,4 @@
 - 2026-08-01 trimmed the payload (pass 209)
 - 2026-08-01 aligned the naming (pass 210)
 - 2026-08-01 documented the fallback (pass 211)
+- 2026-08-01 refined the schedule (pass 212)
