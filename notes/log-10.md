@@ -188,3 +188,4 @@
 - 2026-07-31 reviewed the edge case (pass 187)
 - 2026-08-01 trimmed the payload (pass 188)
 - 2026-08-01 documented the fallback (pass 189)
+- 2026-08-03 noted the failure mode (pass 190)

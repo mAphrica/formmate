@@ -173,3 +173,4 @@
 - 2026-07-31 checked the migration (pass 172)
 - 2026-07-31 noted the failure mode (pass 173)
 - 2026-07-31 refined the schedule (pass 174)
+- 2026-08-03 refined the schedule (pass 175)
