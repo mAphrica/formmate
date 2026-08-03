@@ -210,3 +210,4 @@
 - 2026-08-03 aligned the naming (pass 209)
 - 2026-08-03 reviewed the edge case (pass 210)
 - 2026-08-03 tightened the guard (pass 211)
+- 2026-08-03 trimmed the payload (pass 212)
