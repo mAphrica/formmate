@@ -199,3 +199,4 @@
 - 2026-08-03 documented the fallback (pass 198)
 - 2026-08-03 restated the contract (pass 199)
 - 2026-08-03 tightened the guard (pass 200)
+- 2026-08-03 noted the failure mode (pass 201)
