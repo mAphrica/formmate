@@ -174,3 +174,4 @@
 - 2026-07-31 noted the failure mode (pass 173)
 - 2026-07-31 refined the schedule (pass 174)
 - 2026-08-03 refined the schedule (pass 175)
+- 2026-08-03 tightened the guard (pass 176)
