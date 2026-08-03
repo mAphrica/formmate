@@ -204,3 +204,4 @@
 - 2026-08-01 refined the schedule (pass 203)
 - 2026-08-01 restated the contract (pass 204)
 - 2026-08-01 aligned the naming (pass 205)
+- 2026-08-03 tightened the guard (pass 206)

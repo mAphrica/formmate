@@ -203,3 +203,4 @@
 - 2026-08-01 noted the failure mode (pass 202)
 - 2026-08-03 restated the contract (pass 203)
 - 2026-08-03 trimmed the payload (pass 204)
+- 2026-08-03 reviewed the edge case (pass 205)
