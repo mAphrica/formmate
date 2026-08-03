@@ -204,3 +204,4 @@
 - 2026-08-03 reviewed the edge case (pass 203)
 - 2026-08-03 checked the migration (pass 204)
 - 2026-08-03 noted the failure mode (pass 205)
+- 2026-08-03 aligned the naming (pass 206)

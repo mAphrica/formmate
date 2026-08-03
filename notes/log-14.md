@@ -208,3 +208,4 @@
 - 2026-08-03 restated the contract (pass 207)
 - 2026-08-03 checked the migration (pass 208)
 - 2026-08-03 trimmed the payload (pass 209)
+- 2026-08-03 documented the fallback (pass 210)
