@@ -208,3 +208,4 @@
 - 2026-08-03 tightened the guard (pass 207)
 - 2026-08-03 tightened the guard (pass 208)
 - 2026-08-03 refined the schedule (pass 209)
+- 2026-08-03 measured the slow path (pass 210)
