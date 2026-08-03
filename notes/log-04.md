@@ -201,3 +201,4 @@
 - 2026-07-31 noted the failure mode (pass 200)
 - 2026-08-01 aligned the naming (pass 201)
 - 2026-08-01 noted the failure mode (pass 202)
+- 2026-08-03 restated the contract (pass 203)
