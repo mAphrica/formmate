@@ -206,3 +206,4 @@
 - 2026-08-01 tightened the guard (pass 205)
 - 2026-08-03 noted the failure mode (pass 206)
 - 2026-08-03 restated the contract (pass 207)
+- 2026-08-03 measured the slow path (pass 208)
