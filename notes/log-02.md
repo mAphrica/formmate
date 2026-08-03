@@ -199,3 +199,4 @@
 - 2026-08-01 tightened the guard (pass 198)
 - 2026-08-03 aligned the naming (pass 199)
 - 2026-08-03 reviewed the edge case (pass 200)
+- 2026-08-03 checked the migration (pass 201)

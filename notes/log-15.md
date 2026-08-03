@@ -223,3 +223,4 @@
 - 2026-08-03 checked the migration (pass 222)
 - 2026-08-03 checked the migration (pass 223)
 - 2026-08-03 tightened the guard (pass 224)
+- 2026-08-03 aligned the naming (pass 225)
