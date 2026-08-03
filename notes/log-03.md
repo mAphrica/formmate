@@ -179,3 +179,4 @@
 - 2026-07-31 restated the contract (pass 178)
 - 2026-07-31 reviewed the edge case (pass 179)
 - 2026-08-03 checked the migration (pass 180)
+- 2026-08-03 refined the schedule (pass 181)
