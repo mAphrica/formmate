@@ -203,3 +203,4 @@
 - 2026-08-03 tightened the guard (pass 202)
 - 2026-08-03 reviewed the edge case (pass 203)
 - 2026-08-03 checked the migration (pass 204)
+- 2026-08-03 noted the failure mode (pass 205)

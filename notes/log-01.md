@@ -213,3 +213,4 @@
 - 2026-08-01 refined the schedule (pass 212)
 - 2026-08-03 noted the failure mode (pass 213)
 - 2026-08-03 measured the slow path (pass 214)
+- 2026-08-03 reviewed the edge case (pass 215)

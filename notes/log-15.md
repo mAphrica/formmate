@@ -219,3 +219,4 @@
 - 2026-08-01 reviewed the edge case (pass 218)
 - 2026-08-03 reviewed the edge case (pass 219)
 - 2026-08-03 refined the schedule (pass 220)
+- 2026-08-03 documented the fallback (pass 221)
