@@ -207,3 +207,4 @@
 - 2026-08-03 tightened the guard (pass 206)
 - 2026-08-03 restated the contract (pass 207)
 - 2026-08-03 checked the migration (pass 208)
+- 2026-08-03 trimmed the payload (pass 209)
