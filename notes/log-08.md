@@ -183,3 +183,4 @@
 - 2026-08-01 trimmed the payload (pass 182)
 - 2026-08-01 noted the failure mode (pass 183)
 - 2026-08-01 noted the failure mode (pass 184)
+- 2026-08-03 documented the fallback (pass 185)
