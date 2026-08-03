@@ -187,3 +187,4 @@
 - 2026-08-03 tightened the guard (pass 186)
 - 2026-08-03 documented the fallback (pass 187)
 - 2026-08-03 restated the contract (pass 188)
+- 2026-08-03 aligned the naming (pass 189)
