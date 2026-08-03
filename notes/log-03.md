@@ -182,3 +182,4 @@
 - 2026-08-03 refined the schedule (pass 181)
 - 2026-08-03 reviewed the edge case (pass 182)
 - 2026-08-03 trimmed the payload (pass 183)
+- 2026-08-03 checked the migration (pass 184)
