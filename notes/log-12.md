@@ -184,3 +184,4 @@
 - 2026-08-01 checked the migration (pass 183)
 - 2026-08-01 noted the failure mode (pass 184)
 - 2026-08-01 documented the fallback (pass 185)
+- 2026-08-03 tightened the guard (pass 186)
