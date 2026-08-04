@@ -188,3 +188,4 @@
 - 2026-08-04 documented the fallback (pass 187)
 - 2026-08-04 tightened the guard (pass 188)
 - 2026-08-04 refined the schedule (pass 189)
+- 2026-08-04 measured the slow path (pass 190)
