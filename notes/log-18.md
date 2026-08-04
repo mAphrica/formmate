@@ -183,3 +183,4 @@
 - 2026-08-04 tightened the guard (pass 182)
 - 2026-08-04 reviewed the edge case (pass 183)
 - 2026-08-04 checked the migration (pass 184)
+- 2026-08-04 restated the contract (pass 185)

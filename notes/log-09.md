@@ -190,3 +190,4 @@
 - 2026-08-04 noted the failure mode (pass 189)
 - 2026-08-04 noted the failure mode (pass 190)
 - 2026-08-04 measured the slow path (pass 191)
+- 2026-08-04 tightened the guard (pass 192)
