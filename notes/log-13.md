@@ -209,3 +209,4 @@
 - 2026-08-04 checked the migration (pass 208)
 - 2026-08-04 documented the fallback (pass 209)
 - 2026-08-04 tightened the guard (pass 210)
+- 2026-08-04 trimmed the payload (pass 211)
