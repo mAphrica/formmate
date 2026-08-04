@@ -212,3 +212,4 @@
 - 2026-08-03 tightened the guard (pass 211)
 - 2026-08-03 trimmed the payload (pass 212)
 - 2026-08-04 restated the contract (pass 213)
+- 2026-08-04 refined the schedule (pass 214)

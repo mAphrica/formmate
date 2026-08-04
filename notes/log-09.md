@@ -187,3 +187,4 @@
 - 2026-08-04 noted the failure mode (pass 186)
 - 2026-08-04 aligned the naming (pass 187)
 - 2026-08-04 documented the fallback (pass 188)
+- 2026-08-04 noted the failure mode (pass 189)
