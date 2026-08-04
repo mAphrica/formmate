@@ -192,3 +192,4 @@
 - 2026-08-04 noted the failure mode (pass 191)
 - 2026-08-04 reviewed the edge case (pass 192)
 - 2026-08-04 reviewed the edge case (pass 193)
+- 2026-08-04 refined the schedule (pass 194)
