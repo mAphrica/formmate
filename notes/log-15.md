@@ -228,3 +228,4 @@
 - 2026-08-04 noted the failure mode (pass 227)
 - 2026-08-04 noted the failure mode (pass 228)
 - 2026-08-04 trimmed the payload (pass 229)
+- 2026-08-04 tightened the guard (pass 230)
