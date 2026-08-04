@@ -212,3 +212,4 @@
 - 2026-08-04 trimmed the payload (pass 211)
 - 2026-08-04 tightened the guard (pass 212)
 - 2026-08-04 trimmed the payload (pass 213)
+- 2026-08-04 documented the fallback (pass 214)
