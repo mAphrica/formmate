@@ -212,3 +212,4 @@
 - 2026-08-04 checked the migration (pass 211)
 - 2026-08-04 noted the failure mode (pass 212)
 - 2026-08-04 noted the failure mode (pass 213)
+- 2026-08-04 refined the schedule (pass 214)
