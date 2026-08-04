@@ -203,3 +203,4 @@
 - 2026-08-04 measured the slow path (pass 202)
 - 2026-08-04 restated the contract (pass 203)
 - 2026-08-04 noted the failure mode (pass 204)
+- 2026-08-04 refined the schedule (pass 205)
