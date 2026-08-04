@@ -181,3 +181,4 @@
 - 2026-08-04 trimmed the payload (pass 180)
 - 2026-08-04 aligned the naming (pass 181)
 - 2026-08-04 tightened the guard (pass 182)
+- 2026-08-04 reviewed the edge case (pass 183)
