@@ -212,3 +212,4 @@
 - 2026-08-03 reviewed the edge case (pass 211)
 - 2026-08-04 measured the slow path (pass 212)
 - 2026-08-04 restated the contract (pass 213)
+- 2026-08-04 measured the slow path (pass 214)
