@@ -207,3 +207,4 @@
 - 2026-08-03 aligned the naming (pass 206)
 - 2026-08-04 noted the failure mode (pass 207)
 - 2026-08-04 checked the migration (pass 208)
+- 2026-08-04 documented the fallback (pass 209)
