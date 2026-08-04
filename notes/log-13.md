@@ -208,3 +208,4 @@
 - 2026-08-04 noted the failure mode (pass 207)
 - 2026-08-04 checked the migration (pass 208)
 - 2026-08-04 documented the fallback (pass 209)
+- 2026-08-04 tightened the guard (pass 210)
