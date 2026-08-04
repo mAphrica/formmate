@@ -201,3 +201,4 @@
 - 2026-08-03 reviewed the edge case (pass 200)
 - 2026-08-03 checked the migration (pass 201)
 - 2026-08-04 tightened the guard (pass 202)
+- 2026-08-04 restated the contract (pass 203)
