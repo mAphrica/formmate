@@ -189,3 +189,4 @@
 - 2026-08-03 restated the contract (pass 188)
 - 2026-08-03 aligned the naming (pass 189)
 - 2026-08-03 measured the slow path (pass 190)
+- 2026-08-04 tightened the guard (pass 191)

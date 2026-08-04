@@ -205,3 +205,4 @@
 - 2026-08-03 checked the migration (pass 204)
 - 2026-08-03 noted the failure mode (pass 205)
 - 2026-08-03 aligned the naming (pass 206)
+- 2026-08-04 noted the failure mode (pass 207)
