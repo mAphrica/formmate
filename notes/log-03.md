@@ -185,3 +185,4 @@
 - 2026-08-03 checked the migration (pass 184)
 - 2026-08-04 aligned the naming (pass 185)
 - 2026-08-04 noted the failure mode (pass 186)
+- 2026-08-04 documented the fallback (pass 187)
