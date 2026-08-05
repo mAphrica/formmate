@@ -191,3 +191,4 @@
 - 2026-08-04 measured the slow path (pass 190)
 - 2026-08-05 restated the contract (pass 191)
 - 2026-08-05 reviewed the edge case (pass 192)
+- 2026-08-05 noted the failure mode (pass 193)
