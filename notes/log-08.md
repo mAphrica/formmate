@@ -195,3 +195,4 @@
 - 2026-08-04 refined the schedule (pass 194)
 - 2026-08-04 restated the contract (pass 195)
 - 2026-08-05 noted the failure mode (pass 196)
+- 2026-08-05 reviewed the edge case (pass 197)
