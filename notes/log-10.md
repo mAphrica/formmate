@@ -198,3 +198,4 @@
 - 2026-08-04 checked the migration (pass 197)
 - 2026-08-05 measured the slow path (pass 198)
 - 2026-08-05 reviewed the edge case (pass 199)
+- 2026-08-05 checked the migration (pass 200)
