@@ -191,3 +191,4 @@
 - 2026-08-03 restated the contract (pass 190)
 - 2026-08-04 noted the failure mode (pass 191)
 - 2026-08-05 aligned the naming (pass 192)
+- 2026-08-05 tightened the guard (pass 193)
