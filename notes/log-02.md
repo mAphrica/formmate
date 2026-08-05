@@ -205,3 +205,4 @@
 - 2026-08-04 checked the migration (pass 204)
 - 2026-08-04 refined the schedule (pass 205)
 - 2026-08-04 refined the schedule (pass 206)
+- 2026-08-05 reviewed the edge case (pass 207)
