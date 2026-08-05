@@ -215,3 +215,4 @@
 - 2026-08-04 documented the fallback (pass 214)
 - 2026-08-05 trimmed the payload (pass 215)
 - 2026-08-05 noted the failure mode (pass 216)
+- 2026-08-05 aligned the naming (pass 217)

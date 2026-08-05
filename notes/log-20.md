@@ -187,3 +187,4 @@
 - 2026-08-05 trimmed the payload (pass 186)
 - 2026-08-05 trimmed the payload (pass 187)
 - 2026-08-05 noted the failure mode (pass 188)
+- 2026-08-05 restated the contract (pass 189)
