@@ -216,3 +216,4 @@
 - 2026-08-04 aligned the naming (pass 215)
 - 2026-08-04 tightened the guard (pass 216)
 - 2026-08-04 aligned the naming (pass 217)
+- 2026-08-05 reviewed the edge case (pass 218)
