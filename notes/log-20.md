@@ -186,3 +186,4 @@
 - 2026-08-05 refined the schedule (pass 185)
 - 2026-08-05 trimmed the payload (pass 186)
 - 2026-08-05 trimmed the payload (pass 187)
+- 2026-08-05 noted the failure mode (pass 188)

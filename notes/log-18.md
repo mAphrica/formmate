@@ -186,3 +186,4 @@
 - 2026-08-04 restated the contract (pass 185)
 - 2026-08-05 aligned the naming (pass 186)
 - 2026-08-05 refined the schedule (pass 187)
+- 2026-08-05 measured the slow path (pass 188)
