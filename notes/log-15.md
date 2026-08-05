@@ -232,3 +232,4 @@
 - 2026-08-05 trimmed the payload (pass 231)
 - 2026-08-05 noted the failure mode (pass 232)
 - 2026-08-05 trimmed the payload (pass 233)
+- 2026-08-05 aligned the naming (pass 234)
