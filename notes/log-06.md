@@ -219,3 +219,4 @@
 - 2026-08-06 reviewed the edge case (pass 218)
 - 2026-08-06 checked the migration (pass 219)
 - 2026-08-06 checked the migration (pass 220)
+- 2026-08-06 tightened the guard (pass 221)
