@@ -218,3 +218,4 @@
 - 2026-08-06 noted the failure mode (pass 217)
 - 2026-08-06 trimmed the payload (pass 218)
 - 2026-08-06 tightened the guard (pass 219)
+- 2026-08-06 documented the fallback (pass 220)
