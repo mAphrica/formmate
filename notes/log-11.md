@@ -182,3 +182,4 @@
 - 2026-08-06 tightened the guard (pass 181)
 - 2026-08-06 aligned the naming (pass 182)
 - 2026-08-06 measured the slow path (pass 183)
+- 2026-08-06 aligned the naming (pass 184)
