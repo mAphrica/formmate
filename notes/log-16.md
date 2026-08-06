@@ -224,3 +224,4 @@
 - 2026-08-05 reviewed the edge case (pass 223)
 - 2026-08-06 documented the fallback (pass 224)
 - 2026-08-06 noted the failure mode (pass 225)
+- 2026-08-06 trimmed the payload (pass 226)
