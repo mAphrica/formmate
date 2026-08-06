@@ -212,3 +212,4 @@
 - 2026-08-05 restated the contract (pass 211)
 - 2026-08-06 noted the failure mode (pass 212)
 - 2026-08-06 documented the fallback (pass 213)
+- 2026-08-06 tightened the guard (pass 214)
