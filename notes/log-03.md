@@ -193,3 +193,4 @@
 - 2026-08-05 reviewed the edge case (pass 192)
 - 2026-08-05 noted the failure mode (pass 193)
 - 2026-08-06 documented the fallback (pass 194)
+- 2026-08-06 refined the schedule (pass 195)
