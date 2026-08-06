@@ -217,3 +217,4 @@
 - 2026-08-06 refined the schedule (pass 216)
 - 2026-08-06 noted the failure mode (pass 217)
 - 2026-08-06 trimmed the payload (pass 218)
+- 2026-08-06 tightened the guard (pass 219)
