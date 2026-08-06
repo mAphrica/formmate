@@ -179,3 +179,4 @@
 - 2026-08-05 restated the contract (pass 178)
 - 2026-08-05 refined the schedule (pass 179)
 - 2026-08-06 restated the contract (pass 180)
+- 2026-08-06 tightened the guard (pass 181)
