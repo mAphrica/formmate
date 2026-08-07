@@ -222,3 +222,4 @@
 - 2026-08-06 tightened the guard (pass 221)
 - 2026-08-07 restated the contract (pass 222)
 - 2026-08-07 trimmed the payload (pass 223)
+- 2026-08-07 aligned the naming (pass 224)
