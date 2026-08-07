@@ -228,3 +228,4 @@
 - 2026-08-07 aligned the naming (pass 227)
 - 2026-08-07 refined the schedule (pass 228)
 - 2026-08-07 measured the slow path (pass 229)
+- 2026-08-07 documented the fallback (pass 230)
