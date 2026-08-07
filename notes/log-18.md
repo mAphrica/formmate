@@ -198,3 +198,4 @@
 - 2026-08-07 noted the failure mode (pass 197)
 - 2026-08-07 restated the contract (pass 198)
 - 2026-08-07 restated the contract (pass 199)
+- 2026-08-07 aligned the naming (pass 200)
