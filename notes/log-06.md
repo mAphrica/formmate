@@ -220,3 +220,4 @@
 - 2026-08-06 checked the migration (pass 219)
 - 2026-08-06 checked the migration (pass 220)
 - 2026-08-06 tightened the guard (pass 221)
+- 2026-08-07 restated the contract (pass 222)
