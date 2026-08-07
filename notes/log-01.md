@@ -226,3 +226,4 @@
 - 2026-08-06 tightened the guard (pass 225)
 - 2026-08-06 reviewed the edge case (pass 226)
 - 2026-08-07 aligned the naming (pass 227)
+- 2026-08-07 refined the schedule (pass 228)
