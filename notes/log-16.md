@@ -225,3 +225,4 @@
 - 2026-08-06 documented the fallback (pass 224)
 - 2026-08-06 noted the failure mode (pass 225)
 - 2026-08-06 trimmed the payload (pass 226)
+- 2026-08-07 refined the schedule (pass 227)
