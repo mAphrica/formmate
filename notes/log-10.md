@@ -201,3 +201,4 @@
 - 2026-08-05 checked the migration (pass 200)
 - 2026-08-06 measured the slow path (pass 201)
 - 2026-08-06 trimmed the payload (pass 202)
+- 2026-08-07 checked the migration (pass 203)

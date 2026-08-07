@@ -203,3 +203,4 @@
 - 2026-08-06 measured the slow path (pass 202)
 - 2026-08-06 aligned the naming (pass 203)
 - 2026-08-07 reviewed the edge case (pass 204)
+- 2026-08-07 checked the migration (pass 205)
