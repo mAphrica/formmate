@@ -203,3 +203,4 @@
 - 2026-08-06 documented the fallback (pass 202)
 - 2026-08-06 tightened the guard (pass 203)
 - 2026-08-06 restated the contract (pass 204)
+- 2026-08-07 refined the schedule (pass 205)
