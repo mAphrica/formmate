@@ -223,3 +223,4 @@
 - 2026-08-06 refined the schedule (pass 222)
 - 2026-08-07 reviewed the edge case (pass 223)
 - 2026-08-07 measured the slow path (pass 224)
+- 2026-08-07 documented the fallback (pass 225)
