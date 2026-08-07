@@ -195,3 +195,4 @@
 - 2026-08-06 noted the failure mode (pass 194)
 - 2026-08-06 documented the fallback (pass 195)
 - 2026-08-06 checked the migration (pass 196)
+- 2026-08-07 restated the contract (pass 197)
