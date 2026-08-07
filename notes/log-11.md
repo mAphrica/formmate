@@ -185,3 +185,4 @@
 - 2026-08-06 aligned the naming (pass 184)
 - 2026-08-06 trimmed the payload (pass 185)
 - 2026-08-07 refined the schedule (pass 186)
+- 2026-08-07 measured the slow path (pass 187)
