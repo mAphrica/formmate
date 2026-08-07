@@ -225,3 +225,4 @@
 - 2026-08-07 aligned the naming (pass 224)
 - 2026-08-07 trimmed the payload (pass 225)
 - 2026-08-07 reviewed the edge case (pass 226)
+- 2026-08-07 measured the slow path (pass 227)
