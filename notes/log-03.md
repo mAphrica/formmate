@@ -194,3 +194,4 @@
 - 2026-08-05 noted the failure mode (pass 193)
 - 2026-08-06 documented the fallback (pass 194)
 - 2026-08-06 refined the schedule (pass 195)
+- 2026-08-07 tightened the guard (pass 196)
