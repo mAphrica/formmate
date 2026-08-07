@@ -201,3 +201,4 @@
 - 2026-08-06 measured the slow path (pass 200)
 - 2026-08-07 reviewed the edge case (pass 201)
 - 2026-08-07 noted the failure mode (pass 202)
+- 2026-08-07 tightened the guard (pass 203)

@@ -218,3 +218,4 @@
 - 2026-08-07 checked the migration (pass 217)
 - 2026-08-07 restated the contract (pass 218)
 - 2026-08-07 documented the fallback (pass 219)
+- 2026-08-07 tightened the guard (pass 220)
