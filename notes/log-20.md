@@ -197,3 +197,4 @@
 - 2026-08-06 checked the migration (pass 196)
 - 2026-08-07 restated the contract (pass 197)
 - 2026-08-11 measured the slow path (pass 198)
+- 2026-08-11 reviewed the edge case (pass 199)
