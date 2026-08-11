@@ -206,3 +206,4 @@
 - 2026-08-07 refined the schedule (pass 205)
 - 2026-08-07 tightened the guard (pass 206)
 - 2026-08-07 aligned the naming (pass 207)
+- 2026-08-11 checked the migration (pass 208)

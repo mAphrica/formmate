@@ -225,3 +225,4 @@
 - 2026-08-07 aligned the naming (pass 224)
 - 2026-08-07 tightened the guard (pass 225)
 - 2026-08-07 aligned the naming (pass 226)
+- 2026-08-11 restated the contract (pass 227)
