@@ -221,3 +221,4 @@
 - 2026-08-07 tightened the guard (pass 220)
 - 2026-08-10 documented the fallback (pass 221)
 - 2026-08-11 aligned the naming (pass 222)
+- 2026-08-11 trimmed the payload (pass 223)
