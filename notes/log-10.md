@@ -205,3 +205,4 @@
 - 2026-08-07 aligned the naming (pass 204)
 - 2026-08-07 trimmed the payload (pass 205)
 - 2026-08-10 documented the fallback (pass 206)
+- 2026-08-11 restated the contract (pass 207)
