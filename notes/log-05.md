@@ -218,3 +218,4 @@
 - 2026-08-07 aligned the naming (pass 217)
 - 2026-08-10 restated the contract (pass 218)
 - 2026-08-11 tightened the guard (pass 219)
+- 2026-08-11 reviewed the edge case (pass 220)
