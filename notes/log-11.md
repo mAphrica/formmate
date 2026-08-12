@@ -190,3 +190,4 @@
 - 2026-08-11 documented the fallback (pass 189)
 - 2026-08-12 tightened the guard (pass 190)
 - 2026-08-12 checked the migration (pass 191)
+- 2026-08-12 measured the slow path (pass 192)
