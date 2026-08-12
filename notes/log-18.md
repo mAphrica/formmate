@@ -205,3 +205,4 @@
 - 2026-08-07 tightened the guard (pass 204)
 - 2026-08-07 trimmed the payload (pass 205)
 - 2026-08-11 trimmed the payload (pass 206)
+- 2026-08-12 checked the migration (pass 207)

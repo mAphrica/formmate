@@ -229,3 +229,4 @@
 - 2026-08-11 measured the slow path (pass 228)
 - 2026-08-11 restated the contract (pass 229)
 - 2026-08-12 checked the migration (pass 230)
+- 2026-08-12 aligned the naming (pass 231)
