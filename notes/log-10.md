@@ -206,3 +206,4 @@
 - 2026-08-07 trimmed the payload (pass 205)
 - 2026-08-10 documented the fallback (pass 206)
 - 2026-08-11 restated the contract (pass 207)
+- 2026-08-12 restated the contract (pass 208)
