@@ -203,3 +203,4 @@
 - 2026-08-07 noted the failure mode (pass 202)
 - 2026-08-07 tightened the guard (pass 203)
 - 2026-08-11 reviewed the edge case (pass 204)
+- 2026-08-12 aligned the naming (pass 205)
