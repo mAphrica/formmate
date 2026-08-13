@@ -207,3 +207,4 @@
 - 2026-08-12 reviewed the edge case (pass 206)
 - 2026-08-13 trimmed the payload (pass 207)
 - 2026-08-13 checked the migration (pass 208)
+- 2026-08-13 documented the fallback (pass 209)
