@@ -200,3 +200,4 @@
 - 2026-08-11 reviewed the edge case (pass 199)
 - 2026-08-11 checked the migration (pass 200)
 - 2026-08-13 reviewed the edge case (pass 201)
+- 2026-08-13 trimmed the payload (pass 202)

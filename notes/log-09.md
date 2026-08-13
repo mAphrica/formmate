@@ -208,3 +208,4 @@
 - 2026-08-13 trimmed the payload (pass 207)
 - 2026-08-13 checked the migration (pass 208)
 - 2026-08-13 documented the fallback (pass 209)
+- 2026-08-13 measured the slow path (pass 210)

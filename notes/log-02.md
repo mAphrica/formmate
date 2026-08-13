@@ -226,3 +226,4 @@
 - 2026-08-13 noted the failure mode (pass 225)
 - 2026-08-13 noted the failure mode (pass 226)
 - 2026-08-13 restated the contract (pass 227)
+- 2026-08-13 trimmed the payload (pass 228)
