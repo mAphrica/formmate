@@ -205,3 +205,4 @@
 - 2026-08-11 reviewed the edge case (pass 204)
 - 2026-08-12 aligned the naming (pass 205)
 - 2026-08-12 reviewed the edge case (pass 206)
+- 2026-08-13 trimmed the payload (pass 207)
