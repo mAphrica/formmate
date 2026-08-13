@@ -225,3 +225,4 @@
 - 2026-08-13 noted the failure mode (pass 224)
 - 2026-08-13 noted the failure mode (pass 225)
 - 2026-08-13 noted the failure mode (pass 226)
+- 2026-08-13 restated the contract (pass 227)

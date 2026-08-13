@@ -206,3 +206,4 @@
 - 2026-08-12 aligned the naming (pass 205)
 - 2026-08-12 reviewed the edge case (pass 206)
 - 2026-08-13 trimmed the payload (pass 207)
+- 2026-08-13 checked the migration (pass 208)
