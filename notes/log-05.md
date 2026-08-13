@@ -222,3 +222,4 @@
 - 2026-08-11 documented the fallback (pass 221)
 - 2026-08-12 aligned the naming (pass 222)
 - 2026-08-12 tightened the guard (pass 223)
+- 2026-08-13 measured the slow path (pass 224)
