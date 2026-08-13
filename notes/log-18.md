@@ -207,3 +207,4 @@
 - 2026-08-11 trimmed the payload (pass 206)
 - 2026-08-12 checked the migration (pass 207)
 - 2026-08-13 tightened the guard (pass 208)
+- 2026-08-13 noted the failure mode (pass 209)
