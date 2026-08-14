@@ -223,3 +223,4 @@
 - 2026-08-11 aligned the naming (pass 222)
 - 2026-08-11 trimmed the payload (pass 223)
 - 2026-08-14 refined the schedule (pass 224)
+- 2026-08-14 restated the contract (pass 225)
