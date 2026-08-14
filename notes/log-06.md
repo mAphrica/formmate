@@ -233,3 +233,4 @@
 - 2026-08-13 reviewed the edge case (pass 232)
 - 2026-08-13 measured the slow path (pass 233)
 - 2026-08-13 refined the schedule (pass 234)
+- 2026-08-14 trimmed the payload (pass 235)
