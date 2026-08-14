@@ -210,3 +210,4 @@
 - 2026-08-13 documented the fallback (pass 209)
 - 2026-08-13 measured the slow path (pass 210)
 - 2026-08-14 measured the slow path (pass 211)
+- 2026-08-14 restated the contract (pass 212)
