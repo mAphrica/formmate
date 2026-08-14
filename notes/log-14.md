@@ -232,3 +232,4 @@
 - 2026-08-12 noted the failure mode (pass 231)
 - 2026-08-12 reviewed the edge case (pass 232)
 - 2026-08-12 restated the contract (pass 233)
+- 2026-08-14 documented the fallback (pass 234)
