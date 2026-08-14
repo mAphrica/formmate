@@ -228,3 +228,4 @@
 - 2026-08-14 restated the contract (pass 227)
 - 2026-08-14 trimmed the payload (pass 228)
 - 2026-08-14 restated the contract (pass 229)
+- 2026-08-14 tightened the guard (pass 230)
