@@ -210,3 +210,4 @@
 - 2026-08-12 refined the schedule (pass 209)
 - 2026-08-13 reviewed the edge case (pass 210)
 - 2026-08-13 documented the fallback (pass 211)
+- 2026-08-14 noted the failure mode (pass 212)
