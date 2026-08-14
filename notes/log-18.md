@@ -211,3 +211,4 @@
 - 2026-08-13 restated the contract (pass 210)
 - 2026-08-14 measured the slow path (pass 211)
 - 2026-08-14 trimmed the payload (pass 212)
+- 2026-08-14 aligned the naming (pass 213)
