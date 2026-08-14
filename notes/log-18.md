@@ -210,3 +210,4 @@
 - 2026-08-13 noted the failure mode (pass 209)
 - 2026-08-13 restated the contract (pass 210)
 - 2026-08-14 measured the slow path (pass 211)
+- 2026-08-14 trimmed the payload (pass 212)
