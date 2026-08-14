@@ -224,3 +224,4 @@
 - 2026-08-12 tightened the guard (pass 223)
 - 2026-08-13 measured the slow path (pass 224)
 - 2026-08-13 checked the migration (pass 225)
+- 2026-08-14 trimmed the payload (pass 226)

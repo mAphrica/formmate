@@ -209,3 +209,4 @@
 - 2026-08-13 checked the migration (pass 208)
 - 2026-08-13 documented the fallback (pass 209)
 - 2026-08-13 measured the slow path (pass 210)
+- 2026-08-14 measured the slow path (pass 211)
