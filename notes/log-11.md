@@ -195,3 +195,4 @@
 - 2026-08-13 reviewed the edge case (pass 194)
 - 2026-08-13 aligned the naming (pass 195)
 - 2026-08-13 restated the contract (pass 196)
+- 2026-08-15 documented the fallback (pass 197)
