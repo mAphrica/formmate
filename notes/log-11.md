@@ -197,3 +197,4 @@
 - 2026-08-13 restated the contract (pass 196)
 - 2026-08-15 documented the fallback (pass 197)
 - 2026-08-17 checked the migration (pass 198)
+- 2026-08-17 aligned the naming (pass 199)
