@@ -240,3 +240,4 @@
 - 2026-08-14 refined the schedule (pass 239)
 - 2026-08-15 restated the contract (pass 240)
 - 2026-08-17 restated the contract (pass 241)
+- 2026-08-17 noted the failure mode (pass 242)

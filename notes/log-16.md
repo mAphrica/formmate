@@ -241,3 +241,4 @@
 - 2026-08-14 aligned the naming (pass 240)
 - 2026-08-14 trimmed the payload (pass 241)
 - 2026-08-17 checked the migration (pass 242)
+- 2026-08-17 measured the slow path (pass 243)
