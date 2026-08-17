@@ -234,3 +234,4 @@
 - 2026-08-14 measured the slow path (pass 233)
 - 2026-08-14 documented the fallback (pass 234)
 - 2026-08-14 documented the fallback (pass 235)
+- 2026-08-17 noted the failure mode (pass 236)
