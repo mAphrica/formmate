@@ -231,3 +231,4 @@
 - 2026-08-14 checked the migration (pass 230)
 - 2026-08-17 tightened the guard (pass 231)
 - 2026-08-17 refined the schedule (pass 232)
+- 2026-08-17 reviewed the edge case (pass 233)
