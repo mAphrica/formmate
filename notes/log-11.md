@@ -198,3 +198,4 @@
 - 2026-08-15 documented the fallback (pass 197)
 - 2026-08-17 checked the migration (pass 198)
 - 2026-08-17 aligned the naming (pass 199)
+- 2026-08-17 tightened the guard (pass 200)
