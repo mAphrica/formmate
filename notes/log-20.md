@@ -204,3 +204,4 @@
 - 2026-08-13 aligned the naming (pass 203)
 - 2026-08-14 aligned the naming (pass 204)
 - 2026-08-14 measured the slow path (pass 205)
+- 2026-08-17 restated the contract (pass 206)
