@@ -242,3 +242,4 @@
 - 2026-08-14 trimmed the payload (pass 241)
 - 2026-08-17 checked the migration (pass 242)
 - 2026-08-17 measured the slow path (pass 243)
+- 2026-08-17 refined the schedule (pass 244)
