@@ -239,3 +239,4 @@
 - 2026-08-14 tightened the guard (pass 238)
 - 2026-08-14 refined the schedule (pass 239)
 - 2026-08-15 restated the contract (pass 240)
+- 2026-08-17 restated the contract (pass 241)
