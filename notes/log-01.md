@@ -235,3 +235,4 @@
 - 2026-08-14 noted the failure mode (pass 234)
 - 2026-08-14 checked the migration (pass 235)
 - 2026-08-17 noted the failure mode (pass 236)
+- 2026-08-18 tightened the guard (pass 237)
