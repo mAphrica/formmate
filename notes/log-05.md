@@ -232,3 +232,4 @@
 - 2026-08-17 noted the failure mode (pass 231)
 - 2026-08-17 aligned the naming (pass 232)
 - 2026-08-18 tightened the guard (pass 233)
+- 2026-08-18 measured the slow path (pass 234)
