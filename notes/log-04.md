@@ -238,3 +238,4 @@
 - 2026-08-17 trimmed the payload (pass 237)
 - 2026-08-17 measured the slow path (pass 238)
 - 2026-08-17 documented the fallback (pass 239)
+- 2026-08-18 tightened the guard (pass 240)
