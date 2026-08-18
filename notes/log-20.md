@@ -208,3 +208,4 @@
 - 2026-08-17 checked the migration (pass 207)
 - 2026-08-17 checked the migration (pass 208)
 - 2026-08-17 noted the failure mode (pass 209)
+- 2026-08-18 noted the failure mode (pass 210)
