@@ -210,3 +210,4 @@
 - 2026-08-14 noted the failure mode (pass 209)
 - 2026-08-14 noted the failure mode (pass 210)
 - 2026-08-14 tightened the guard (pass 211)
+- 2026-08-18 aligned the naming (pass 212)
