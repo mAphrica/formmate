@@ -243,3 +243,4 @@
 - 2026-08-17 checked the migration (pass 242)
 - 2026-08-17 measured the slow path (pass 243)
 - 2026-08-17 refined the schedule (pass 244)
+- 2026-08-18 noted the failure mode (pass 245)
