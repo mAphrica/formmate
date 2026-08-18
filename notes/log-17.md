@@ -229,3 +229,4 @@
 - 2026-08-17 noted the failure mode (pass 228)
 - 2026-08-17 refined the schedule (pass 229)
 - 2026-08-17 trimmed the payload (pass 230)
+- 2026-08-18 aligned the naming (pass 231)
