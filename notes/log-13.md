@@ -243,3 +243,4 @@
 - 2026-08-17 noted the failure mode (pass 242)
 - 2026-08-17 tightened the guard (pass 243)
 - 2026-08-18 checked the migration (pass 244)
+- 2026-08-18 documented the fallback (pass 245)
