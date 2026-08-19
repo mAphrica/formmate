@@ -246,3 +246,4 @@
 - 2026-08-18 documented the fallback (pass 245)
 - 2026-08-18 restated the contract (pass 246)
 - 2026-08-19 tightened the guard (pass 247)
+- 2026-08-19 restated the contract (pass 248)
