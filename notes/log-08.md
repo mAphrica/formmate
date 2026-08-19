@@ -219,3 +219,4 @@
 - 2026-08-17 documented the fallback (pass 218)
 - 2026-08-17 trimmed the payload (pass 219)
 - 2026-08-18 measured the slow path (pass 220)
+- 2026-08-19 aligned the naming (pass 221)
