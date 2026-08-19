@@ -251,3 +251,4 @@
 - 2026-08-18 documented the fallback (pass 250)
 - 2026-08-19 trimmed the payload (pass 251)
 - 2026-08-19 restated the contract (pass 252)
+- 2026-08-19 reviewed the edge case (pass 253)
