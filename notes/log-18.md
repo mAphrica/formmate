@@ -220,3 +220,4 @@
 - 2026-08-18 tightened the guard (pass 219)
 - 2026-08-18 noted the failure mode (pass 220)
 - 2026-08-19 checked the migration (pass 221)
+- 2026-08-19 trimmed the payload (pass 222)
