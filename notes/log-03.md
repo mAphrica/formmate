@@ -215,3 +215,4 @@
 - 2026-08-18 tightened the guard (pass 214)
 - 2026-08-18 restated the contract (pass 215)
 - 2026-08-18 documented the fallback (pass 216)
+- 2026-08-20 reviewed the edge case (pass 217)
