@@ -248,3 +248,4 @@
 - 2026-08-19 tightened the guard (pass 247)
 - 2026-08-20 noted the failure mode (pass 248)
 - 2026-08-20 aligned the naming (pass 249)
+- 2026-08-20 aligned the naming (pass 250)
