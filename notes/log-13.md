@@ -247,3 +247,4 @@
 - 2026-08-18 restated the contract (pass 246)
 - 2026-08-19 tightened the guard (pass 247)
 - 2026-08-19 restated the contract (pass 248)
+- 2026-08-20 reviewed the edge case (pass 249)
