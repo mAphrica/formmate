@@ -221,3 +221,4 @@
 - 2026-08-18 noted the failure mode (pass 220)
 - 2026-08-19 checked the migration (pass 221)
 - 2026-08-19 trimmed the payload (pass 222)
+- 2026-08-20 refined the schedule (pass 223)

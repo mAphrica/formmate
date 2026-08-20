@@ -212,3 +212,4 @@
 - 2026-08-19 refined the schedule (pass 211)
 - 2026-08-19 measured the slow path (pass 212)
 - 2026-08-20 noted the failure mode (pass 213)
+- 2026-08-20 documented the fallback (pass 214)
