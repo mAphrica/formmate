@@ -223,3 +223,4 @@
 - 2026-08-19 restated the contract (pass 222)
 - 2026-08-20 tightened the guard (pass 223)
 - 2026-08-20 noted the failure mode (pass 224)
+- 2026-08-20 reviewed the edge case (pass 225)
