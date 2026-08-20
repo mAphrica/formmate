@@ -255,3 +255,4 @@
 - 2026-08-19 refined the schedule (pass 254)
 - 2026-08-20 aligned the naming (pass 255)
 - 2026-08-20 noted the failure mode (pass 256)
+- 2026-08-20 checked the migration (pass 257)

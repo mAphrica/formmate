@@ -244,3 +244,4 @@
 - 2026-08-19 noted the failure mode (pass 243)
 - 2026-08-20 tightened the guard (pass 244)
 - 2026-08-20 trimmed the payload (pass 245)
+- 2026-08-20 refined the schedule (pass 246)
