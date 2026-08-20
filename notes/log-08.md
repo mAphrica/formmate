@@ -225,3 +225,4 @@
 - 2026-08-20 noted the failure mode (pass 224)
 - 2026-08-20 reviewed the edge case (pass 225)
 - 2026-08-20 reviewed the edge case (pass 226)
+- 2026-08-20 noted the failure mode (pass 227)
