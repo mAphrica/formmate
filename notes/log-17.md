@@ -233,3 +233,4 @@
 - 2026-08-19 trimmed the payload (pass 232)
 - 2026-08-19 restated the contract (pass 233)
 - 2026-08-19 tightened the guard (pass 234)
+- 2026-08-20 measured the slow path (pass 235)
