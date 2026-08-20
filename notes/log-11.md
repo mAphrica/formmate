@@ -210,3 +210,4 @@
 - 2026-08-19 measured the slow path (pass 209)
 - 2026-08-20 aligned the naming (pass 210)
 - 2026-08-20 trimmed the payload (pass 211)
+- 2026-08-20 tightened the guard (pass 212)
