@@ -254,3 +254,4 @@
 - 2026-08-21 trimmed the payload (pass 253)
 - 2026-08-21 noted the failure mode (pass 254)
 - 2026-08-21 trimmed the payload (pass 255)
+- 2026-08-21 tightened the guard (pass 256)
