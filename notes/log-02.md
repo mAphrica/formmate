@@ -243,3 +243,4 @@
 - 2026-08-21 noted the failure mode (pass 242)
 - 2026-08-21 reviewed the edge case (pass 243)
 - 2026-08-21 tightened the guard (pass 244)
+- 2026-08-21 checked the migration (pass 245)
