@@ -256,3 +256,4 @@
 - 2026-08-18 refined the schedule (pass 255)
 - 2026-08-20 trimmed the payload (pass 256)
 - 2026-08-20 documented the fallback (pass 257)
+- 2026-08-21 reviewed the edge case (pass 258)
