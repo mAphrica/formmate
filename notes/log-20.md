@@ -214,3 +214,4 @@
 - 2026-08-20 noted the failure mode (pass 213)
 - 2026-08-20 documented the fallback (pass 214)
 - 2026-08-20 documented the fallback (pass 215)
+- 2026-08-21 documented the fallback (pass 216)
