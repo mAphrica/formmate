@@ -222,3 +222,4 @@
 - 2026-08-21 aligned the naming (pass 221)
 - 2026-08-21 documented the fallback (pass 222)
 - 2026-08-21 restated the contract (pass 223)
+- 2026-08-21 checked the migration (pass 224)
