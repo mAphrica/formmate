@@ -229,3 +229,4 @@
 - 2026-08-21 trimmed the payload (pass 228)
 - 2026-08-21 refined the schedule (pass 229)
 - 2026-08-21 reviewed the edge case (pass 230)
+- 2026-08-21 documented the fallback (pass 231)

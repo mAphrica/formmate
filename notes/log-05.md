@@ -242,3 +242,4 @@
 - 2026-08-21 noted the failure mode (pass 241)
 - 2026-08-21 documented the fallback (pass 242)
 - 2026-08-21 noted the failure mode (pass 243)
+- 2026-08-21 noted the failure mode (pass 244)
