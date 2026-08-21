@@ -237,3 +237,4 @@
 - 2026-08-19 documented the fallback (pass 236)
 - 2026-08-19 refined the schedule (pass 237)
 - 2026-08-20 checked the migration (pass 238)
+- 2026-08-21 measured the slow path (pass 239)
