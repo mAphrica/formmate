@@ -255,3 +255,4 @@
 - 2026-08-21 noted the failure mode (pass 254)
 - 2026-08-21 trimmed the payload (pass 255)
 - 2026-08-21 tightened the guard (pass 256)
+- 2026-08-21 reviewed the edge case (pass 257)
