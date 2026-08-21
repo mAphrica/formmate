@@ -239,3 +239,4 @@
 - 2026-08-20 checked the migration (pass 238)
 - 2026-08-21 measured the slow path (pass 239)
 - 2026-08-21 tightened the guard (pass 240)
+- 2026-08-21 noted the failure mode (pass 241)

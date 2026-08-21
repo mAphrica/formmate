@@ -219,3 +219,4 @@
 - 2026-08-20 restated the contract (pass 218)
 - 2026-08-20 documented the fallback (pass 219)
 - 2026-08-21 restated the contract (pass 220)
+- 2026-08-21 aligned the naming (pass 221)
