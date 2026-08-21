@@ -213,3 +213,4 @@
 - 2026-08-20 tightened the guard (pass 212)
 - 2026-08-20 tightened the guard (pass 213)
 - 2026-08-21 trimmed the payload (pass 214)
+- 2026-08-21 reviewed the edge case (pass 215)

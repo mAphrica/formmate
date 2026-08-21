@@ -218,3 +218,4 @@
 - 2026-08-17 measured the slow path (pass 217)
 - 2026-08-18 measured the slow path (pass 218)
 - 2026-08-19 refined the schedule (pass 219)
+- 2026-08-21 documented the fallback (pass 220)

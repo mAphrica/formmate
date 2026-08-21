@@ -241,3 +241,4 @@
 - 2026-08-21 aligned the naming (pass 240)
 - 2026-08-21 noted the failure mode (pass 241)
 - 2026-08-21 documented the fallback (pass 242)
+- 2026-08-21 noted the failure mode (pass 243)
