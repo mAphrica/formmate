@@ -260,3 +260,4 @@
 - 2026-08-21 aligned the naming (pass 259)
 - 2026-08-21 noted the failure mode (pass 260)
 - 2026-08-21 measured the slow path (pass 261)
+- 2026-08-21 trimmed the payload (pass 262)
