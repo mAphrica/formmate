@@ -259,3 +259,4 @@
 - 2026-08-21 reviewed the edge case (pass 258)
 - 2026-08-21 checked the migration (pass 259)
 - 2026-08-22 noted the failure mode (pass 260)
+- 2026-08-24 trimmed the payload (pass 261)

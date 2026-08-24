@@ -247,3 +247,4 @@
 - 2026-08-21 trimmed the payload (pass 246)
 - 2026-08-22 checked the migration (pass 247)
 - 2026-08-24 aligned the naming (pass 248)
+- 2026-08-24 restated the contract (pass 249)

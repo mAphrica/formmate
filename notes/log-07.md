@@ -222,3 +222,4 @@
 - 2026-08-22 measured the slow path (pass 221)
 - 2026-08-24 trimmed the payload (pass 222)
 - 2026-08-24 trimmed the payload (pass 223)
+- 2026-08-24 tightened the guard (pass 224)
