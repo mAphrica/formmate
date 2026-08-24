@@ -235,3 +235,4 @@
 - 2026-08-24 noted the failure mode (pass 234)
 - 2026-08-24 tightened the guard (pass 235)
 - 2026-08-24 noted the failure mode (pass 236)
+- 2026-08-24 documented the fallback (pass 237)
