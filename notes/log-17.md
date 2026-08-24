@@ -240,3 +240,4 @@
 - 2026-08-21 aligned the naming (pass 239)
 - 2026-08-22 aligned the naming (pass 240)
 - 2026-08-22 restated the contract (pass 241)
+- 2026-08-24 tightened the guard (pass 242)

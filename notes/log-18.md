@@ -228,3 +228,4 @@
 - 2026-08-24 refined the schedule (pass 227)
 - 2026-08-24 reviewed the edge case (pass 228)
 - 2026-08-24 reviewed the edge case (pass 229)
+- 2026-08-24 noted the failure mode (pass 230)
