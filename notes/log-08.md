@@ -232,3 +232,4 @@
 - 2026-08-21 documented the fallback (pass 231)
 - 2026-08-21 checked the migration (pass 232)
 - 2026-08-21 restated the contract (pass 233)
+- 2026-08-24 noted the failure mode (pass 234)
