@@ -264,3 +264,4 @@
 - 2026-08-21 checked the migration (pass 263)
 - 2026-08-24 trimmed the payload (pass 264)
 - 2026-08-24 refined the schedule (pass 265)
+- 2026-08-24 tightened the guard (pass 266)

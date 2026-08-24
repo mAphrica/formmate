@@ -229,3 +229,4 @@
 - 2026-08-22 reviewed the edge case (pass 228)
 - 2026-08-24 restated the contract (pass 229)
 - 2026-08-24 refined the schedule (pass 230)
+- 2026-08-24 checked the migration (pass 231)
