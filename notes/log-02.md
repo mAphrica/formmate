@@ -246,3 +246,4 @@
 - 2026-08-21 checked the migration (pass 245)
 - 2026-08-21 tightened the guard (pass 246)
 - 2026-08-21 documented the fallback (pass 247)
+- 2026-08-24 reviewed the edge case (pass 248)
