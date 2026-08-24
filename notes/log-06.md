@@ -252,3 +252,4 @@
 - 2026-08-24 checked the migration (pass 251)
 - 2026-08-24 refined the schedule (pass 252)
 - 2026-08-24 reviewed the edge case (pass 253)
+- 2026-08-24 documented the fallback (pass 254)
