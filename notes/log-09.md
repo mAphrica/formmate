@@ -222,3 +222,4 @@
 - 2026-08-21 aligned the naming (pass 221)
 - 2026-08-21 aligned the naming (pass 222)
 - 2026-08-24 reviewed the edge case (pass 223)
+- 2026-08-24 trimmed the payload (pass 224)

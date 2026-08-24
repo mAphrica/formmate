@@ -219,3 +219,4 @@
 - 2026-08-22 tightened the guard (pass 218)
 - 2026-08-22 reviewed the edge case (pass 219)
 - 2026-08-24 checked the migration (pass 220)
+- 2026-08-24 trimmed the payload (pass 221)
