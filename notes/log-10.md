@@ -223,3 +223,4 @@
 - 2026-08-21 aligned the naming (pass 222)
 - 2026-08-24 trimmed the payload (pass 223)
 - 2026-08-24 documented the fallback (pass 224)
+- 2026-08-24 trimmed the payload (pass 225)

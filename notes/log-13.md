@@ -256,3 +256,4 @@
 - 2026-08-21 trimmed the payload (pass 255)
 - 2026-08-21 tightened the guard (pass 256)
 - 2026-08-21 reviewed the edge case (pass 257)
+- 2026-08-24 restated the contract (pass 258)
