@@ -216,3 +216,4 @@
 - 2026-08-20 documented the fallback (pass 215)
 - 2026-08-21 documented the fallback (pass 216)
 - 2026-08-21 aligned the naming (pass 217)
+- 2026-08-24 refined the schedule (pass 218)
