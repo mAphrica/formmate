@@ -224,3 +224,4 @@
 - 2026-08-24 trimmed the payload (pass 223)
 - 2026-08-24 documented the fallback (pass 224)
 - 2026-08-24 trimmed the payload (pass 225)
+- 2026-08-24 documented the fallback (pass 226)
