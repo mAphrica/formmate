@@ -222,3 +222,4 @@
 - 2026-08-24 restated the contract (pass 221)
 - 2026-08-24 measured the slow path (pass 222)
 - 2026-08-25 noted the failure mode (pass 223)
+- 2026-08-25 aligned the naming (pass 224)
