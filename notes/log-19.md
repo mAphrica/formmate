@@ -260,3 +260,4 @@
 - 2026-08-24 documented the fallback (pass 259)
 - 2026-08-25 reviewed the edge case (pass 260)
 - 2026-08-25 trimmed the payload (pass 261)
+- 2026-08-25 noted the failure mode (pass 262)
