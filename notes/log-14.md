@@ -245,3 +245,4 @@
 - 2026-08-22 tightened the guard (pass 244)
 - 2026-08-24 checked the migration (pass 245)
 - 2026-08-24 aligned the naming (pass 246)
+- 2026-08-25 aligned the naming (pass 247)

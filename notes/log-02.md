@@ -251,3 +251,4 @@
 - 2026-08-24 restated the contract (pass 250)
 - 2026-08-24 restated the contract (pass 251)
 - 2026-08-24 noted the failure mode (pass 252)
+- 2026-08-25 checked the migration (pass 253)
