@@ -226,3 +226,4 @@
 - 2026-08-24 refined the schedule (pass 225)
 - 2026-08-24 reviewed the edge case (pass 226)
 - 2026-08-25 restated the contract (pass 227)
+- 2026-08-25 measured the slow path (pass 228)
