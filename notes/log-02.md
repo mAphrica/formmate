@@ -253,3 +253,4 @@
 - 2026-08-24 noted the failure mode (pass 252)
 - 2026-08-25 checked the migration (pass 253)
 - 2026-08-25 checked the migration (pass 254)
+- 2026-08-25 documented the fallback (pass 255)

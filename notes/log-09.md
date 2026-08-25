@@ -226,3 +226,4 @@
 - 2026-08-24 trimmed the payload (pass 225)
 - 2026-08-24 reviewed the edge case (pass 226)
 - 2026-08-25 refined the schedule (pass 227)
+- 2026-08-25 checked the migration (pass 228)
