@@ -229,3 +229,4 @@
 - 2026-08-25 refined the schedule (pass 228)
 - 2026-08-25 reviewed the edge case (pass 229)
 - 2026-08-26 checked the migration (pass 230)
+- 2026-08-26 aligned the naming (pass 231)
