@@ -260,3 +260,4 @@
 - 2026-08-26 trimmed the payload (pass 259)
 - 2026-08-26 checked the migration (pass 260)
 - 2026-08-26 noted the failure mode (pass 261)
+- 2026-08-26 checked the migration (pass 262)
