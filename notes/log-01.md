@@ -245,3 +245,4 @@
 - 2026-08-21 noted the failure mode (pass 244)
 - 2026-08-24 reviewed the edge case (pass 245)
 - 2026-08-25 noted the failure mode (pass 246)
+- 2026-08-26 tightened the guard (pass 247)

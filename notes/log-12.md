@@ -230,3 +230,4 @@
 - 2026-08-24 restated the contract (pass 229)
 - 2026-08-24 refined the schedule (pass 230)
 - 2026-08-24 checked the migration (pass 231)
+- 2026-08-26 trimmed the payload (pass 232)
