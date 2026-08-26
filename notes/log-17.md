@@ -245,3 +245,4 @@
 - 2026-08-25 measured the slow path (pass 244)
 - 2026-08-25 measured the slow path (pass 245)
 - 2026-08-26 documented the fallback (pass 246)
+- 2026-08-26 aligned the naming (pass 247)
