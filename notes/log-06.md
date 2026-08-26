@@ -256,3 +256,4 @@
 - 2026-08-24 restated the contract (pass 255)
 - 2026-08-24 reviewed the edge case (pass 256)
 - 2026-08-25 reviewed the edge case (pass 257)
+- 2026-08-26 aligned the naming (pass 258)
