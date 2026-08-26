@@ -258,3 +258,4 @@
 - 2026-08-25 reviewed the edge case (pass 257)
 - 2026-08-26 aligned the naming (pass 258)
 - 2026-08-26 checked the migration (pass 259)
+- 2026-08-26 measured the slow path (pass 260)
