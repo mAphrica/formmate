@@ -252,3 +252,4 @@
 - 2026-08-26 reviewed the edge case (pass 251)
 - 2026-08-26 refined the schedule (pass 252)
 - 2026-08-26 measured the slow path (pass 253)
+- 2026-08-26 checked the migration (pass 254)
