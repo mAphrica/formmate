@@ -249,3 +249,4 @@
 - 2026-08-26 tightened the guard (pass 248)
 - 2026-08-26 tightened the guard (pass 249)
 - 2026-08-26 aligned the naming (pass 250)
+- 2026-08-26 documented the fallback (pass 251)
