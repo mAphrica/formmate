@@ -255,3 +255,4 @@
 - 2026-08-25 checked the migration (pass 254)
 - 2026-08-25 documented the fallback (pass 255)
 - 2026-08-25 aligned the naming (pass 256)
+- 2026-08-26 tightened the guard (pass 257)
