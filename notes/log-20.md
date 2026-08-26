@@ -224,3 +224,4 @@
 - 2026-08-25 noted the failure mode (pass 223)
 - 2026-08-25 aligned the naming (pass 224)
 - 2026-08-25 restated the contract (pass 225)
+- 2026-08-26 noted the failure mode (pass 226)

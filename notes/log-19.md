@@ -262,3 +262,4 @@
 - 2026-08-25 trimmed the payload (pass 261)
 - 2026-08-25 noted the failure mode (pass 262)
 - 2026-08-26 restated the contract (pass 263)
+- 2026-08-26 reviewed the edge case (pass 264)
