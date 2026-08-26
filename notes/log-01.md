@@ -247,3 +247,4 @@
 - 2026-08-25 noted the failure mode (pass 246)
 - 2026-08-26 tightened the guard (pass 247)
 - 2026-08-26 measured the slow path (pass 248)
+- 2026-08-26 tightened the guard (pass 249)
