@@ -228,3 +228,4 @@
 - 2026-08-25 refined the schedule (pass 227)
 - 2026-08-25 checked the migration (pass 228)
 - 2026-08-25 refined the schedule (pass 229)
+- 2026-08-26 aligned the naming (pass 230)
