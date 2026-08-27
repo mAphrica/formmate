@@ -251,3 +251,4 @@
 - 2026-08-26 aligned the naming (pass 250)
 - 2026-08-26 documented the fallback (pass 251)
 - 2026-08-27 trimmed the payload (pass 252)
+- 2026-08-27 noted the failure mode (pass 253)

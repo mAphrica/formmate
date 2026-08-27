@@ -264,3 +264,4 @@
 - 2026-08-26 reviewed the edge case (pass 263)
 - 2026-08-26 checked the migration (pass 264)
 - 2026-08-27 noted the failure mode (pass 265)
+- 2026-08-27 restated the contract (pass 266)
