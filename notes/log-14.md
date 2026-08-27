@@ -253,3 +253,4 @@
 - 2026-08-27 trimmed the payload (pass 252)
 - 2026-08-27 noted the failure mode (pass 253)
 - 2026-08-27 refined the schedule (pass 254)
+- 2026-08-27 measured the slow path (pass 255)
