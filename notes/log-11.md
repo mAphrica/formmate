@@ -225,3 +225,4 @@
 - 2026-08-26 aligned the naming (pass 224)
 - 2026-08-26 reviewed the edge case (pass 225)
 - 2026-08-27 tightened the guard (pass 226)
+- 2026-08-27 noted the failure mode (pass 227)
