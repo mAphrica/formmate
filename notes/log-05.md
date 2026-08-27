@@ -253,3 +253,4 @@
 - 2026-08-26 refined the schedule (pass 252)
 - 2026-08-26 measured the slow path (pass 253)
 - 2026-08-26 checked the migration (pass 254)
+- 2026-08-27 documented the fallback (pass 255)
