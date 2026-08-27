@@ -266,3 +266,4 @@
 - 2026-08-26 noted the failure mode (pass 265)
 - 2026-08-26 aligned the naming (pass 266)
 - 2026-08-27 measured the slow path (pass 267)
+- 2026-08-27 refined the schedule (pass 268)
