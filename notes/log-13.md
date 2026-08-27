@@ -266,3 +266,4 @@
 - 2026-08-27 noted the failure mode (pass 265)
 - 2026-08-27 restated the contract (pass 266)
 - 2026-08-27 checked the migration (pass 267)
+- 2026-08-27 restated the contract (pass 268)
