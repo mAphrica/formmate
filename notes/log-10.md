@@ -235,3 +235,4 @@
 - 2026-08-27 checked the migration (pass 234)
 - 2026-08-27 aligned the naming (pass 235)
 - 2026-08-27 tightened the guard (pass 236)
+- 2026-08-27 noted the failure mode (pass 237)
