@@ -272,3 +272,4 @@
 - 2026-08-27 documented the fallback (pass 271)
 - 2026-08-27 trimmed the payload (pass 272)
 - 2026-08-27 tightened the guard (pass 273)
+- 2026-08-27 restated the contract (pass 274)
