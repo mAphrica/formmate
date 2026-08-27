@@ -257,3 +257,4 @@
 - 2026-08-25 aligned the naming (pass 256)
 - 2026-08-26 tightened the guard (pass 257)
 - 2026-08-26 restated the contract (pass 258)
+- 2026-08-27 noted the failure mode (pass 259)
