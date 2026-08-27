@@ -269,3 +269,4 @@
 - 2026-08-26 refined the schedule (pass 268)
 - 2026-08-26 aligned the naming (pass 269)
 - 2026-08-26 reviewed the edge case (pass 270)
+- 2026-08-27 documented the fallback (pass 271)

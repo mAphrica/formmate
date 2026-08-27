@@ -232,3 +232,4 @@
 - 2026-08-26 aligned the naming (pass 231)
 - 2026-08-26 tightened the guard (pass 232)
 - 2026-08-27 refined the schedule (pass 233)
+- 2026-08-27 checked the migration (pass 234)
