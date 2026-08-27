@@ -234,3 +234,4 @@
 - 2026-08-26 noted the failure mode (pass 233)
 - 2026-08-26 refined the schedule (pass 234)
 - 2026-08-26 reviewed the edge case (pass 235)
+- 2026-08-27 aligned the naming (pass 236)
