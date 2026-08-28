@@ -235,3 +235,4 @@
 - 2026-08-27 measured the slow path (pass 234)
 - 2026-08-27 refined the schedule (pass 235)
 - 2026-08-28 trimmed the payload (pass 236)
+- 2026-08-28 measured the slow path (pass 237)
