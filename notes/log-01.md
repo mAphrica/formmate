@@ -252,3 +252,4 @@
 - 2026-08-27 reviewed the edge case (pass 251)
 - 2026-08-27 noted the failure mode (pass 252)
 - 2026-08-28 reviewed the edge case (pass 253)
+- 2026-08-28 documented the fallback (pass 254)
