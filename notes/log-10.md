@@ -237,3 +237,4 @@
 - 2026-08-27 tightened the guard (pass 236)
 - 2026-08-27 noted the failure mode (pass 237)
 - 2026-08-27 reviewed the edge case (pass 238)
+- 2026-08-29 refined the schedule (pass 239)
