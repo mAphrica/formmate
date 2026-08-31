@@ -268,3 +268,4 @@
 - 2026-08-27 measured the slow path (pass 267)
 - 2026-08-27 refined the schedule (pass 268)
 - 2026-08-28 measured the slow path (pass 269)
+- 2026-08-31 restated the contract (pass 270)
