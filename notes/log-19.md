@@ -275,3 +275,4 @@
 - 2026-08-27 restated the contract (pass 274)
 - 2026-08-28 documented the fallback (pass 275)
 - 2026-08-31 reviewed the edge case (pass 276)
+- 2026-08-31 restated the contract (pass 277)
