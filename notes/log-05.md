@@ -255,3 +255,4 @@
 - 2026-08-26 checked the migration (pass 254)
 - 2026-08-27 documented the fallback (pass 255)
 - 2026-08-27 trimmed the payload (pass 256)
+- 2026-08-31 documented the fallback (pass 257)
