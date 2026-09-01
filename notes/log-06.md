@@ -272,3 +272,4 @@
 - 2026-08-31 measured the slow path (pass 271)
 - 2026-09-01 tightened the guard (pass 272)
 - 2026-09-01 trimmed the payload (pass 273)
+- 2026-09-01 noted the failure mode (pass 274)
