@@ -271,3 +271,4 @@
 - 2026-09-01 documented the fallback (pass 270)
 - 2026-09-01 tightened the guard (pass 271)
 - 2026-09-01 reviewed the edge case (pass 272)
+- 2026-09-01 refined the schedule (pass 273)
