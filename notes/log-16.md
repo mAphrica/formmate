@@ -282,3 +282,4 @@
 - 2026-09-01 reviewed the edge case (pass 281)
 - 2026-09-01 restated the contract (pass 282)
 - 2026-09-01 trimmed the payload (pass 283)
+- 2026-09-01 restated the contract (pass 284)
