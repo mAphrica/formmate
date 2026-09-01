@@ -258,3 +258,4 @@
 - 2026-08-31 documented the fallback (pass 257)
 - 2026-08-31 documented the fallback (pass 258)
 - 2026-09-01 tightened the guard (pass 259)
+- 2026-09-01 noted the failure mode (pass 260)
