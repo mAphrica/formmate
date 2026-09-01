@@ -270,3 +270,4 @@
 - 2026-08-28 documented the fallback (pass 269)
 - 2026-08-31 checked the migration (pass 270)
 - 2026-08-31 measured the slow path (pass 271)
+- 2026-09-01 tightened the guard (pass 272)
