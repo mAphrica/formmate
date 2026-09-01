@@ -231,3 +231,4 @@
 - 2026-09-01 restated the contract (pass 230)
 - 2026-09-01 checked the migration (pass 231)
 - 2026-09-01 tightened the guard (pass 232)
+- 2026-09-01 noted the failure mode (pass 233)

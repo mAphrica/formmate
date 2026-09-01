@@ -241,3 +241,4 @@
 - 2026-08-31 refined the schedule (pass 240)
 - 2026-09-01 refined the schedule (pass 241)
 - 2026-09-01 refined the schedule (pass 242)
+- 2026-09-01 tightened the guard (pass 243)
