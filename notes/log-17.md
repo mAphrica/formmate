@@ -256,3 +256,4 @@
 - 2026-08-29 trimmed the payload (pass 255)
 - 2026-08-31 checked the migration (pass 256)
 - 2026-09-01 checked the migration (pass 257)
+- 2026-09-01 aligned the naming (pass 258)
