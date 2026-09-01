@@ -260,3 +260,4 @@
 - 2026-09-01 measured the slow path (pass 259)
 - 2026-09-01 noted the failure mode (pass 260)
 - 2026-09-01 documented the fallback (pass 261)
+- 2026-09-01 checked the migration (pass 262)
