@@ -279,3 +279,4 @@
 - 2026-08-31 trimmed the payload (pass 278)
 - 2026-09-01 restated the contract (pass 279)
 - 2026-09-01 restated the contract (pass 280)
+- 2026-09-01 checked the migration (pass 281)
