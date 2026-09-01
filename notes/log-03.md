@@ -238,3 +238,4 @@
 - 2026-08-27 checked the migration (pass 237)
 - 2026-09-01 noted the failure mode (pass 238)
 - 2026-09-01 refined the schedule (pass 239)
+- 2026-09-01 reviewed the edge case (pass 240)

@@ -271,3 +271,4 @@
 - 2026-08-31 restated the contract (pass 270)
 - 2026-09-01 aligned the naming (pass 271)
 - 2026-09-01 documented the fallback (pass 272)
+- 2026-09-01 refined the schedule (pass 273)
