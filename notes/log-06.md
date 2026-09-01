@@ -276,3 +276,4 @@
 - 2026-09-01 restated the contract (pass 275)
 - 2026-09-01 tightened the guard (pass 276)
 - 2026-09-01 tightened the guard (pass 277)
+- 2026-09-01 checked the migration (pass 278)
