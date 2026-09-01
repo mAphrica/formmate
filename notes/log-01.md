@@ -257,3 +257,4 @@
 - 2026-08-31 trimmed the payload (pass 256)
 - 2026-08-31 trimmed the payload (pass 257)
 - 2026-08-31 aligned the naming (pass 258)
+- 2026-09-01 measured the slow path (pass 259)
