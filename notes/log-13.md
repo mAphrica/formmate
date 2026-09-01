@@ -268,3 +268,4 @@
 - 2026-08-27 checked the migration (pass 267)
 - 2026-08-27 restated the contract (pass 268)
 - 2026-08-27 documented the fallback (pass 269)
+- 2026-09-01 documented the fallback (pass 270)

@@ -277,3 +277,4 @@
 - 2026-08-31 restated the contract (pass 276)
 - 2026-08-31 tightened the guard (pass 277)
 - 2026-09-01 tightened the guard (pass 278)
+- 2026-09-01 aligned the naming (pass 279)
