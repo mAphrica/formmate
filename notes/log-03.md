@@ -236,3 +236,4 @@
 - 2026-08-26 reviewed the edge case (pass 235)
 - 2026-08-27 aligned the naming (pass 236)
 - 2026-08-27 checked the migration (pass 237)
+- 2026-09-01 noted the failure mode (pass 238)
