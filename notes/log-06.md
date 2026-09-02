@@ -283,3 +283,4 @@
 - 2026-09-01 noted the failure mode (pass 282)
 - 2026-09-01 checked the migration (pass 283)
 - 2026-09-02 restated the contract (pass 284)
+- 2026-09-02 measured the slow path (pass 285)

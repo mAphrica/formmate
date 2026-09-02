@@ -242,3 +242,4 @@
 - 2026-09-01 trimmed the payload (pass 241)
 - 2026-09-01 restated the contract (pass 242)
 - 2026-09-01 noted the failure mode (pass 243)
+- 2026-09-02 refined the schedule (pass 244)
