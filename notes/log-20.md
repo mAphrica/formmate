@@ -245,3 +245,4 @@
 - 2026-09-02 restated the contract (pass 244)
 - 2026-09-02 restated the contract (pass 245)
 - 2026-09-02 refined the schedule (pass 246)
+- 2026-09-02 aligned the naming (pass 247)
