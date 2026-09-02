@@ -243,3 +243,4 @@
 - 2026-09-01 refined the schedule (pass 242)
 - 2026-09-01 reviewed the edge case (pass 243)
 - 2026-09-01 documented the fallback (pass 244)
+- 2026-09-02 checked the migration (pass 245)
