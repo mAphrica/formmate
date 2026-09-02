@@ -242,3 +242,4 @@
 - 2026-09-01 noted the failure mode (pass 241)
 - 2026-09-01 aligned the naming (pass 242)
 - 2026-09-01 documented the fallback (pass 243)
+- 2026-09-02 tightened the guard (pass 244)
