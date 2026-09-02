@@ -260,3 +260,4 @@
 - 2026-09-01 tightened the guard (pass 259)
 - 2026-09-01 noted the failure mode (pass 260)
 - 2026-09-02 aligned the naming (pass 261)
+- 2026-09-02 reviewed the edge case (pass 262)

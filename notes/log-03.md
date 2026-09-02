@@ -242,3 +242,4 @@
 - 2026-09-01 aligned the naming (pass 241)
 - 2026-09-02 restated the contract (pass 242)
 - 2026-09-02 noted the failure mode (pass 243)
+- 2026-09-02 measured the slow path (pass 244)
