@@ -248,3 +248,4 @@
 - 2026-09-01 documented the fallback (pass 247)
 - 2026-09-02 reviewed the edge case (pass 248)
 - 2026-09-02 trimmed the payload (pass 249)
+- 2026-09-02 aligned the naming (pass 250)
