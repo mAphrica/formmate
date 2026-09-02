@@ -246,3 +246,4 @@
 - 2026-09-01 tightened the guard (pass 245)
 - 2026-09-01 documented the fallback (pass 246)
 - 2026-09-01 documented the fallback (pass 247)
+- 2026-09-02 reviewed the edge case (pass 248)
