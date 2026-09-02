@@ -273,3 +273,4 @@
 - 2026-09-01 documented the fallback (pass 272)
 - 2026-09-01 refined the schedule (pass 273)
 - 2026-09-02 restated the contract (pass 274)
+- 2026-09-02 noted the failure mode (pass 275)
