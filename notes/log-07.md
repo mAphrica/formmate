@@ -247,3 +247,4 @@
 - 2026-09-01 documented the fallback (pass 246)
 - 2026-09-02 aligned the naming (pass 247)
 - 2026-09-02 tightened the guard (pass 248)
+- 2026-09-02 trimmed the payload (pass 249)
