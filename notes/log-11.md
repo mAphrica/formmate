@@ -232,3 +232,4 @@
 - 2026-09-01 checked the migration (pass 231)
 - 2026-09-01 tightened the guard (pass 232)
 - 2026-09-01 noted the failure mode (pass 233)
+- 2026-09-02 noted the failure mode (pass 234)
