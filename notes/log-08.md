@@ -255,3 +255,4 @@
 - 2026-09-02 trimmed the payload (pass 254)
 - 2026-09-02 trimmed the payload (pass 255)
 - 2026-09-02 documented the fallback (pass 256)
+- 2026-09-02 aligned the naming (pass 257)

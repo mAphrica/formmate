@@ -245,3 +245,4 @@
 - 2026-09-02 refined the schedule (pass 244)
 - 2026-09-02 noted the failure mode (pass 245)
 - 2026-09-02 refined the schedule (pass 246)
+- 2026-09-02 trimmed the payload (pass 247)
