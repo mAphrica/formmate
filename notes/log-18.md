@@ -248,3 +248,4 @@
 - 2026-09-02 refined the schedule (pass 247)
 - 2026-09-02 tightened the guard (pass 248)
 - 2026-09-02 noted the failure mode (pass 249)
+- 2026-09-03 tightened the guard (pass 250)

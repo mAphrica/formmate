@@ -283,3 +283,4 @@
 - 2026-09-02 reviewed the edge case (pass 282)
 - 2026-09-02 restated the contract (pass 283)
 - 2026-09-03 trimmed the payload (pass 284)
+- 2026-09-03 refined the schedule (pass 285)
