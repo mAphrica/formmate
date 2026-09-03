@@ -245,3 +245,4 @@
 - 2026-09-01 documented the fallback (pass 244)
 - 2026-09-02 checked the migration (pass 245)
 - 2026-09-02 aligned the naming (pass 246)
+- 2026-09-03 refined the schedule (pass 247)
