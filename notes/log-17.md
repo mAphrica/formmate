@@ -261,3 +261,4 @@
 - 2026-09-01 tightened the guard (pass 260)
 - 2026-09-02 restated the contract (pass 261)
 - 2026-09-02 noted the failure mode (pass 262)
+- 2026-09-03 documented the fallback (pass 263)
