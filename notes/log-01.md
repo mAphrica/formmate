@@ -262,3 +262,4 @@
 - 2026-09-01 documented the fallback (pass 261)
 - 2026-09-01 checked the migration (pass 262)
 - 2026-09-02 reviewed the edge case (pass 263)
+- 2026-09-03 noted the failure mode (pass 264)
