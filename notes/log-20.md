@@ -247,3 +247,4 @@
 - 2026-09-02 refined the schedule (pass 246)
 - 2026-09-02 aligned the naming (pass 247)
 - 2026-09-02 documented the fallback (pass 248)
+- 2026-09-03 tightened the guard (pass 249)
