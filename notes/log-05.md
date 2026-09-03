@@ -262,3 +262,4 @@
 - 2026-09-02 aligned the naming (pass 261)
 - 2026-09-02 reviewed the edge case (pass 262)
 - 2026-09-02 reviewed the edge case (pass 263)
+- 2026-09-03 trimmed the payload (pass 264)
