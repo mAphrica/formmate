@@ -289,3 +289,4 @@
 - 2026-09-02 reviewed the edge case (pass 288)
 - 2026-09-02 tightened the guard (pass 289)
 - 2026-09-03 reviewed the edge case (pass 290)
+- 2026-09-03 tightened the guard (pass 291)
