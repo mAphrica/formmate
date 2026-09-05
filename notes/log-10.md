@@ -250,3 +250,4 @@
 - 2026-09-02 trimmed the payload (pass 249)
 - 2026-09-02 aligned the naming (pass 250)
 - 2026-09-02 refined the schedule (pass 251)
+- 2026-09-05 noted the failure mode (pass 252)
