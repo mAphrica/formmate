@@ -250,3 +250,4 @@
 - 2026-09-02 noted the failure mode (pass 249)
 - 2026-09-03 tightened the guard (pass 250)
 - 2026-09-03 reviewed the edge case (pass 251)
+- 2026-09-07 tightened the guard (pass 252)
