@@ -290,3 +290,4 @@
 - 2026-09-02 restated the contract (pass 289)
 - 2026-09-02 checked the migration (pass 290)
 - 2026-09-03 aligned the naming (pass 291)
+- 2026-09-07 refined the schedule (pass 292)

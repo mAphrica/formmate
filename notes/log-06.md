@@ -289,3 +289,4 @@
 - 2026-09-03 documented the fallback (pass 288)
 - 2026-09-03 documented the fallback (pass 289)
 - 2026-09-07 documented the fallback (pass 290)
+- 2026-09-07 trimmed the payload (pass 291)
