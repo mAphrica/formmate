@@ -275,3 +275,4 @@
 - 2026-09-03 noted the failure mode (pass 274)
 - 2026-09-03 restated the contract (pass 275)
 - 2026-09-04 noted the failure mode (pass 276)
+- 2026-09-07 refined the schedule (pass 277)
