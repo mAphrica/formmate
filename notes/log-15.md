@@ -285,3 +285,4 @@
 - 2026-09-03 trimmed the payload (pass 284)
 - 2026-09-03 refined the schedule (pass 285)
 - 2026-09-06 reviewed the edge case (pass 286)
+- 2026-09-08 aligned the naming (pass 287)
