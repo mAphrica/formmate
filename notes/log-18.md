@@ -251,3 +251,4 @@
 - 2026-09-03 tightened the guard (pass 250)
 - 2026-09-03 reviewed the edge case (pass 251)
 - 2026-09-07 tightened the guard (pass 252)
+- 2026-09-08 checked the migration (pass 253)
