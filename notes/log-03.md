@@ -250,3 +250,4 @@
 - 2026-09-07 checked the migration (pass 249)
 - 2026-09-07 trimmed the payload (pass 250)
 - 2026-09-08 documented the fallback (pass 251)
+- 2026-09-09 noted the failure mode (pass 252)

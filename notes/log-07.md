@@ -252,3 +252,4 @@
 - 2026-09-02 tightened the guard (pass 251)
 - 2026-09-02 noted the failure mode (pass 252)
 - 2026-09-04 refined the schedule (pass 253)
+- 2026-09-09 documented the fallback (pass 254)
