@@ -264,3 +264,4 @@
 - 2026-09-03 documented the fallback (pass 263)
 - 2026-09-07 aligned the naming (pass 264)
 - 2026-09-08 noted the failure mode (pass 265)
+- 2026-09-09 reviewed the edge case (pass 266)
