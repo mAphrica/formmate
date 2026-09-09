@@ -277,3 +277,4 @@
 - 2026-09-04 noted the failure mode (pass 276)
 - 2026-09-07 refined the schedule (pass 277)
 - 2026-09-07 restated the contract (pass 278)
+- 2026-09-09 measured the slow path (pass 279)
