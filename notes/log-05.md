@@ -263,3 +263,4 @@
 - 2026-09-02 reviewed the edge case (pass 262)
 - 2026-09-02 reviewed the edge case (pass 263)
 - 2026-09-03 trimmed the payload (pass 264)
+- 2026-09-09 checked the migration (pass 265)

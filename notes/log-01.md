@@ -268,3 +268,4 @@
 - 2026-09-07 refined the schedule (pass 267)
 - 2026-09-08 checked the migration (pass 268)
 - 2026-09-08 refined the schedule (pass 269)
+- 2026-09-09 noted the failure mode (pass 270)
