@@ -294,3 +294,4 @@
 - 2026-09-08 restated the contract (pass 293)
 - 2026-09-08 documented the fallback (pass 294)
 - 2026-09-08 documented the fallback (pass 295)
+- 2026-09-09 trimmed the payload (pass 296)
