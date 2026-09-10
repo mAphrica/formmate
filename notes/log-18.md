@@ -256,3 +256,4 @@
 - 2026-09-09 trimmed the payload (pass 255)
 - 2026-09-10 refined the schedule (pass 256)
 - 2026-09-10 checked the migration (pass 257)
+- 2026-09-10 restated the contract (pass 258)

@@ -280,3 +280,4 @@
 - 2026-09-08 documented the fallback (pass 279)
 - 2026-09-10 tightened the guard (pass 280)
 - 2026-09-10 refined the schedule (pass 281)
+- 2026-09-10 trimmed the payload (pass 282)
