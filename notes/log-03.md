@@ -253,3 +253,4 @@
 - 2026-09-09 noted the failure mode (pass 252)
 - 2026-09-10 noted the failure mode (pass 253)
 - 2026-09-10 checked the migration (pass 254)
+- 2026-09-10 refined the schedule (pass 255)
