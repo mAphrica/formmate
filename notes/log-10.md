@@ -256,3 +256,4 @@
 - 2026-09-09 noted the failure mode (pass 255)
 - 2026-09-10 measured the slow path (pass 256)
 - 2026-09-10 checked the migration (pass 257)
+- 2026-09-10 reviewed the edge case (pass 258)

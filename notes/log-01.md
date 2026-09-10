@@ -273,3 +273,4 @@
 - 2026-09-10 reviewed the edge case (pass 272)
 - 2026-09-10 documented the fallback (pass 273)
 - 2026-09-10 reviewed the edge case (pass 274)
+- 2026-09-10 reviewed the edge case (pass 275)
