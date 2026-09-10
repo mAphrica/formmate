@@ -258,3 +258,4 @@
 - 2026-09-10 checked the migration (pass 257)
 - 2026-09-10 restated the contract (pass 258)
 - 2026-09-10 restated the contract (pass 259)
+- 2026-09-10 aligned the naming (pass 260)
