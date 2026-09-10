@@ -256,3 +256,4 @@
 - 2026-09-09 documented the fallback (pass 255)
 - 2026-09-09 aligned the naming (pass 256)
 - 2026-09-10 refined the schedule (pass 257)
+- 2026-09-10 restated the contract (pass 258)
