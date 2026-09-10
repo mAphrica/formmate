@@ -270,3 +270,4 @@
 - 2026-09-08 refined the schedule (pass 269)
 - 2026-09-09 noted the failure mode (pass 270)
 - 2026-09-10 noted the failure mode (pass 271)
+- 2026-09-10 reviewed the edge case (pass 272)

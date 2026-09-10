@@ -287,3 +287,4 @@
 - 2026-09-09 documented the fallback (pass 286)
 - 2026-09-09 tightened the guard (pass 287)
 - 2026-09-09 refined the schedule (pass 288)
+- 2026-09-10 tightened the guard (pass 289)
