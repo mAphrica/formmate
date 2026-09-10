@@ -252,3 +252,4 @@
 - 2026-09-03 trimmed the payload (pass 251)
 - 2026-09-09 restated the contract (pass 252)
 - 2026-09-10 trimmed the payload (pass 253)
+- 2026-09-10 restated the contract (pass 254)
