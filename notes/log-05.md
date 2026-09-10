@@ -268,3 +268,4 @@
 - 2026-09-09 tightened the guard (pass 267)
 - 2026-09-10 documented the fallback (pass 268)
 - 2026-09-10 checked the migration (pass 269)
+- 2026-09-10 aligned the naming (pass 270)

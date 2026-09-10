@@ -258,3 +258,4 @@
 - 2026-09-09 refined the schedule (pass 257)
 - 2026-09-09 refined the schedule (pass 258)
 - 2026-09-10 documented the fallback (pass 259)
+- 2026-09-10 trimmed the payload (pass 260)
