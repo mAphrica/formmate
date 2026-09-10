@@ -288,3 +288,4 @@
 - 2026-09-09 tightened the guard (pass 287)
 - 2026-09-09 refined the schedule (pass 288)
 - 2026-09-10 tightened the guard (pass 289)
+- 2026-09-10 trimmed the payload (pass 290)
