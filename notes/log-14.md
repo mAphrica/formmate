@@ -272,3 +272,4 @@
 - 2026-09-11 checked the migration (pass 271)
 - 2026-09-11 checked the migration (pass 272)
 - 2026-09-11 aligned the naming (pass 273)
+- 2026-09-11 measured the slow path (pass 274)
