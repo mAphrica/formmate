@@ -294,3 +294,4 @@
 - 2026-09-11 checked the migration (pass 293)
 - 2026-09-11 checked the migration (pass 294)
 - 2026-09-11 tightened the guard (pass 295)
+- 2026-09-11 aligned the naming (pass 296)
