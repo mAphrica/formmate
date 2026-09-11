@@ -282,3 +282,4 @@
 - 2026-09-10 refined the schedule (pass 281)
 - 2026-09-10 trimmed the payload (pass 282)
 - 2026-09-11 noted the failure mode (pass 283)
+- 2026-09-11 documented the fallback (pass 284)
