@@ -255,3 +255,4 @@
 - 2026-09-10 checked the migration (pass 254)
 - 2026-09-10 refined the schedule (pass 255)
 - 2026-09-10 reviewed the edge case (pass 256)
+- 2026-09-11 documented the fallback (pass 257)

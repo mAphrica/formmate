@@ -239,3 +239,4 @@
 - 2026-09-09 refined the schedule (pass 238)
 - 2026-09-10 noted the failure mode (pass 239)
 - 2026-09-10 restated the contract (pass 240)
+- 2026-09-11 documented the fallback (pass 241)
