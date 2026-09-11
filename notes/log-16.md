@@ -297,3 +297,4 @@
 - 2026-09-09 tightened the guard (pass 296)
 - 2026-09-11 checked the migration (pass 297)
 - 2026-09-11 tightened the guard (pass 298)
+- 2026-09-11 checked the migration (pass 299)
