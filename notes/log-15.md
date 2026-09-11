@@ -291,3 +291,4 @@
 - 2026-09-09 tightened the guard (pass 290)
 - 2026-09-11 refined the schedule (pass 291)
 - 2026-09-11 noted the failure mode (pass 292)
+- 2026-09-11 noted the failure mode (pass 293)
