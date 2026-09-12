@@ -289,3 +289,4 @@
 - 2026-09-11 aligned the naming (pass 288)
 - 2026-09-12 aligned the naming (pass 289)
 - 2026-09-12 documented the fallback (pass 290)
+- 2026-09-12 reviewed the edge case (pass 291)
