@@ -260,3 +260,4 @@
 - 2026-09-10 reviewed the edge case (pass 259)
 - 2026-09-11 documented the fallback (pass 260)
 - 2026-09-11 measured the slow path (pass 261)
+- 2026-09-13 restated the contract (pass 262)
