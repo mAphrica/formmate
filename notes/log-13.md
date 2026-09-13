@@ -300,3 +300,4 @@
 - 2026-09-11 refined the schedule (pass 299)
 - 2026-09-12 measured the slow path (pass 300)
 - 2026-09-13 trimmed the payload (pass 301)
+- 2026-09-13 checked the migration (pass 302)
