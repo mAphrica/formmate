@@ -262,3 +262,4 @@
 - 2026-09-11 noted the failure mode (pass 261)
 - 2026-09-11 refined the schedule (pass 262)
 - 2026-09-12 refined the schedule (pass 263)
+- 2026-09-13 measured the slow path (pass 264)
