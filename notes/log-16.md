@@ -303,3 +303,4 @@
 - 2026-09-14 tightened the guard (pass 302)
 - 2026-09-14 documented the fallback (pass 303)
 - 2026-09-14 documented the fallback (pass 304)
+- 2026-09-14 documented the fallback (pass 305)
