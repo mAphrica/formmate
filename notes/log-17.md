@@ -282,3 +282,4 @@
 - 2026-09-14 trimmed the payload (pass 281)
 - 2026-09-14 documented the fallback (pass 282)
 - 2026-09-14 restated the contract (pass 283)
+- 2026-09-14 aligned the naming (pass 284)
