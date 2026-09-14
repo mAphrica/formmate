@@ -309,3 +309,4 @@
 - 2026-09-14 noted the failure mode (pass 308)
 - 2026-09-14 documented the fallback (pass 309)
 - 2026-09-14 aligned the naming (pass 310)
+- 2026-09-14 tightened the guard (pass 311)

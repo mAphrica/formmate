@@ -280,3 +280,4 @@
 - 2026-09-14 tightened the guard (pass 279)
 - 2026-09-14 noted the failure mode (pass 280)
 - 2026-09-14 noted the failure mode (pass 281)
+- 2026-09-14 trimmed the payload (pass 282)
