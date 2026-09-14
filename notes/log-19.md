@@ -304,3 +304,4 @@
 - 2026-09-11 tightened the guard (pass 303)
 - 2026-09-12 trimmed the payload (pass 304)
 - 2026-09-13 restated the contract (pass 305)
+- 2026-09-14 tightened the guard (pass 306)
