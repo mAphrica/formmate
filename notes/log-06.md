@@ -299,3 +299,4 @@
 - 2026-09-13 checked the migration (pass 298)
 - 2026-09-14 trimmed the payload (pass 299)
 - 2026-09-14 measured the slow path (pass 300)
+- 2026-09-14 documented the fallback (pass 301)
