@@ -255,3 +255,4 @@
 - 2026-09-12 refined the schedule (pass 254)
 - 2026-09-12 restated the contract (pass 255)
 - 2026-09-13 documented the fallback (pass 256)
+- 2026-09-14 refined the schedule (pass 257)
