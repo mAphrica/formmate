@@ -305,3 +305,4 @@
 - 2026-09-14 documented the fallback (pass 304)
 - 2026-09-14 documented the fallback (pass 305)
 - 2026-09-14 restated the contract (pass 306)
+- 2026-09-14 reviewed the edge case (pass 307)
