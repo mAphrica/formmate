@@ -306,3 +306,4 @@
 - 2026-09-13 restated the contract (pass 305)
 - 2026-09-14 tightened the guard (pass 306)
 - 2026-09-14 refined the schedule (pass 307)
+- 2026-09-14 noted the failure mode (pass 308)
