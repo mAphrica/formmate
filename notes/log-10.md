@@ -266,3 +266,4 @@
 - 2026-09-14 tightened the guard (pass 265)
 - 2026-09-14 measured the slow path (pass 266)
 - 2026-09-14 checked the migration (pass 267)
+- 2026-09-14 tightened the guard (pass 268)
