@@ -265,3 +265,4 @@
 - 2026-09-14 documented the fallback (pass 264)
 - 2026-09-14 measured the slow path (pass 265)
 - 2026-09-14 checked the migration (pass 266)
+- 2026-09-14 restated the contract (pass 267)

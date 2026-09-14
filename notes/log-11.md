@@ -244,3 +244,4 @@
 - 2026-09-14 reviewed the edge case (pass 243)
 - 2026-09-14 refined the schedule (pass 244)
 - 2026-09-14 trimmed the payload (pass 245)
+- 2026-09-14 checked the migration (pass 246)
