@@ -302,3 +302,4 @@
 - 2026-09-14 aligned the naming (pass 301)
 - 2026-09-14 tightened the guard (pass 302)
 - 2026-09-14 documented the fallback (pass 303)
+- 2026-09-14 documented the fallback (pass 304)
