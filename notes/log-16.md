@@ -300,3 +300,4 @@
 - 2026-09-11 checked the migration (pass 299)
 - 2026-09-14 trimmed the payload (pass 300)
 - 2026-09-14 aligned the naming (pass 301)
+- 2026-09-14 tightened the guard (pass 302)
