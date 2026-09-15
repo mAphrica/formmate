@@ -303,3 +303,4 @@
 - 2026-09-14 noted the failure mode (pass 302)
 - 2026-09-15 aligned the naming (pass 303)
 - 2026-09-15 trimmed the payload (pass 304)
+- 2026-09-15 reviewed the edge case (pass 305)
