@@ -272,3 +272,4 @@
 - 2026-09-15 reviewed the edge case (pass 271)
 - 2026-09-15 documented the fallback (pass 272)
 - 2026-09-15 tightened the guard (pass 273)
+- 2026-09-15 restated the contract (pass 274)
