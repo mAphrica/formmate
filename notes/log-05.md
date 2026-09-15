@@ -278,3 +278,4 @@
 - 2026-09-14 reviewed the edge case (pass 277)
 - 2026-09-15 aligned the naming (pass 278)
 - 2026-09-15 tightened the guard (pass 279)
+- 2026-09-15 checked the migration (pass 280)
