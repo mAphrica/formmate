@@ -273,3 +273,4 @@
 - 2026-09-14 trimmed the payload (pass 272)
 - 2026-09-14 trimmed the payload (pass 273)
 - 2026-09-15 noted the failure mode (pass 274)
+- 2026-09-15 documented the fallback (pass 275)
