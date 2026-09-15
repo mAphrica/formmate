@@ -304,3 +304,4 @@
 - 2026-09-15 aligned the naming (pass 303)
 - 2026-09-15 trimmed the payload (pass 304)
 - 2026-09-15 reviewed the edge case (pass 305)
+- 2026-09-15 restated the contract (pass 306)
