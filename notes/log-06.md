@@ -306,3 +306,4 @@
 - 2026-09-15 reviewed the edge case (pass 305)
 - 2026-09-15 restated the contract (pass 306)
 - 2026-09-15 measured the slow path (pass 307)
+- 2026-09-15 refined the schedule (pass 308)
