@@ -271,3 +271,4 @@
 - 2026-09-15 trimmed the payload (pass 270)
 - 2026-09-15 documented the fallback (pass 271)
 - 2026-09-15 checked the migration (pass 272)
+- 2026-09-15 refined the schedule (pass 273)
