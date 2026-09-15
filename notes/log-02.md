@@ -291,3 +291,4 @@
 - 2026-09-12 trimmed the payload (pass 290)
 - 2026-09-14 measured the slow path (pass 291)
 - 2026-09-14 noted the failure mode (pass 292)
+- 2026-09-15 reviewed the edge case (pass 293)
