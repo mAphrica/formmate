@@ -293,3 +293,4 @@
 - 2026-09-14 noted the failure mode (pass 292)
 - 2026-09-15 reviewed the edge case (pass 293)
 - 2026-09-15 reviewed the edge case (pass 294)
+- 2026-09-15 restated the contract (pass 295)

@@ -283,3 +283,4 @@
 - 2026-09-14 trimmed the payload (pass 282)
 - 2026-09-15 measured the slow path (pass 283)
 - 2026-09-15 documented the fallback (pass 284)
+- 2026-09-15 restated the contract (pass 285)
