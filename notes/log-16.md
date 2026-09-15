@@ -309,3 +309,4 @@
 - 2026-09-15 noted the failure mode (pass 308)
 - 2026-09-15 trimmed the payload (pass 309)
 - 2026-09-15 tightened the guard (pass 310)
+- 2026-09-15 restated the contract (pass 311)
