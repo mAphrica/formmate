@@ -291,3 +291,4 @@
 - 2026-09-15 trimmed the payload (pass 290)
 - 2026-09-16 restated the contract (pass 291)
 - 2026-09-16 documented the fallback (pass 292)
+- 2026-09-16 noted the failure mode (pass 293)
