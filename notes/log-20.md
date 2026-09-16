@@ -273,3 +273,4 @@
 - 2026-09-15 measured the slow path (pass 272)
 - 2026-09-15 reviewed the edge case (pass 273)
 - 2026-09-15 measured the slow path (pass 274)
+- 2026-09-16 documented the fallback (pass 275)

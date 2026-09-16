@@ -309,3 +309,4 @@
 - 2026-09-15 refined the schedule (pass 308)
 - 2026-09-15 refined the schedule (pass 309)
 - 2026-09-16 checked the migration (pass 310)
+- 2026-09-16 noted the failure mode (pass 311)
