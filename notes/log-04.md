@@ -297,3 +297,4 @@
 - 2026-09-14 documented the fallback (pass 296)
 - 2026-09-15 noted the failure mode (pass 297)
 - 2026-09-15 noted the failure mode (pass 298)
+- 2026-09-16 noted the failure mode (pass 299)
