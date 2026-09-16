@@ -278,3 +278,4 @@
 - 2026-09-15 measured the slow path (pass 277)
 - 2026-09-15 refined the schedule (pass 278)
 - 2026-09-15 tightened the guard (pass 279)
+- 2026-09-16 checked the migration (pass 280)
