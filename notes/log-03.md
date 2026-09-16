@@ -278,3 +278,4 @@
 - 2026-09-15 aligned the naming (pass 277)
 - 2026-09-16 aligned the naming (pass 278)
 - 2026-09-16 noted the failure mode (pass 279)
+- 2026-09-16 trimmed the payload (pass 280)
