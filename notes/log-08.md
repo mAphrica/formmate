@@ -278,3 +278,4 @@
 - 2026-09-15 refined the schedule (pass 277)
 - 2026-09-15 noted the failure mode (pass 278)
 - 2026-09-16 documented the fallback (pass 279)
+- 2026-09-16 measured the slow path (pass 280)
