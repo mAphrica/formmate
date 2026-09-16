@@ -305,3 +305,4 @@
 - 2026-09-15 trimmed the payload (pass 304)
 - 2026-09-15 restated the contract (pass 305)
 - 2026-09-16 documented the fallback (pass 306)
+- 2026-09-16 refined the schedule (pass 307)

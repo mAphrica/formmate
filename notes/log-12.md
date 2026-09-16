@@ -261,3 +261,4 @@
 - 2026-09-15 checked the migration (pass 260)
 - 2026-09-15 tightened the guard (pass 261)
 - 2026-09-15 noted the failure mode (pass 262)
+- 2026-09-16 tightened the guard (pass 263)
