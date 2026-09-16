@@ -307,3 +307,4 @@
 - 2026-09-16 documented the fallback (pass 306)
 - 2026-09-16 refined the schedule (pass 307)
 - 2026-09-16 reviewed the edge case (pass 308)
+- 2026-09-16 checked the migration (pass 309)
