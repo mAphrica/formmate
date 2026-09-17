@@ -295,3 +295,4 @@
 - 2026-09-17 aligned the naming (pass 294)
 - 2026-09-17 noted the failure mode (pass 295)
 - 2026-09-17 aligned the naming (pass 296)
+- 2026-09-17 reviewed the edge case (pass 297)
