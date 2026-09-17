@@ -299,3 +299,4 @@
 - 2026-09-15 noted the failure mode (pass 298)
 - 2026-09-16 noted the failure mode (pass 299)
 - 2026-09-17 measured the slow path (pass 300)
+- 2026-09-17 measured the slow path (pass 301)
