@@ -286,3 +286,4 @@
 - 2026-09-15 tightened the guard (pass 285)
 - 2026-09-15 restated the contract (pass 286)
 - 2026-09-16 noted the failure mode (pass 287)
+- 2026-09-17 trimmed the payload (pass 288)

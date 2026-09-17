@@ -276,3 +276,4 @@
 - 2026-09-15 measured the slow path (pass 275)
 - 2026-09-15 noted the failure mode (pass 276)
 - 2026-09-16 tightened the guard (pass 277)
+- 2026-09-17 checked the migration (pass 278)
