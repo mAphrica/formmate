@@ -302,3 +302,4 @@
 - 2026-09-17 measured the slow path (pass 301)
 - 2026-09-17 restated the contract (pass 302)
 - 2026-09-17 measured the slow path (pass 303)
+- 2026-09-17 noted the failure mode (pass 304)

@@ -278,3 +278,4 @@
 - 2026-09-17 aligned the naming (pass 277)
 - 2026-09-17 restated the contract (pass 278)
 - 2026-09-17 noted the failure mode (pass 279)
+- 2026-09-17 refined the schedule (pass 280)
