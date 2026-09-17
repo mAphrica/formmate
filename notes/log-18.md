@@ -282,3 +282,4 @@
 - 2026-09-16 refined the schedule (pass 281)
 - 2026-09-17 tightened the guard (pass 282)
 - 2026-09-17 aligned the naming (pass 283)
+- 2026-09-17 restated the contract (pass 284)
