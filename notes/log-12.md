@@ -268,3 +268,4 @@
 - 2026-09-17 checked the migration (pass 267)
 - 2026-09-17 tightened the guard (pass 268)
 - 2026-09-17 measured the slow path (pass 269)
+- 2026-09-17 restated the contract (pass 270)
