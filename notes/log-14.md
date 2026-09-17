@@ -285,3 +285,4 @@
 - 2026-09-15 documented the fallback (pass 284)
 - 2026-09-15 restated the contract (pass 285)
 - 2026-09-16 reviewed the edge case (pass 286)
+- 2026-09-17 aligned the naming (pass 287)
