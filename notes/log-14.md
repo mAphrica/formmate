@@ -290,3 +290,4 @@
 - 2026-09-17 measured the slow path (pass 289)
 - 2026-09-17 restated the contract (pass 290)
 - 2026-09-17 aligned the naming (pass 291)
+- 2026-09-17 trimmed the payload (pass 292)
