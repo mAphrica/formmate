@@ -278,3 +278,4 @@
 - 2026-09-17 refined the schedule (pass 277)
 - 2026-09-17 checked the migration (pass 278)
 - 2026-09-17 noted the failure mode (pass 279)
+- 2026-09-17 reviewed the edge case (pass 280)

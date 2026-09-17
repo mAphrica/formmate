@@ -282,3 +282,4 @@
 - 2026-09-17 reviewed the edge case (pass 281)
 - 2026-09-17 reviewed the edge case (pass 282)
 - 2026-09-17 tightened the guard (pass 283)
+- 2026-09-17 aligned the naming (pass 284)
