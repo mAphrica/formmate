@@ -273,3 +273,4 @@
 - 2026-09-15 measured the slow path (pass 272)
 - 2026-09-15 documented the fallback (pass 273)
 - 2026-09-16 noted the failure mode (pass 274)
+- 2026-09-17 aligned the naming (pass 275)

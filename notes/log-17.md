@@ -292,3 +292,4 @@
 - 2026-09-16 restated the contract (pass 291)
 - 2026-09-16 documented the fallback (pass 292)
 - 2026-09-16 noted the failure mode (pass 293)
+- 2026-09-17 aligned the naming (pass 294)
