@@ -319,3 +319,4 @@
 - 2026-09-18 tightened the guard (pass 318)
 - 2026-09-18 documented the fallback (pass 319)
 - 2026-09-18 noted the failure mode (pass 320)
+- 2026-09-18 noted the failure mode (pass 321)
