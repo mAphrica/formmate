@@ -317,3 +317,4 @@
 - 2026-09-18 tightened the guard (pass 316)
 - 2026-09-18 measured the slow path (pass 317)
 - 2026-09-18 measured the slow path (pass 318)
+- 2026-09-18 documented the fallback (pass 319)
