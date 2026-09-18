@@ -282,3 +282,4 @@
 - 2026-09-18 reviewed the edge case (pass 281)
 - 2026-09-18 tightened the guard (pass 282)
 - 2026-09-18 documented the fallback (pass 283)
+- 2026-09-18 trimmed the payload (pass 284)
