@@ -289,3 +289,4 @@
 - 2026-09-18 checked the migration (pass 288)
 - 2026-09-18 aligned the naming (pass 289)
 - 2026-09-18 trimmed the payload (pass 290)
+- 2026-09-18 documented the fallback (pass 291)
