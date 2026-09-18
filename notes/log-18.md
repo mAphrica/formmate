@@ -287,3 +287,4 @@
 - 2026-09-17 tightened the guard (pass 286)
 - 2026-09-18 measured the slow path (pass 287)
 - 2026-09-18 checked the migration (pass 288)
+- 2026-09-18 aligned the naming (pass 289)
