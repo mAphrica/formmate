@@ -286,3 +286,4 @@
 - 2026-09-18 documented the fallback (pass 285)
 - 2026-09-18 refined the schedule (pass 286)
 - 2026-09-18 documented the fallback (pass 287)
+- 2026-09-18 refined the schedule (pass 288)
