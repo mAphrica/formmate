@@ -287,3 +287,4 @@
 - 2026-09-18 refined the schedule (pass 286)
 - 2026-09-18 documented the fallback (pass 287)
 - 2026-09-18 refined the schedule (pass 288)
+- 2026-09-18 checked the migration (pass 289)
