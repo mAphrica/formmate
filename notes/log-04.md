@@ -305,3 +305,4 @@
 - 2026-09-17 noted the failure mode (pass 304)
 - 2026-09-17 reviewed the edge case (pass 305)
 - 2026-09-18 reviewed the edge case (pass 306)
+- 2026-09-18 noted the failure mode (pass 307)
