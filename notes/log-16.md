@@ -321,3 +321,4 @@
 - 2026-09-18 noted the failure mode (pass 320)
 - 2026-09-18 noted the failure mode (pass 321)
 - 2026-09-19 restated the contract (pass 322)
+- 2026-09-19 tightened the guard (pass 323)
