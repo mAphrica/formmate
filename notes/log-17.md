@@ -299,3 +299,4 @@
 - 2026-09-17 noted the failure mode (pass 298)
 - 2026-09-18 aligned the naming (pass 299)
 - 2026-09-18 restated the contract (pass 300)
+- 2026-09-20 checked the migration (pass 301)
