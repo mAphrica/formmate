@@ -283,3 +283,4 @@
 - 2026-09-18 trimmed the payload (pass 282)
 - 2026-09-18 aligned the naming (pass 283)
 - 2026-09-18 documented the fallback (pass 284)
+- 2026-09-21 noted the failure mode (pass 285)
