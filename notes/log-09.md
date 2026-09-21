@@ -284,3 +284,4 @@
 - 2026-09-18 restated the contract (pass 283)
 - 2026-09-18 tightened the guard (pass 284)
 - 2026-09-19 noted the failure mode (pass 285)
+- 2026-09-21 noted the failure mode (pass 286)
