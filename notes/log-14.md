@@ -302,3 +302,4 @@
 - 2026-09-18 documented the fallback (pass 301)
 - 2026-09-21 aligned the naming (pass 302)
 - 2026-09-21 refined the schedule (pass 303)
+- 2026-09-21 noted the failure mode (pass 304)

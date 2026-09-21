@@ -298,3 +298,4 @@
 - 2026-09-19 trimmed the payload (pass 297)
 - 2026-09-19 noted the failure mode (pass 298)
 - 2026-09-19 trimmed the payload (pass 299)
+- 2026-09-21 documented the fallback (pass 300)
