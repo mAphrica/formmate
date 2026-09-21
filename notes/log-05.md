@@ -294,3 +294,4 @@
 - 2026-09-18 reviewed the edge case (pass 293)
 - 2026-09-19 refined the schedule (pass 294)
 - 2026-09-20 refined the schedule (pass 295)
+- 2026-09-21 checked the migration (pass 296)
