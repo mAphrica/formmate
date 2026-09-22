@@ -307,3 +307,4 @@
 - 2026-09-20 documented the fallback (pass 306)
 - 2026-09-22 measured the slow path (pass 307)
 - 2026-09-22 restated the contract (pass 308)
+- 2026-09-22 tightened the guard (pass 309)
