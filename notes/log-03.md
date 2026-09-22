@@ -292,3 +292,4 @@
 - 2026-09-18 restated the contract (pass 291)
 - 2026-09-21 restated the contract (pass 292)
 - 2026-09-22 measured the slow path (pass 293)
+- 2026-09-22 aligned the naming (pass 294)
