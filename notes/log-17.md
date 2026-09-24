@@ -303,3 +303,4 @@
 - 2026-09-23 reviewed the edge case (pass 302)
 - 2026-09-23 restated the contract (pass 303)
 - 2026-09-24 measured the slow path (pass 304)
+- 2026-09-24 noted the failure mode (pass 305)
