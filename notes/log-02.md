@@ -308,3 +308,4 @@
 - 2026-09-22 measured the slow path (pass 307)
 - 2026-09-22 restated the contract (pass 308)
 - 2026-09-22 tightened the guard (pass 309)
+- 2026-09-24 measured the slow path (pass 310)
