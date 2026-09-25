@@ -294,3 +294,4 @@
 - 2026-09-25 measured the slow path (pass 293)
 - 2026-09-25 measured the slow path (pass 294)
 - 2026-09-25 documented the fallback (pass 295)
+- 2026-09-25 trimmed the payload (pass 296)
