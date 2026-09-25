@@ -316,3 +316,4 @@
 - 2026-09-24 refined the schedule (pass 315)
 - 2026-09-24 aligned the naming (pass 316)
 - 2026-09-24 documented the fallback (pass 317)
+- 2026-09-25 measured the slow path (pass 318)
