@@ -304,3 +304,4 @@
 - 2026-09-24 trimmed the payload (pass 303)
 - 2026-09-25 checked the migration (pass 304)
 - 2026-09-25 refined the schedule (pass 305)
+- 2026-09-25 restated the contract (pass 306)
