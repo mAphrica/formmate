@@ -317,3 +317,4 @@
 - 2026-09-24 aligned the naming (pass 316)
 - 2026-09-24 documented the fallback (pass 317)
 - 2026-09-25 measured the slow path (pass 318)
+- 2026-09-25 restated the contract (pass 319)
