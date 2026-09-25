@@ -291,3 +291,4 @@
 - 2026-09-25 documented the fallback (pass 290)
 - 2026-09-25 reviewed the edge case (pass 291)
 - 2026-09-25 refined the schedule (pass 292)
+- 2026-09-25 refined the schedule (pass 293)
