@@ -333,3 +333,4 @@
 - 2026-09-25 restated the contract (pass 332)
 - 2026-09-25 checked the migration (pass 333)
 - 2026-09-25 measured the slow path (pass 334)
+- 2026-09-25 tightened the guard (pass 335)

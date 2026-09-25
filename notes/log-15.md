@@ -320,3 +320,4 @@
 - 2026-09-25 restated the contract (pass 319)
 - 2026-09-25 aligned the naming (pass 320)
 - 2026-09-25 trimmed the payload (pass 321)
+- 2026-09-25 noted the failure mode (pass 322)
