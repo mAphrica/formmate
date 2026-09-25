@@ -302,3 +302,4 @@
 - 2026-09-22 documented the fallback (pass 301)
 - 2026-09-24 refined the schedule (pass 302)
 - 2026-09-24 trimmed the payload (pass 303)
+- 2026-09-25 checked the migration (pass 304)
