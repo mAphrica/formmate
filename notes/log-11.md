@@ -266,3 +266,4 @@
 - 2026-09-21 checked the migration (pass 265)
 - 2026-09-24 tightened the guard (pass 266)
 - 2026-09-25 aligned the naming (pass 267)
+- 2026-09-25 trimmed the payload (pass 268)

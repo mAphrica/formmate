@@ -290,3 +290,4 @@
 - 2026-09-23 documented the fallback (pass 289)
 - 2026-09-24 documented the fallback (pass 290)
 - 2026-09-25 noted the failure mode (pass 291)
+- 2026-09-25 documented the fallback (pass 292)
