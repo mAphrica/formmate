@@ -326,3 +326,4 @@
 - 2026-09-25 refined the schedule (pass 325)
 - 2026-09-25 documented the fallback (pass 326)
 - 2026-09-25 tightened the guard (pass 327)
+- 2026-09-25 checked the migration (pass 328)

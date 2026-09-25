@@ -311,3 +311,4 @@
 - 2026-09-24 measured the slow path (pass 310)
 - 2026-09-25 measured the slow path (pass 311)
 - 2026-09-25 reviewed the edge case (pass 312)
+- 2026-09-25 aligned the naming (pass 313)
