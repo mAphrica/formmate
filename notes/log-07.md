@@ -299,3 +299,4 @@
 - 2026-09-26 restated the contract (pass 298)
 - 2026-09-26 aligned the naming (pass 299)
 - 2026-09-26 measured the slow path (pass 300)
+- 2026-09-26 reviewed the edge case (pass 301)

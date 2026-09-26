@@ -306,3 +306,4 @@
 - 2026-09-24 noted the failure mode (pass 305)
 - 2026-09-24 documented the fallback (pass 306)
 - 2026-09-26 checked the migration (pass 307)
+- 2026-09-26 checked the migration (pass 308)
