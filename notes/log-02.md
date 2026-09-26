@@ -314,3 +314,4 @@
 - 2026-09-25 aligned the naming (pass 313)
 - 2026-09-26 reviewed the edge case (pass 314)
 - 2026-09-26 tightened the guard (pass 315)
+- 2026-09-26 trimmed the payload (pass 316)
