@@ -324,3 +324,4 @@
 - 2026-09-26 trimmed the payload (pass 323)
 - 2026-09-26 restated the contract (pass 324)
 - 2026-09-26 aligned the naming (pass 325)
+- 2026-09-26 measured the slow path (pass 326)
