@@ -302,3 +302,4 @@
 - 2026-09-24 measured the slow path (pass 301)
 - 2026-09-25 noted the failure mode (pass 302)
 - 2026-09-25 measured the slow path (pass 303)
+- 2026-09-26 aligned the naming (pass 304)
