@@ -334,3 +334,4 @@
 - 2026-09-25 checked the migration (pass 333)
 - 2026-09-25 measured the slow path (pass 334)
 - 2026-09-25 tightened the guard (pass 335)
+- 2026-09-26 trimmed the payload (pass 336)
