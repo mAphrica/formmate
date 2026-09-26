@@ -305,3 +305,4 @@
 - 2026-09-21 noted the failure mode (pass 304)
 - 2026-09-22 aligned the naming (pass 305)
 - 2026-09-25 reviewed the edge case (pass 306)
+- 2026-09-26 checked the migration (pass 307)

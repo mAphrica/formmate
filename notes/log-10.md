@@ -298,3 +298,4 @@
 - 2026-09-25 documented the fallback (pass 297)
 - 2026-09-25 restated the contract (pass 298)
 - 2026-09-26 tightened the guard (pass 299)
+- 2026-09-26 checked the migration (pass 300)
