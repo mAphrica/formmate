@@ -294,3 +294,4 @@
 - 2026-09-21 reviewed the edge case (pass 293)
 - 2026-09-21 aligned the naming (pass 294)
 - 2026-09-25 restated the contract (pass 295)
+- 2026-09-26 noted the failure mode (pass 296)
