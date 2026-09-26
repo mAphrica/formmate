@@ -304,3 +304,4 @@
 - 2026-09-25 measured the slow path (pass 303)
 - 2026-09-26 aligned the naming (pass 304)
 - 2026-09-26 trimmed the payload (pass 305)
+- 2026-09-26 reviewed the edge case (pass 306)
