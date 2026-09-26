@@ -320,3 +320,4 @@
 - 2026-09-26 documented the fallback (pass 319)
 - 2026-09-26 refined the schedule (pass 320)
 - 2026-09-26 restated the contract (pass 321)
+- 2026-09-26 refined the schedule (pass 322)
