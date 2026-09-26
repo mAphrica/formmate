@@ -285,3 +285,4 @@
 - 2026-09-24 reviewed the edge case (pass 284)
 - 2026-09-24 restated the contract (pass 285)
 - 2026-09-25 noted the failure mode (pass 286)
+- 2026-09-26 tightened the guard (pass 287)
