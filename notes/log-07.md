@@ -300,3 +300,4 @@
 - 2026-09-26 aligned the naming (pass 299)
 - 2026-09-26 measured the slow path (pass 300)
 - 2026-09-26 reviewed the edge case (pass 301)
+- 2026-09-27 tightened the guard (pass 302)
