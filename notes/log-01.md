@@ -311,3 +311,4 @@
 - 2026-09-26 reviewed the edge case (pass 310)
 - 2026-09-27 refined the schedule (pass 311)
 - 2026-09-27 restated the contract (pass 312)
+- 2026-09-27 tightened the guard (pass 313)

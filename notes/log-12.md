@@ -288,3 +288,4 @@
 - 2026-09-26 tightened the guard (pass 287)
 - 2026-09-26 checked the migration (pass 288)
 - 2026-09-26 trimmed the payload (pass 289)
+- 2026-09-27 tightened the guard (pass 290)
