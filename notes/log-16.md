@@ -336,3 +336,4 @@
 - 2026-09-25 tightened the guard (pass 335)
 - 2026-09-26 trimmed the payload (pass 336)
 - 2026-09-26 refined the schedule (pass 337)
+- 2026-09-27 checked the migration (pass 338)
