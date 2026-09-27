@@ -309,3 +309,4 @@
 - 2026-09-26 tightened the guard (pass 308)
 - 2026-09-26 tightened the guard (pass 309)
 - 2026-09-26 reviewed the edge case (pass 310)
+- 2026-09-27 refined the schedule (pass 311)
