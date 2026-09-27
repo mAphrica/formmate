@@ -295,3 +295,4 @@
 - 2026-09-26 refined the schedule (pass 294)
 - 2026-09-26 refined the schedule (pass 295)
 - 2026-09-27 trimmed the payload (pass 296)
+- 2026-09-27 documented the fallback (pass 297)
