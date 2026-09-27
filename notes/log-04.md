@@ -322,3 +322,4 @@
 - 2026-09-26 restated the contract (pass 321)
 - 2026-09-26 refined the schedule (pass 322)
 - 2026-09-26 trimmed the payload (pass 323)
+- 2026-09-27 tightened the guard (pass 324)

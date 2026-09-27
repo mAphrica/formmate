@@ -306,3 +306,4 @@
 - 2026-09-26 trimmed the payload (pass 305)
 - 2026-09-26 reviewed the edge case (pass 306)
 - 2026-09-27 trimmed the payload (pass 307)
+- 2026-09-27 restated the contract (pass 308)
