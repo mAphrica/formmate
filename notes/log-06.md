@@ -321,3 +321,4 @@
 - 2026-09-23 tightened the guard (pass 320)
 - 2026-09-23 reviewed the edge case (pass 321)
 - 2026-09-25 restated the contract (pass 322)
+- 2026-09-27 checked the migration (pass 323)
