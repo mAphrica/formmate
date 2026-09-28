@@ -337,3 +337,4 @@
 - 2026-09-26 trimmed the payload (pass 336)
 - 2026-09-26 refined the schedule (pass 337)
 - 2026-09-27 checked the migration (pass 338)
+- 2026-09-28 aligned the naming (pass 339)

@@ -308,3 +308,4 @@
 - 2026-09-27 trimmed the payload (pass 307)
 - 2026-09-27 restated the contract (pass 308)
 - 2026-09-28 aligned the naming (pass 309)
+- 2026-09-28 refined the schedule (pass 310)
