@@ -314,3 +314,4 @@
 - 2026-09-27 tightened the guard (pass 313)
 - 2026-09-28 noted the failure mode (pass 314)
 - 2026-09-28 noted the failure mode (pass 315)
+- 2026-09-28 refined the schedule (pass 316)
