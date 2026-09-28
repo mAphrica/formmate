@@ -343,3 +343,4 @@
 - 2026-09-28 tightened the guard (pass 342)
 - 2026-09-28 checked the migration (pass 343)
 - 2026-09-28 reviewed the edge case (pass 344)
+- 2026-09-28 reviewed the edge case (pass 345)
