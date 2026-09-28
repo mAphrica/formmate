@@ -310,3 +310,4 @@
 - 2026-09-27 measured the slow path (pass 309)
 - 2026-09-28 trimmed the payload (pass 310)
 - 2026-09-28 tightened the guard (pass 311)
+- 2026-09-28 documented the fallback (pass 312)
