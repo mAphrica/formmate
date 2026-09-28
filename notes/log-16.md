@@ -344,3 +344,4 @@
 - 2026-09-28 aligned the naming (pass 343)
 - 2026-09-28 tightened the guard (pass 344)
 - 2026-09-28 checked the migration (pass 345)
+- 2026-09-28 reviewed the edge case (pass 346)
