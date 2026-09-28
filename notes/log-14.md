@@ -310,3 +310,4 @@
 - 2026-09-27 tightened the guard (pass 309)
 - 2026-09-27 trimmed the payload (pass 310)
 - 2026-09-28 checked the migration (pass 311)
+- 2026-09-28 documented the fallback (pass 312)

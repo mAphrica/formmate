@@ -329,3 +329,4 @@
 - 2026-09-28 trimmed the payload (pass 328)
 - 2026-09-28 aligned the naming (pass 329)
 - 2026-09-28 tightened the guard (pass 330)
+- 2026-09-28 checked the migration (pass 331)
