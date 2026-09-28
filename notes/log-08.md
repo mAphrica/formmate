@@ -300,3 +300,4 @@
 - 2026-09-27 documented the fallback (pass 299)
 - 2026-09-28 tightened the guard (pass 300)
 - 2026-09-28 reviewed the edge case (pass 301)
+- 2026-09-28 noted the failure mode (pass 302)
