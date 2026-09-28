@@ -290,3 +290,4 @@
 - 2026-09-26 trimmed the payload (pass 289)
 - 2026-09-27 tightened the guard (pass 290)
 - 2026-09-27 reviewed the edge case (pass 291)
+- 2026-09-28 documented the fallback (pass 292)

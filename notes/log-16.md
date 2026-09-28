@@ -342,3 +342,4 @@
 - 2026-09-28 measured the slow path (pass 341)
 - 2026-09-28 refined the schedule (pass 342)
 - 2026-09-28 aligned the naming (pass 343)
+- 2026-09-28 tightened the guard (pass 344)

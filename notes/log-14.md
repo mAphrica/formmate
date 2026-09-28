@@ -312,3 +312,4 @@
 - 2026-09-28 checked the migration (pass 311)
 - 2026-09-28 documented the fallback (pass 312)
 - 2026-09-28 aligned the naming (pass 313)
+- 2026-09-28 refined the schedule (pass 314)
