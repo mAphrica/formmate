@@ -323,3 +323,4 @@
 - 2026-09-25 restated the contract (pass 322)
 - 2026-09-27 checked the migration (pass 323)
 - 2026-09-27 noted the failure mode (pass 324)
+- 2026-09-28 refined the schedule (pass 325)
