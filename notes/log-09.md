@@ -302,3 +302,4 @@
 - 2026-09-28 aligned the naming (pass 301)
 - 2026-09-28 checked the migration (pass 302)
 - 2026-09-28 reviewed the edge case (pass 303)
+- 2026-09-28 tightened the guard (pass 304)

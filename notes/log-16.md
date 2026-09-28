@@ -343,3 +343,4 @@
 - 2026-09-28 refined the schedule (pass 342)
 - 2026-09-28 aligned the naming (pass 343)
 - 2026-09-28 tightened the guard (pass 344)
+- 2026-09-28 checked the migration (pass 345)
