@@ -300,3 +300,4 @@
 - 2026-09-28 measured the slow path (pass 299)
 - 2026-09-28 noted the failure mode (pass 300)
 - 2026-09-28 aligned the naming (pass 301)
+- 2026-09-28 checked the migration (pass 302)

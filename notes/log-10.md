@@ -304,3 +304,4 @@
 - 2026-09-28 aligned the naming (pass 303)
 - 2026-09-28 tightened the guard (pass 304)
 - 2026-09-28 noted the failure mode (pass 305)
+- 2026-09-28 refined the schedule (pass 306)
