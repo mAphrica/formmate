@@ -311,3 +311,4 @@
 - 2026-09-28 trimmed the payload (pass 310)
 - 2026-09-28 tightened the guard (pass 311)
 - 2026-09-28 documented the fallback (pass 312)
+- 2026-09-28 refined the schedule (pass 313)
