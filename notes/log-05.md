@@ -309,3 +309,4 @@
 - 2026-09-26 refined the schedule (pass 308)
 - 2026-09-27 measured the slow path (pass 309)
 - 2026-09-28 trimmed the payload (pass 310)
+- 2026-09-28 tightened the guard (pass 311)

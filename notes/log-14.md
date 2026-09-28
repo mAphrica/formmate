@@ -309,3 +309,4 @@
 - 2026-09-27 restated the contract (pass 308)
 - 2026-09-27 tightened the guard (pass 309)
 - 2026-09-27 trimmed the payload (pass 310)
+- 2026-09-28 checked the migration (pass 311)
