@@ -294,3 +294,4 @@
 - 2026-09-28 restated the contract (pass 293)
 - 2026-09-29 refined the schedule (pass 294)
 - 2026-09-29 aligned the naming (pass 295)
+- 2026-09-29 noted the failure mode (pass 296)
