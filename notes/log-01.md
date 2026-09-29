@@ -316,3 +316,4 @@
 - 2026-09-28 noted the failure mode (pass 315)
 - 2026-09-28 refined the schedule (pass 316)
 - 2026-09-28 restated the contract (pass 317)
+- 2026-09-29 trimmed the payload (pass 318)
