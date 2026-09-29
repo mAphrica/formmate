@@ -313,3 +313,4 @@
 - 2026-09-28 documented the fallback (pass 312)
 - 2026-09-28 refined the schedule (pass 313)
 - 2026-09-29 checked the migration (pass 314)
+- 2026-09-29 noted the failure mode (pass 315)
