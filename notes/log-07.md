@@ -305,3 +305,4 @@
 - 2026-09-27 noted the failure mode (pass 304)
 - 2026-09-28 measured the slow path (pass 305)
 - 2026-09-28 restated the contract (pass 306)
+- 2026-09-29 trimmed the payload (pass 307)
