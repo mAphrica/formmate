@@ -304,3 +304,4 @@
 - 2026-09-28 reviewed the edge case (pass 303)
 - 2026-09-28 tightened the guard (pass 304)
 - 2026-09-29 refined the schedule (pass 305)
+- 2026-09-29 documented the fallback (pass 306)
