@@ -288,3 +288,4 @@
 - 2026-09-28 refined the schedule (pass 287)
 - 2026-09-29 reviewed the edge case (pass 288)
 - 2026-09-29 tightened the guard (pass 289)
+- 2026-09-29 checked the migration (pass 290)
