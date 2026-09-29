@@ -348,3 +348,4 @@
 - 2026-09-29 tightened the guard (pass 347)
 - 2026-09-29 measured the slow path (pass 348)
 - 2026-09-29 refined the schedule (pass 349)
+- 2026-09-29 measured the slow path (pass 350)
