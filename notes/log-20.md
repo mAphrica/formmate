@@ -304,3 +304,4 @@
 - 2026-09-28 refined the schedule (pass 303)
 - 2026-09-29 refined the schedule (pass 304)
 - 2026-09-29 trimmed the payload (pass 305)
+- 2026-09-29 documented the fallback (pass 306)
