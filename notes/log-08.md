@@ -304,3 +304,4 @@
 - 2026-09-28 tightened the guard (pass 303)
 - 2026-09-28 tightened the guard (pass 304)
 - 2026-09-29 noted the failure mode (pass 305)
+- 2026-09-29 measured the slow path (pass 306)

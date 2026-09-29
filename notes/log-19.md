@@ -346,3 +346,4 @@
 - 2026-09-28 reviewed the edge case (pass 345)
 - 2026-09-29 refined the schedule (pass 346)
 - 2026-09-29 trimmed the payload (pass 347)
+- 2026-09-29 documented the fallback (pass 348)
