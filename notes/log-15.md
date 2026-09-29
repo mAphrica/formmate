@@ -329,3 +329,4 @@
 - 2026-09-27 reviewed the edge case (pass 328)
 - 2026-09-28 checked the migration (pass 329)
 - 2026-09-28 tightened the guard (pass 330)
+- 2026-09-29 documented the fallback (pass 331)
