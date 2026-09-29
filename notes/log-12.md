@@ -292,3 +292,4 @@
 - 2026-09-27 reviewed the edge case (pass 291)
 - 2026-09-28 documented the fallback (pass 292)
 - 2026-09-28 restated the contract (pass 293)
+- 2026-09-29 refined the schedule (pass 294)
