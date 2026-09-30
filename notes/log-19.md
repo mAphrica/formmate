@@ -349,3 +349,4 @@
 - 2026-09-29 documented the fallback (pass 348)
 - 2026-09-29 restated the contract (pass 349)
 - 2026-09-29 aligned the naming (pass 350)
+- 2026-09-30 reviewed the edge case (pass 351)
