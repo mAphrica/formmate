@@ -306,3 +306,4 @@
 - 2026-09-29 refined the schedule (pass 305)
 - 2026-09-29 documented the fallback (pass 306)
 - 2026-09-30 tightened the guard (pass 307)
+- 2026-09-30 aligned the naming (pass 308)
