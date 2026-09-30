@@ -313,3 +313,4 @@
 - 2026-09-28 measured the slow path (pass 312)
 - 2026-09-30 aligned the naming (pass 313)
 - 2026-09-30 measured the slow path (pass 314)
+- 2026-09-30 tightened the guard (pass 315)
