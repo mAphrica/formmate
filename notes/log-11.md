@@ -291,3 +291,4 @@
 - 2026-09-29 checked the migration (pass 290)
 - 2026-09-29 trimmed the payload (pass 291)
 - 2026-09-30 noted the failure mode (pass 292)
+- 2026-09-30 aligned the naming (pass 293)
