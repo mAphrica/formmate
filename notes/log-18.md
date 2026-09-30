@@ -315,3 +315,4 @@
 - 2026-09-28 refined the schedule (pass 314)
 - 2026-09-29 refined the schedule (pass 315)
 - 2026-09-30 aligned the naming (pass 316)
+- 2026-09-30 restated the contract (pass 317)
