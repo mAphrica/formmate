@@ -337,3 +337,4 @@
 - 2026-09-29 aligned the naming (pass 336)
 - 2026-09-30 trimmed the payload (pass 337)
 - 2026-09-30 restated the contract (pass 338)
+- 2026-09-30 tightened the guard (pass 339)
