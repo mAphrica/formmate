@@ -317,3 +317,4 @@
 - 2026-09-29 tightened the guard (pass 316)
 - 2026-09-29 aligned the naming (pass 317)
 - 2026-09-30 noted the failure mode (pass 318)
+- 2026-09-30 documented the fallback (pass 319)
