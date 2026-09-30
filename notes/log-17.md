@@ -311,3 +311,4 @@
 - 2026-09-28 refined the schedule (pass 310)
 - 2026-09-28 noted the failure mode (pass 311)
 - 2026-09-28 measured the slow path (pass 312)
+- 2026-09-30 aligned the naming (pass 313)
