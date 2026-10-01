@@ -298,3 +298,4 @@
 - 2026-09-30 noted the failure mode (pass 297)
 - 2026-10-01 checked the migration (pass 298)
 - 2026-10-01 tightened the guard (pass 299)
+- 2026-10-01 trimmed the payload (pass 300)
