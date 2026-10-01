@@ -310,3 +310,4 @@
 - 2026-09-30 restated the contract (pass 309)
 - 2026-09-30 trimmed the payload (pass 310)
 - 2026-09-30 restated the contract (pass 311)
+- 2026-10-01 refined the schedule (pass 312)
