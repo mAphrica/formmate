@@ -315,3 +315,4 @@
 - 2026-09-29 checked the migration (pass 314)
 - 2026-09-29 noted the failure mode (pass 315)
 - 2026-09-29 checked the migration (pass 316)
+- 2026-10-01 documented the fallback (pass 317)
