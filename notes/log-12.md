@@ -301,3 +301,4 @@
 - 2026-10-01 trimmed the payload (pass 300)
 - 2026-10-01 checked the migration (pass 301)
 - 2026-10-01 restated the contract (pass 302)
+- 2026-10-01 trimmed the payload (pass 303)
