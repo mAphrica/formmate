@@ -342,3 +342,4 @@
 - 2026-10-01 aligned the naming (pass 341)
 - 2026-10-01 restated the contract (pass 342)
 - 2026-10-01 documented the fallback (pass 343)
+- 2026-10-01 reviewed the edge case (pass 344)
