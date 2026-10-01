@@ -313,3 +313,4 @@
 - 2026-10-01 refined the schedule (pass 312)
 - 2026-10-01 noted the failure mode (pass 313)
 - 2026-10-01 trimmed the payload (pass 314)
+- 2026-10-01 restated the contract (pass 315)
