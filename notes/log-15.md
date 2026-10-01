@@ -341,3 +341,4 @@
 - 2026-10-01 aligned the naming (pass 340)
 - 2026-10-01 restated the contract (pass 341)
 - 2026-10-01 aligned the naming (pass 342)
+- 2026-10-01 trimmed the payload (pass 343)
