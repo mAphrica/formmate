@@ -341,3 +341,4 @@
 - 2026-10-01 checked the migration (pass 340)
 - 2026-10-01 documented the fallback (pass 341)
 - 2026-10-01 trimmed the payload (pass 342)
+- 2026-10-01 tightened the guard (pass 343)
