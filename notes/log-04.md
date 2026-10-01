@@ -340,3 +340,4 @@
 - 2026-09-30 refined the schedule (pass 339)
 - 2026-10-01 checked the migration (pass 340)
 - 2026-10-01 documented the fallback (pass 341)
+- 2026-10-01 trimmed the payload (pass 342)
