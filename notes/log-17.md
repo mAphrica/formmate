@@ -317,3 +317,4 @@
 - 2026-09-30 reviewed the edge case (pass 316)
 - 2026-09-30 tightened the guard (pass 317)
 - 2026-09-30 tightened the guard (pass 318)
+- 2026-10-01 documented the fallback (pass 319)
