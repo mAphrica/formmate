@@ -320,3 +320,4 @@
 - 2026-10-01 documented the fallback (pass 319)
 - 2026-10-01 tightened the guard (pass 320)
 - 2026-10-01 measured the slow path (pass 321)
+- 2026-10-01 aligned the naming (pass 322)
