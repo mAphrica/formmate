@@ -296,3 +296,4 @@
 - 2026-09-29 aligned the naming (pass 295)
 - 2026-09-29 noted the failure mode (pass 296)
 - 2026-09-30 noted the failure mode (pass 297)
+- 2026-10-01 checked the migration (pass 298)
