@@ -309,3 +309,4 @@
 - 2026-09-30 aligned the naming (pass 308)
 - 2026-10-01 tightened the guard (pass 309)
 - 2026-10-01 aligned the naming (pass 310)
+- 2026-10-01 tightened the guard (pass 311)
