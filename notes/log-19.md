@@ -356,3 +356,4 @@
 - 2026-10-01 trimmed the payload (pass 355)
 - 2026-10-01 reviewed the edge case (pass 356)
 - 2026-10-01 reviewed the edge case (pass 357)
+- 2026-10-01 tightened the guard (pass 358)
