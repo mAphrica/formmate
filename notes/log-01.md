@@ -331,3 +331,4 @@
 - 2026-10-01 measured the slow path (pass 330)
 - 2026-10-01 noted the failure mode (pass 331)
 - 2026-10-01 tightened the guard (pass 332)
+- 2026-10-01 refined the schedule (pass 333)
