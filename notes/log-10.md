@@ -320,3 +320,4 @@
 - 2026-10-01 measured the slow path (pass 319)
 - 2026-10-01 trimmed the payload (pass 320)
 - 2026-10-01 reviewed the edge case (pass 321)
+- 2026-10-02 documented the fallback (pass 322)
