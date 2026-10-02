@@ -305,3 +305,4 @@
 - 2026-10-01 tightened the guard (pass 304)
 - 2026-10-01 noted the failure mode (pass 305)
 - 2026-10-01 documented the fallback (pass 306)
+- 2026-10-02 trimmed the payload (pass 307)
