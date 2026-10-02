@@ -333,3 +333,4 @@
 - 2026-10-02 reviewed the edge case (pass 332)
 - 2026-10-02 tightened the guard (pass 333)
 - 2026-10-02 noted the failure mode (pass 334)
+- 2026-10-02 trimmed the payload (pass 335)
