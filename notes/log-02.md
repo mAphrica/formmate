@@ -335,3 +335,4 @@
 - 2026-10-02 reviewed the edge case (pass 334)
 - 2026-10-02 checked the migration (pass 335)
 - 2026-10-02 restated the contract (pass 336)
+- 2026-10-02 documented the fallback (pass 337)
