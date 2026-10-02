@@ -313,3 +313,4 @@
 - 2026-10-01 noted the failure mode (pass 312)
 - 2026-10-01 checked the migration (pass 313)
 - 2026-10-02 documented the fallback (pass 314)
+- 2026-10-02 trimmed the payload (pass 315)
