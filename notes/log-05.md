@@ -317,3 +317,4 @@
 - 2026-09-29 checked the migration (pass 316)
 - 2026-10-01 documented the fallback (pass 317)
 - 2026-10-01 documented the fallback (pass 318)
+- 2026-10-02 documented the fallback (pass 319)

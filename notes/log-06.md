@@ -329,3 +329,4 @@
 - 2026-09-30 trimmed the payload (pass 328)
 - 2026-09-30 measured the slow path (pass 329)
 - 2026-09-30 tightened the guard (pass 330)
+- 2026-10-02 noted the failure mode (pass 331)
