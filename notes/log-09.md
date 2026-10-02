@@ -312,3 +312,4 @@
 - 2026-10-01 tightened the guard (pass 311)
 - 2026-10-01 noted the failure mode (pass 312)
 - 2026-10-01 checked the migration (pass 313)
+- 2026-10-02 documented the fallback (pass 314)
