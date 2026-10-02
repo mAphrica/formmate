@@ -343,3 +343,4 @@
 - 2026-10-01 aligned the naming (pass 342)
 - 2026-10-01 trimmed the payload (pass 343)
 - 2026-10-02 tightened the guard (pass 344)
+- 2026-10-02 measured the slow path (pass 345)
