@@ -358,3 +358,4 @@
 - 2026-10-01 reviewed the edge case (pass 357)
 - 2026-10-01 tightened the guard (pass 358)
 - 2026-10-01 measured the slow path (pass 359)
+- 2026-10-02 tightened the guard (pass 360)
