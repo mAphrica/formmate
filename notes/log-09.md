@@ -315,3 +315,4 @@
 - 2026-10-02 documented the fallback (pass 314)
 - 2026-10-02 trimmed the payload (pass 315)
 - 2026-10-02 noted the failure mode (pass 316)
+- 2026-10-05 documented the fallback (pass 317)

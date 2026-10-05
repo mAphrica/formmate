@@ -299,3 +299,4 @@
 - 2026-10-01 measured the slow path (pass 298)
 - 2026-10-01 documented the fallback (pass 299)
 - 2026-10-02 refined the schedule (pass 300)
+- 2026-10-05 restated the contract (pass 301)
