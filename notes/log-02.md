@@ -337,3 +337,4 @@
 - 2026-10-02 restated the contract (pass 336)
 - 2026-10-02 documented the fallback (pass 337)
 - 2026-10-05 tightened the guard (pass 338)
+- 2026-10-05 documented the fallback (pass 339)
