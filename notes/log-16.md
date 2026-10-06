@@ -359,3 +359,4 @@
 - 2026-10-02 reviewed the edge case (pass 358)
 - 2026-10-05 noted the failure mode (pass 359)
 - 2026-10-06 documented the fallback (pass 360)
+- 2026-10-06 documented the fallback (pass 361)
