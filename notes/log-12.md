@@ -309,3 +309,4 @@
 - 2026-10-02 reviewed the edge case (pass 308)
 - 2026-10-02 checked the migration (pass 309)
 - 2026-10-06 trimmed the payload (pass 310)
+- 2026-10-06 noted the failure mode (pass 311)
