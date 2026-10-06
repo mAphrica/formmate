@@ -310,3 +310,4 @@
 - 2026-10-02 checked the migration (pass 309)
 - 2026-10-06 trimmed the payload (pass 310)
 - 2026-10-06 noted the failure mode (pass 311)
+- 2026-10-06 checked the migration (pass 312)

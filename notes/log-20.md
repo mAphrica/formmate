@@ -322,3 +322,4 @@
 - 2026-10-06 reviewed the edge case (pass 321)
 - 2026-10-06 refined the schedule (pass 322)
 - 2026-10-06 documented the fallback (pass 323)
+- 2026-10-06 documented the fallback (pass 324)
