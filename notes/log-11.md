@@ -300,3 +300,4 @@
 - 2026-10-01 documented the fallback (pass 299)
 - 2026-10-02 refined the schedule (pass 300)
 - 2026-10-05 restated the contract (pass 301)
+- 2026-10-06 noted the failure mode (pass 302)
