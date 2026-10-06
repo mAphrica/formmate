@@ -324,3 +324,4 @@
 - 2026-10-06 checked the migration (pass 323)
 - 2026-10-06 tightened the guard (pass 324)
 - 2026-10-06 measured the slow path (pass 325)
+- 2026-10-06 refined the schedule (pass 326)
