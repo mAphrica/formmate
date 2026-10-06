@@ -347,3 +347,4 @@
 - 2026-10-05 documented the fallback (pass 346)
 - 2026-10-05 noted the failure mode (pass 347)
 - 2026-10-06 documented the fallback (pass 348)
+- 2026-10-06 checked the migration (pass 349)
