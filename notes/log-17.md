@@ -327,3 +327,4 @@
 - 2026-10-05 measured the slow path (pass 326)
 - 2026-10-05 tightened the guard (pass 327)
 - 2026-10-06 refined the schedule (pass 328)
+- 2026-10-06 reviewed the edge case (pass 329)

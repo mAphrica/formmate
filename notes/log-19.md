@@ -363,3 +363,4 @@
 - 2026-10-02 measured the slow path (pass 362)
 - 2026-10-06 measured the slow path (pass 363)
 - 2026-10-06 tightened the guard (pass 364)
+- 2026-10-06 trimmed the payload (pass 365)
