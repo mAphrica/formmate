@@ -323,3 +323,4 @@
 - 2026-10-06 refined the schedule (pass 322)
 - 2026-10-06 trimmed the payload (pass 323)
 - 2026-10-06 reviewed the edge case (pass 324)
+- 2026-10-06 noted the failure mode (pass 325)

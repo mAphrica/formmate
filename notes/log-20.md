@@ -325,3 +325,4 @@
 - 2026-10-06 documented the fallback (pass 324)
 - 2026-10-06 documented the fallback (pass 325)
 - 2026-10-06 documented the fallback (pass 326)
+- 2026-10-06 trimmed the payload (pass 327)
