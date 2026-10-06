@@ -320,3 +320,4 @@
 - 2026-10-02 documented the fallback (pass 319)
 - 2026-10-05 documented the fallback (pass 320)
 - 2026-10-05 restated the contract (pass 321)
+- 2026-10-06 checked the migration (pass 322)
