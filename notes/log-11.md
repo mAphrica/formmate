@@ -302,3 +302,4 @@
 - 2026-10-05 restated the contract (pass 301)
 - 2026-10-06 noted the failure mode (pass 302)
 - 2026-10-06 documented the fallback (pass 303)
+- 2026-10-06 reviewed the edge case (pass 304)
