@@ -365,3 +365,4 @@
 - 2026-10-07 tightened the guard (pass 364)
 - 2026-10-07 documented the fallback (pass 365)
 - 2026-10-07 documented the fallback (pass 366)
+- 2026-10-07 refined the schedule (pass 367)
