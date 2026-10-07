@@ -344,3 +344,4 @@
 - 2026-10-07 noted the failure mode (pass 343)
 - 2026-10-07 trimmed the payload (pass 344)
 - 2026-10-07 aligned the naming (pass 345)
+- 2026-10-07 measured the slow path (pass 346)
