@@ -327,3 +327,4 @@
 - 2026-10-06 reviewed the edge case (pass 326)
 - 2026-10-07 documented the fallback (pass 327)
 - 2026-10-07 documented the fallback (pass 328)
+- 2026-10-07 tightened the guard (pass 329)
