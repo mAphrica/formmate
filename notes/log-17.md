@@ -332,3 +332,4 @@
 - 2026-10-06 reviewed the edge case (pass 331)
 - 2026-10-06 checked the migration (pass 332)
 - 2026-10-07 trimmed the payload (pass 333)
+- 2026-10-07 aligned the naming (pass 334)
