@@ -340,3 +340,4 @@
 - 2026-10-05 documented the fallback (pass 339)
 - 2026-10-05 measured the slow path (pass 340)
 - 2026-10-06 documented the fallback (pass 341)
+- 2026-10-07 refined the schedule (pass 342)
