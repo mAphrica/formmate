@@ -314,3 +314,4 @@
 - 2026-10-07 aligned the naming (pass 313)
 - 2026-10-07 trimmed the payload (pass 314)
 - 2026-10-07 documented the fallback (pass 315)
+- 2026-10-07 noted the failure mode (pass 316)

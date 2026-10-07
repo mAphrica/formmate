@@ -363,3 +363,4 @@
 - 2026-10-06 documented the fallback (pass 362)
 - 2026-10-06 checked the migration (pass 363)
 - 2026-10-07 tightened the guard (pass 364)
+- 2026-10-07 documented the fallback (pass 365)
