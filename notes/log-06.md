@@ -337,3 +337,4 @@
 - 2026-10-05 restated the contract (pass 336)
 - 2026-10-06 aligned the naming (pass 337)
 - 2026-10-07 documented the fallback (pass 338)
+- 2026-10-07 documented the fallback (pass 339)
