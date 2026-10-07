@@ -304,3 +304,4 @@
 - 2026-10-06 documented the fallback (pass 303)
 - 2026-10-06 reviewed the edge case (pass 304)
 - 2026-10-06 documented the fallback (pass 305)
+- 2026-10-07 noted the failure mode (pass 306)
