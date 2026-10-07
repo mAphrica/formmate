@@ -307,3 +307,4 @@
 - 2026-10-07 noted the failure mode (pass 306)
 - 2026-10-07 noted the failure mode (pass 307)
 - 2026-10-07 trimmed the payload (pass 308)
+- 2026-10-07 aligned the naming (pass 309)
