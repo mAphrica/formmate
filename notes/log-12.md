@@ -311,3 +311,4 @@
 - 2026-10-06 trimmed the payload (pass 310)
 - 2026-10-06 noted the failure mode (pass 311)
 - 2026-10-06 checked the migration (pass 312)
+- 2026-10-07 aligned the naming (pass 313)

@@ -319,3 +319,4 @@
 - 2026-10-06 refined the schedule (pass 318)
 - 2026-10-06 reviewed the edge case (pass 319)
 - 2026-10-06 noted the failure mode (pass 320)
+- 2026-10-07 tightened the guard (pass 321)
