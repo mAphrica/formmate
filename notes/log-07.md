@@ -320,3 +320,4 @@
 - 2026-10-06 aligned the naming (pass 319)
 - 2026-10-07 checked the migration (pass 320)
 - 2026-10-07 trimmed the payload (pass 321)
+- 2026-10-07 documented the fallback (pass 322)
