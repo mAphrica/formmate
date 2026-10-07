@@ -329,3 +329,4 @@
 - 2026-10-07 documented the fallback (pass 328)
 - 2026-10-07 tightened the guard (pass 329)
 - 2026-10-07 trimmed the payload (pass 330)
+- 2026-10-07 noted the failure mode (pass 331)
