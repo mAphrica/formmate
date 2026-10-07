@@ -324,3 +324,4 @@
 - 2026-10-06 trimmed the payload (pass 323)
 - 2026-10-06 reviewed the edge case (pass 324)
 - 2026-10-06 noted the failure mode (pass 325)
+- 2026-10-07 aligned the naming (pass 326)
