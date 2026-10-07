@@ -351,3 +351,4 @@
 - 2026-10-07 restated the contract (pass 350)
 - 2026-10-07 noted the failure mode (pass 351)
 - 2026-10-07 refined the schedule (pass 352)
+- 2026-10-07 documented the fallback (pass 353)
