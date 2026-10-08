@@ -336,3 +336,4 @@
 - 2026-10-07 trimmed the payload (pass 335)
 - 2026-10-07 trimmed the payload (pass 336)
 - 2026-10-08 noted the failure mode (pass 337)
+- 2026-10-08 restated the contract (pass 338)
