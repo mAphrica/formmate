@@ -339,3 +339,4 @@
 - 2026-10-07 documented the fallback (pass 338)
 - 2026-10-07 documented the fallback (pass 339)
 - 2026-10-08 aligned the naming (pass 340)
+- 2026-10-08 documented the fallback (pass 341)
