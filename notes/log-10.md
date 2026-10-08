@@ -334,3 +334,4 @@
 - 2026-10-07 noted the failure mode (pass 333)
 - 2026-10-07 noted the failure mode (pass 334)
 - 2026-10-08 documented the fallback (pass 335)
+- 2026-10-08 refined the schedule (pass 336)
