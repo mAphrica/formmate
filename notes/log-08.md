@@ -325,3 +325,4 @@
 - 2026-10-08 refined the schedule (pass 324)
 - 2026-10-08 noted the failure mode (pass 325)
 - 2026-10-09 checked the migration (pass 326)
+- 2026-10-09 measured the slow path (pass 327)
