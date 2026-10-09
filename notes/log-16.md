@@ -370,3 +370,4 @@
 - 2026-10-08 trimmed the payload (pass 369)
 - 2026-10-09 aligned the naming (pass 370)
 - 2026-10-09 tightened the guard (pass 371)
+- 2026-10-09 noted the failure mode (pass 372)
