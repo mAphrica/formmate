@@ -338,3 +338,4 @@
 - 2026-10-08 noted the failure mode (pass 337)
 - 2026-10-08 restated the contract (pass 338)
 - 2026-10-09 documented the fallback (pass 339)
+- 2026-10-09 reviewed the edge case (pass 340)
