@@ -320,3 +320,4 @@
 - 2026-10-08 reviewed the edge case (pass 319)
 - 2026-10-09 aligned the naming (pass 320)
 - 2026-10-09 checked the migration (pass 321)
+- 2026-10-09 measured the slow path (pass 322)

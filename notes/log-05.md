@@ -333,3 +333,4 @@
 - 2026-10-07 noted the failure mode (pass 332)
 - 2026-10-08 checked the migration (pass 333)
 - 2026-10-09 tightened the guard (pass 334)
+- 2026-10-09 refined the schedule (pass 335)
