@@ -369,3 +369,4 @@
 - 2026-10-08 measured the slow path (pass 368)
 - 2026-10-09 refined the schedule (pass 369)
 - 2026-10-09 reviewed the edge case (pass 370)
+- 2026-10-12 noted the failure mode (pass 371)
