@@ -345,3 +345,4 @@
 - 2026-10-07 measured the slow path (pass 344)
 - 2026-10-07 noted the failure mode (pass 345)
 - 2026-10-07 trimmed the payload (pass 346)
+- 2026-10-12 documented the fallback (pass 347)
