@@ -337,3 +337,4 @@
 - 2026-10-09 restated the contract (pass 336)
 - 2026-10-09 aligned the naming (pass 337)
 - 2026-10-12 trimmed the payload (pass 338)
+- 2026-10-12 checked the migration (pass 339)
