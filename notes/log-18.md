@@ -333,3 +333,4 @@
 - 2026-10-08 reviewed the edge case (pass 332)
 - 2026-10-09 measured the slow path (pass 333)
 - 2026-10-09 restated the contract (pass 334)
+- 2026-10-12 aligned the naming (pass 335)
