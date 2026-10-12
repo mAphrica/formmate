@@ -331,3 +331,4 @@
 - 2026-10-12 restated the contract (pass 330)
 - 2026-10-12 documented the fallback (pass 331)
 - 2026-10-12 checked the migration (pass 332)
+- 2026-10-12 measured the slow path (pass 333)
