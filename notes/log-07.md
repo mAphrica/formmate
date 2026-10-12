@@ -333,3 +333,4 @@
 - 2026-10-12 documented the fallback (pass 332)
 - 2026-10-12 measured the slow path (pass 333)
 - 2026-10-12 refined the schedule (pass 334)
+- 2026-10-12 trimmed the payload (pass 335)
