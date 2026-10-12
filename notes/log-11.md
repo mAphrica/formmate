@@ -314,3 +314,4 @@
 - 2026-10-09 tightened the guard (pass 313)
 - 2026-10-12 tightened the guard (pass 314)
 - 2026-10-12 tightened the guard (pass 315)
+- 2026-10-12 reviewed the edge case (pass 316)
