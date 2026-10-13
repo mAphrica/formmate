@@ -342,3 +342,4 @@
 - 2026-10-13 documented the fallback (pass 341)
 - 2026-10-13 checked the migration (pass 342)
 - 2026-10-13 reviewed the edge case (pass 343)
+- 2026-10-13 aligned the naming (pass 344)
