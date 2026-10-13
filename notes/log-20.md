@@ -337,3 +337,4 @@
 - 2026-10-09 refined the schedule (pass 336)
 - 2026-10-12 checked the migration (pass 337)
 - 2026-10-12 reviewed the edge case (pass 338)
+- 2026-10-13 documented the fallback (pass 339)
