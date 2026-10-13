@@ -338,3 +338,4 @@
 - 2026-10-12 checked the migration (pass 337)
 - 2026-10-12 reviewed the edge case (pass 338)
 - 2026-10-13 documented the fallback (pass 339)
+- 2026-10-13 noted the failure mode (pass 340)
