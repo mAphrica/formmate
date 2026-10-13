@@ -339,3 +339,4 @@
 - 2026-10-12 reviewed the edge case (pass 338)
 - 2026-10-12 documented the fallback (pass 339)
 - 2026-10-12 trimmed the payload (pass 340)
+- 2026-10-13 documented the fallback (pass 341)
