@@ -341,3 +341,4 @@
 - 2026-10-12 trimmed the payload (pass 340)
 - 2026-10-13 documented the fallback (pass 341)
 - 2026-10-13 checked the migration (pass 342)
+- 2026-10-13 reviewed the edge case (pass 343)
