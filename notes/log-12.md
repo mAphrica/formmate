@@ -325,3 +325,4 @@
 - 2026-10-13 reviewed the edge case (pass 324)
 - 2026-10-13 documented the fallback (pass 325)
 - 2026-10-13 aligned the naming (pass 326)
+- 2026-10-13 reviewed the edge case (pass 327)

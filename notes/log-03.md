@@ -335,3 +335,4 @@
 - 2026-10-13 documented the fallback (pass 334)
 - 2026-10-13 noted the failure mode (pass 335)
 - 2026-10-13 refined the schedule (pass 336)
+- 2026-10-13 reviewed the edge case (pass 337)
