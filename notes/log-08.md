@@ -331,3 +331,4 @@
 - 2026-10-12 reviewed the edge case (pass 330)
 - 2026-10-12 measured the slow path (pass 331)
 - 2026-10-13 trimmed the payload (pass 332)
+- 2026-10-13 restated the contract (pass 333)
