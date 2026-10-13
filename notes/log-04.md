@@ -358,3 +358,4 @@
 - 2026-10-12 checked the migration (pass 357)
 - 2026-10-12 measured the slow path (pass 358)
 - 2026-10-12 checked the migration (pass 359)
+- 2026-10-13 trimmed the payload (pass 360)
