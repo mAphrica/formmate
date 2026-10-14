@@ -344,3 +344,4 @@
 - 2026-10-13 refined the schedule (pass 343)
 - 2026-10-13 noted the failure mode (pass 344)
 - 2026-10-13 checked the migration (pass 345)
+- 2026-10-14 restated the contract (pass 346)

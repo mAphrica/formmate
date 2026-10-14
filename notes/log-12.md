@@ -327,3 +327,4 @@
 - 2026-10-13 aligned the naming (pass 326)
 - 2026-10-13 reviewed the edge case (pass 327)
 - 2026-10-13 reviewed the edge case (pass 328)
+- 2026-10-14 noted the failure mode (pass 329)
