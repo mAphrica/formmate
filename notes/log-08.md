@@ -334,3 +334,4 @@
 - 2026-10-13 restated the contract (pass 333)
 - 2026-10-13 trimmed the payload (pass 334)
 - 2026-10-13 checked the migration (pass 335)
+- 2026-10-14 documented the fallback (pass 336)
