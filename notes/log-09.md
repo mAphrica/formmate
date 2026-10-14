@@ -330,3 +330,4 @@
 - 2026-10-12 checked the migration (pass 329)
 - 2026-10-13 measured the slow path (pass 330)
 - 2026-10-13 measured the slow path (pass 331)
+- 2026-10-14 noted the failure mode (pass 332)
