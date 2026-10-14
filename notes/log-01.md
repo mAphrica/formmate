@@ -348,3 +348,4 @@
 - 2026-10-12 documented the fallback (pass 347)
 - 2026-10-12 measured the slow path (pass 348)
 - 2026-10-12 tightened the guard (pass 349)
+- 2026-10-14 noted the failure mode (pass 350)
