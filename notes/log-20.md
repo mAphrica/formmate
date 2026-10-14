@@ -343,3 +343,4 @@
 - 2026-10-13 reviewed the edge case (pass 342)
 - 2026-10-13 noted the failure mode (pass 343)
 - 2026-10-14 noted the failure mode (pass 344)
+- 2026-10-14 checked the migration (pass 345)
