@@ -319,3 +319,4 @@
 - 2026-10-13 aligned the naming (pass 318)
 - 2026-10-14 reviewed the edge case (pass 319)
 - 2026-10-14 restated the contract (pass 320)
+- 2026-10-14 noted the failure mode (pass 321)
