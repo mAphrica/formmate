@@ -336,3 +336,4 @@
 - 2026-10-13 checked the migration (pass 335)
 - 2026-10-14 documented the fallback (pass 336)
 - 2026-10-14 documented the fallback (pass 337)
+- 2026-10-14 refined the schedule (pass 338)
