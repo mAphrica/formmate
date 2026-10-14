@@ -345,3 +345,4 @@
 - 2026-10-13 aligned the naming (pass 344)
 - 2026-10-14 tightened the guard (pass 345)
 - 2026-10-14 measured the slow path (pass 346)
+- 2026-10-14 restated the contract (pass 347)
