@@ -346,3 +346,4 @@
 - 2026-10-13 checked the migration (pass 345)
 - 2026-10-14 restated the contract (pass 346)
 - 2026-10-14 noted the failure mode (pass 347)
+- 2026-10-14 tightened the guard (pass 348)
