@@ -347,3 +347,4 @@
 - 2026-10-14 measured the slow path (pass 346)
 - 2026-10-14 restated the contract (pass 347)
 - 2026-10-15 refined the schedule (pass 348)
+- 2026-10-15 checked the migration (pass 349)
