@@ -364,3 +364,4 @@
 - 2026-10-15 aligned the naming (pass 363)
 - 2026-10-15 documented the fallback (pass 364)
 - 2026-10-15 refined the schedule (pass 365)
+- 2026-10-15 restated the contract (pass 366)

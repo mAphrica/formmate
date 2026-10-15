@@ -369,3 +369,4 @@
 - 2026-10-15 aligned the naming (pass 368)
 - 2026-10-15 measured the slow path (pass 369)
 - 2026-10-15 restated the contract (pass 370)
+- 2026-10-15 refined the schedule (pass 371)
