@@ -344,3 +344,4 @@
 - 2026-10-12 noted the failure mode (pass 343)
 - 2026-10-13 noted the failure mode (pass 344)
 - 2026-10-14 documented the fallback (pass 345)
+- 2026-10-15 aligned the naming (pass 346)
