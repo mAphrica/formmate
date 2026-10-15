@@ -361,3 +361,4 @@
 - 2026-10-13 restated the contract (pass 360)
 - 2026-10-14 noted the failure mode (pass 361)
 - 2026-10-14 trimmed the payload (pass 362)
+- 2026-10-15 aligned the naming (pass 363)
