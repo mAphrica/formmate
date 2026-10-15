@@ -349,3 +349,4 @@
 - 2026-10-14 tightened the guard (pass 348)
 - 2026-10-15 checked the migration (pass 349)
 - 2026-10-15 restated the contract (pass 350)
+- 2026-10-15 refined the schedule (pass 351)
