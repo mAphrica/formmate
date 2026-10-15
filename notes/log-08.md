@@ -338,3 +338,4 @@
 - 2026-10-14 documented the fallback (pass 337)
 - 2026-10-14 refined the schedule (pass 338)
 - 2026-10-15 noted the failure mode (pass 339)
+- 2026-10-15 tightened the guard (pass 340)
