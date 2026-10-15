@@ -363,3 +363,4 @@
 - 2026-10-14 trimmed the payload (pass 362)
 - 2026-10-15 aligned the naming (pass 363)
 - 2026-10-15 documented the fallback (pass 364)
+- 2026-10-15 refined the schedule (pass 365)
