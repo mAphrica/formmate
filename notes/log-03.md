@@ -339,3 +339,4 @@
 - 2026-10-14 documented the fallback (pass 338)
 - 2026-10-14 aligned the naming (pass 339)
 - 2026-10-14 restated the contract (pass 340)
+- 2026-10-15 tightened the guard (pass 341)
