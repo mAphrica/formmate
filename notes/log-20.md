@@ -345,3 +345,4 @@
 - 2026-10-14 noted the failure mode (pass 344)
 - 2026-10-14 checked the migration (pass 345)
 - 2026-10-15 measured the slow path (pass 346)
+- 2026-10-15 trimmed the payload (pass 347)
