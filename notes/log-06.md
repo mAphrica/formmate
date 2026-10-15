@@ -355,3 +355,4 @@
 - 2026-10-15 restated the contract (pass 354)
 - 2026-10-15 tightened the guard (pass 355)
 - 2026-10-15 tightened the guard (pass 356)
+- 2026-10-15 aligned the naming (pass 357)

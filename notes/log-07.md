@@ -340,3 +340,4 @@
 - 2026-10-15 aligned the naming (pass 339)
 - 2026-10-15 documented the fallback (pass 340)
 - 2026-10-15 reviewed the edge case (pass 341)
+- 2026-10-15 tightened the guard (pass 342)

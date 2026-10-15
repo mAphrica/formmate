@@ -331,3 +331,4 @@
 - 2026-10-14 documented the fallback (pass 330)
 - 2026-10-14 noted the failure mode (pass 331)
 - 2026-10-15 restated the contract (pass 332)
+- 2026-10-15 tightened the guard (pass 333)
