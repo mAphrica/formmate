@@ -321,3 +321,4 @@
 - 2026-10-14 restated the contract (pass 320)
 - 2026-10-14 noted the failure mode (pass 321)
 - 2026-10-14 noted the failure mode (pass 322)
+- 2026-10-15 checked the migration (pass 323)
