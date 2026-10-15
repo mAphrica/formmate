@@ -333,3 +333,4 @@
 - 2026-10-14 noted the failure mode (pass 332)
 - 2026-10-14 documented the fallback (pass 333)
 - 2026-10-15 documented the fallback (pass 334)
+- 2026-10-15 noted the failure mode (pass 335)

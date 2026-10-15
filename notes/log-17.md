@@ -348,3 +348,4 @@
 - 2026-10-15 noted the failure mode (pass 347)
 - 2026-10-15 documented the fallback (pass 348)
 - 2026-10-15 aligned the naming (pass 349)
+- 2026-10-15 restated the contract (pass 350)
