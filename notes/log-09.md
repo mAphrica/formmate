@@ -337,3 +337,4 @@
 - 2026-10-15 noted the failure mode (pass 336)
 - 2026-10-16 checked the migration (pass 337)
 - 2026-10-16 restated the contract (pass 338)
+- 2026-10-16 trimmed the payload (pass 339)
