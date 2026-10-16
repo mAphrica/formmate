@@ -350,3 +350,4 @@
 - 2026-10-15 noted the failure mode (pass 349)
 - 2026-10-15 trimmed the payload (pass 350)
 - 2026-10-15 documented the fallback (pass 351)
+- 2026-10-16 reviewed the edge case (pass 352)
