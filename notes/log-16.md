@@ -378,3 +378,4 @@
 - 2026-10-13 tightened the guard (pass 377)
 - 2026-10-13 documented the fallback (pass 378)
 - 2026-10-15 checked the migration (pass 379)
+- 2026-10-16 refined the schedule (pass 380)
