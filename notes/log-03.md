@@ -342,3 +342,4 @@
 - 2026-10-15 tightened the guard (pass 341)
 - 2026-10-15 refined the schedule (pass 342)
 - 2026-10-15 noted the failure mode (pass 343)
+- 2026-10-16 noted the failure mode (pass 344)
