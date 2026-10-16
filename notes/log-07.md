@@ -341,3 +341,4 @@
 - 2026-10-15 documented the fallback (pass 340)
 - 2026-10-15 reviewed the edge case (pass 341)
 - 2026-10-15 tightened the guard (pass 342)
+- 2026-10-16 restated the contract (pass 343)
