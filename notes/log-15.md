@@ -373,3 +373,4 @@
 - 2026-10-16 tightened the guard (pass 372)
 - 2026-10-17 trimmed the payload (pass 373)
 - 2026-10-17 documented the fallback (pass 374)
+- 2026-10-17 tightened the guard (pass 375)
