@@ -376,3 +376,4 @@
 - 2026-10-15 trimmed the payload (pass 375)
 - 2026-10-15 documented the fallback (pass 376)
 - 2026-10-17 checked the migration (pass 377)
+- 2026-10-17 aligned the naming (pass 378)
