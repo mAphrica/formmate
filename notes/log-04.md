@@ -370,3 +370,4 @@
 - 2026-10-16 tightened the guard (pass 369)
 - 2026-10-17 reviewed the edge case (pass 370)
 - 2026-10-17 aligned the naming (pass 371)
+- 2026-10-17 restated the contract (pass 372)

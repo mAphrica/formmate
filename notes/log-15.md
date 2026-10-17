@@ -375,3 +375,4 @@
 - 2026-10-17 documented the fallback (pass 374)
 - 2026-10-17 tightened the guard (pass 375)
 - 2026-10-17 documented the fallback (pass 376)
+- 2026-10-17 aligned the naming (pass 377)
