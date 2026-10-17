@@ -345,3 +345,4 @@
 - 2026-10-15 reviewed the edge case (pass 344)
 - 2026-10-16 checked the migration (pass 345)
 - 2026-10-16 checked the migration (pass 346)
+- 2026-10-17 refined the schedule (pass 347)

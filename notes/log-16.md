@@ -380,3 +380,4 @@
 - 2026-10-15 checked the migration (pass 379)
 - 2026-10-16 refined the schedule (pass 380)
 - 2026-10-17 reviewed the edge case (pass 381)
+- 2026-10-17 tightened the guard (pass 382)
