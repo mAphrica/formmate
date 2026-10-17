@@ -347,3 +347,4 @@
 - 2026-10-16 documented the fallback (pass 346)
 - 2026-10-16 aligned the naming (pass 347)
 - 2026-10-17 checked the migration (pass 348)
+- 2026-10-17 noted the failure mode (pass 349)
