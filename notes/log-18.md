@@ -349,3 +349,4 @@
 - 2026-10-16 documented the fallback (pass 348)
 - 2026-10-16 noted the failure mode (pass 349)
 - 2026-10-17 aligned the naming (pass 350)
+- 2026-10-18 reviewed the edge case (pass 351)
