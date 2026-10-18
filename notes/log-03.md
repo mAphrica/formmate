@@ -348,3 +348,4 @@
 - 2026-10-16 aligned the naming (pass 347)
 - 2026-10-17 checked the migration (pass 348)
 - 2026-10-17 noted the failure mode (pass 349)
+- 2026-10-18 refined the schedule (pass 350)
