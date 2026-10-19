@@ -379,3 +379,4 @@
 - 2026-10-18 noted the failure mode (pass 378)
 - 2026-10-19 documented the fallback (pass 379)
 - 2026-10-19 noted the failure mode (pass 380)
+- 2026-10-19 refined the schedule (pass 381)
