@@ -360,3 +360,4 @@
 - 2026-10-16 aligned the naming (pass 359)
 - 2026-10-16 reviewed the edge case (pass 360)
 - 2026-10-17 documented the fallback (pass 361)
+- 2026-10-19 refined the schedule (pass 362)
