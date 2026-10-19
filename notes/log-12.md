@@ -336,3 +336,4 @@
 - 2026-10-18 reviewed the edge case (pass 335)
 - 2026-10-19 restated the contract (pass 336)
 - 2026-10-19 checked the migration (pass 337)
+- 2026-10-19 tightened the guard (pass 338)
