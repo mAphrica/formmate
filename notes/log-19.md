@@ -380,3 +380,4 @@
 - 2026-10-19 measured the slow path (pass 379)
 - 2026-10-19 documented the fallback (pass 380)
 - 2026-10-19 checked the migration (pass 381)
+- 2026-10-19 documented the fallback (pass 382)
