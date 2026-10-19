@@ -385,3 +385,4 @@
 - 2026-10-19 trimmed the payload (pass 384)
 - 2026-10-19 refined the schedule (pass 385)
 - 2026-10-19 documented the fallback (pass 386)
+- 2026-10-19 noted the failure mode (pass 387)
