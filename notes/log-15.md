@@ -377,3 +377,4 @@
 - 2026-10-17 documented the fallback (pass 376)
 - 2026-10-17 aligned the naming (pass 377)
 - 2026-10-18 noted the failure mode (pass 378)
+- 2026-10-19 documented the fallback (pass 379)

@@ -352,3 +352,4 @@
 - 2026-10-15 documented the fallback (pass 351)
 - 2026-10-16 reviewed the edge case (pass 352)
 - 2026-10-17 measured the slow path (pass 353)
+- 2026-10-19 noted the failure mode (pass 354)
