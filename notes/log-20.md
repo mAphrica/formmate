@@ -354,3 +354,4 @@
 - 2026-10-18 checked the migration (pass 353)
 - 2026-10-19 trimmed the payload (pass 354)
 - 2026-10-19 noted the failure mode (pass 355)
+- 2026-10-19 aligned the naming (pass 356)
