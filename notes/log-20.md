@@ -356,3 +356,4 @@
 - 2026-10-19 noted the failure mode (pass 355)
 - 2026-10-19 aligned the naming (pass 356)
 - 2026-10-19 reviewed the edge case (pass 357)
+- 2026-10-19 measured the slow path (pass 358)
