@@ -332,3 +332,4 @@
 - 2026-10-19 reviewed the edge case (pass 331)
 - 2026-10-19 refined the schedule (pass 332)
 - 2026-10-19 measured the slow path (pass 333)
+- 2026-10-20 checked the migration (pass 334)
