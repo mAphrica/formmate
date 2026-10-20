@@ -374,3 +374,4 @@
 - 2026-10-19 checked the migration (pass 373)
 - 2026-10-19 documented the fallback (pass 374)
 - 2026-10-19 restated the contract (pass 375)
+- 2026-10-20 tightened the guard (pass 376)
