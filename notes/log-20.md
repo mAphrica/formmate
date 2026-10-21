@@ -359,3 +359,4 @@
 - 2026-10-19 measured the slow path (pass 358)
 - 2026-10-20 aligned the naming (pass 359)
 - 2026-10-21 checked the migration (pass 360)
+- 2026-10-21 refined the schedule (pass 361)
