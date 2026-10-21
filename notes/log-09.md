@@ -342,3 +342,4 @@
 - 2026-10-17 documented the fallback (pass 341)
 - 2026-10-19 refined the schedule (pass 342)
 - 2026-10-20 restated the contract (pass 343)
+- 2026-10-21 documented the fallback (pass 344)
