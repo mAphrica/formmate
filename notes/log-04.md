@@ -379,3 +379,4 @@
 - 2026-10-21 checked the migration (pass 378)
 - 2026-10-21 trimmed the payload (pass 379)
 - 2026-10-21 refined the schedule (pass 380)
+- 2026-10-21 restated the contract (pass 381)
