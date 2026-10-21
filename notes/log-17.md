@@ -359,3 +359,4 @@
 - 2026-10-20 refined the schedule (pass 358)
 - 2026-10-21 trimmed the payload (pass 359)
 - 2026-10-21 restated the contract (pass 360)
+- 2026-10-21 measured the slow path (pass 361)
