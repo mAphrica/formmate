@@ -360,3 +360,4 @@
 - 2026-10-20 refined the schedule (pass 359)
 - 2026-10-21 tightened the guard (pass 360)
 - 2026-10-21 checked the migration (pass 361)
+- 2026-10-21 documented the fallback (pass 362)

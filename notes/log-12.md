@@ -345,3 +345,4 @@
 - 2026-10-21 trimmed the payload (pass 344)
 - 2026-10-21 trimmed the payload (pass 345)
 - 2026-10-21 tightened the guard (pass 346)
+- 2026-10-21 checked the migration (pass 347)
