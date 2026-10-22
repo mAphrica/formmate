@@ -394,3 +394,4 @@
 - 2026-10-22 tightened the guard (pass 393)
 - 2026-10-22 trimmed the payload (pass 394)
 - 2026-10-22 reviewed the edge case (pass 395)
+- 2026-10-22 measured the slow path (pass 396)
