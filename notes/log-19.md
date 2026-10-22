@@ -382,3 +382,4 @@
 - 2026-10-19 checked the migration (pass 381)
 - 2026-10-19 documented the fallback (pass 382)
 - 2026-10-20 aligned the naming (pass 383)
+- 2026-10-22 noted the failure mode (pass 384)
