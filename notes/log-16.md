@@ -391,3 +391,4 @@
 - 2026-10-21 noted the failure mode (pass 390)
 - 2026-10-21 restated the contract (pass 391)
 - 2026-10-22 documented the fallback (pass 392)
+- 2026-10-22 tightened the guard (pass 393)
