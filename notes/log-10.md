@@ -357,3 +357,4 @@
 - 2026-10-20 aligned the naming (pass 356)
 - 2026-10-21 reviewed the edge case (pass 357)
 - 2026-10-21 documented the fallback (pass 358)
+- 2026-10-22 noted the failure mode (pass 359)

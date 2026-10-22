@@ -354,3 +354,4 @@
 - 2026-10-21 reviewed the edge case (pass 353)
 - 2026-10-22 reviewed the edge case (pass 354)
 - 2026-10-22 restated the contract (pass 355)
+- 2026-10-22 trimmed the payload (pass 356)
