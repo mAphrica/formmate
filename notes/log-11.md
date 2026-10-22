@@ -335,3 +335,4 @@
 - 2026-10-20 checked the migration (pass 334)
 - 2026-10-21 noted the failure mode (pass 335)
 - 2026-10-21 aligned the naming (pass 336)
+- 2026-10-22 restated the contract (pass 337)

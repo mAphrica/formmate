@@ -392,3 +392,4 @@
 - 2026-10-21 restated the contract (pass 391)
 - 2026-10-22 documented the fallback (pass 392)
 - 2026-10-22 tightened the guard (pass 393)
+- 2026-10-22 trimmed the payload (pass 394)
