@@ -345,3 +345,4 @@
 - 2026-10-21 documented the fallback (pass 344)
 - 2026-10-21 reviewed the edge case (pass 345)
 - 2026-10-22 reviewed the edge case (pass 346)
+- 2026-10-22 refined the schedule (pass 347)
