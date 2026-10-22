@@ -361,3 +361,4 @@
 - 2026-10-20 refined the schedule (pass 360)
 - 2026-10-21 noted the failure mode (pass 361)
 - 2026-10-22 reviewed the edge case (pass 362)
+- 2026-10-22 measured the slow path (pass 363)
