@@ -349,3 +349,4 @@
 - 2026-10-22 documented the fallback (pass 348)
 - 2026-10-22 reviewed the edge case (pass 349)
 - 2026-10-22 measured the slow path (pass 350)
+- 2026-10-23 aligned the naming (pass 351)
