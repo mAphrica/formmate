@@ -355,3 +355,4 @@
 - 2026-10-22 tightened the guard (pass 354)
 - 2026-10-23 trimmed the payload (pass 355)
 - 2026-10-23 checked the migration (pass 356)
+- 2026-10-23 noted the failure mode (pass 357)
