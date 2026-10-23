@@ -366,3 +366,4 @@
 - 2026-10-21 checked the migration (pass 365)
 - 2026-10-21 reviewed the edge case (pass 366)
 - 2026-10-21 restated the contract (pass 367)
+- 2026-10-23 trimmed the payload (pass 368)
