@@ -385,3 +385,4 @@
 - 2026-10-22 restated the contract (pass 384)
 - 2026-10-22 reviewed the edge case (pass 385)
 - 2026-10-23 documented the fallback (pass 386)
+- 2026-10-23 refined the schedule (pass 387)
