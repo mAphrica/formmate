@@ -363,3 +363,4 @@
 - 2026-10-21 documented the fallback (pass 362)
 - 2026-10-22 aligned the naming (pass 363)
 - 2026-10-23 documented the fallback (pass 364)
+- 2026-10-23 tightened the guard (pass 365)
