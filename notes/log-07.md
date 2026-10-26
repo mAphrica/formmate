@@ -359,3 +359,4 @@
 - 2026-10-26 documented the fallback (pass 358)
 - 2026-10-26 documented the fallback (pass 359)
 - 2026-10-26 noted the failure mode (pass 360)
+- 2026-10-26 restated the contract (pass 361)
