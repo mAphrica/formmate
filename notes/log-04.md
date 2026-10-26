@@ -387,3 +387,4 @@
 - 2026-10-23 documented the fallback (pass 386)
 - 2026-10-23 refined the schedule (pass 387)
 - 2026-10-23 aligned the naming (pass 388)
+- 2026-10-26 tightened the guard (pass 389)
