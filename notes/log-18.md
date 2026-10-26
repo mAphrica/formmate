@@ -362,3 +362,4 @@
 - 2026-10-26 noted the failure mode (pass 361)
 - 2026-10-26 reviewed the edge case (pass 362)
 - 2026-10-26 noted the failure mode (pass 363)
+- 2026-10-26 restated the contract (pass 364)
