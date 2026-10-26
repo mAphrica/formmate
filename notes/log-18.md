@@ -360,3 +360,4 @@
 - 2026-10-23 documented the fallback (pass 359)
 - 2026-10-24 measured the slow path (pass 360)
 - 2026-10-26 noted the failure mode (pass 361)
+- 2026-10-26 reviewed the edge case (pass 362)
