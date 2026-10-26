@@ -370,3 +370,4 @@
 - 2026-10-26 reviewed the edge case (pass 369)
 - 2026-10-26 measured the slow path (pass 370)
 - 2026-10-26 noted the failure mode (pass 371)
+- 2026-10-26 noted the failure mode (pass 372)
