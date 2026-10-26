@@ -366,3 +366,4 @@
 - 2026-10-23 tightened the guard (pass 365)
 - 2026-10-26 aligned the naming (pass 366)
 - 2026-10-26 measured the slow path (pass 367)
+- 2026-10-26 documented the fallback (pass 368)
