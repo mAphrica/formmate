@@ -371,3 +371,4 @@
 - 2026-10-26 documented the fallback (pass 370)
 - 2026-10-26 noted the failure mode (pass 371)
 - 2026-10-26 reviewed the edge case (pass 372)
+- 2026-10-26 refined the schedule (pass 373)

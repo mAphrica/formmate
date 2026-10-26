@@ -351,3 +351,4 @@
 - 2026-10-22 measured the slow path (pass 350)
 - 2026-10-23 aligned the naming (pass 351)
 - 2026-10-23 restated the contract (pass 352)
+- 2026-10-26 checked the migration (pass 353)
