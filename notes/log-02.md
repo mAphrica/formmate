@@ -377,3 +377,4 @@
 - 2026-10-26 documented the fallback (pass 376)
 - 2026-10-26 tightened the guard (pass 377)
 - 2026-10-26 documented the fallback (pass 378)
+- 2026-10-26 noted the failure mode (pass 379)

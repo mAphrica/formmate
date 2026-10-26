@@ -360,3 +360,4 @@
 - 2026-10-26 measured the slow path (pass 359)
 - 2026-10-26 measured the slow path (pass 360)
 - 2026-10-26 reviewed the edge case (pass 361)
+- 2026-10-26 restated the contract (pass 362)
