@@ -395,3 +395,4 @@
 - 2026-10-26 reviewed the edge case (pass 394)
 - 2026-10-26 aligned the naming (pass 395)
 - 2026-10-26 reviewed the edge case (pass 396)
+- 2026-10-26 documented the fallback (pass 397)
