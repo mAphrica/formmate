@@ -365,3 +365,4 @@
 - 2026-10-26 documented the fallback (pass 364)
 - 2026-10-26 noted the failure mode (pass 365)
 - 2026-10-26 documented the fallback (pass 366)
+- 2026-10-26 aligned the naming (pass 367)
