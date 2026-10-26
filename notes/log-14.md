@@ -365,3 +365,4 @@
 - 2026-10-23 trimmed the payload (pass 364)
 - 2026-10-23 aligned the naming (pass 365)
 - 2026-10-26 reviewed the edge case (pass 366)
+- 2026-10-26 tightened the guard (pass 367)

@@ -370,3 +370,4 @@
 - 2026-10-23 noted the failure mode (pass 369)
 - 2026-10-26 documented the fallback (pass 370)
 - 2026-10-26 noted the failure mode (pass 371)
+- 2026-10-26 reviewed the edge case (pass 372)
