@@ -360,3 +360,4 @@
 - 2026-10-23 restated the contract (pass 359)
 - 2026-10-23 trimmed the payload (pass 360)
 - 2026-10-24 aligned the naming (pass 361)
+- 2026-10-26 documented the fallback (pass 362)

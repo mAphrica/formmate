@@ -368,3 +368,4 @@
 - 2026-10-22 measured the slow path (pass 367)
 - 2026-10-23 noted the failure mode (pass 368)
 - 2026-10-23 reviewed the edge case (pass 369)
+- 2026-10-26 tightened the guard (pass 370)
