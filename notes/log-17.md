@@ -366,3 +366,4 @@
 - 2026-10-24 refined the schedule (pass 365)
 - 2026-10-26 measured the slow path (pass 366)
 - 2026-10-26 tightened the guard (pass 367)
+- 2026-10-26 documented the fallback (pass 368)
