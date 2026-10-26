@@ -364,3 +364,4 @@
 - 2026-10-23 aligned the naming (pass 363)
 - 2026-10-23 checked the migration (pass 364)
 - 2026-10-23 trimmed the payload (pass 365)
+- 2026-10-26 documented the fallback (pass 366)
