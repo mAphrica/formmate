@@ -400,3 +400,4 @@
 - 2026-10-26 documented the fallback (pass 399)
 - 2026-10-26 noted the failure mode (pass 400)
 - 2026-10-26 noted the failure mode (pass 401)
+- 2026-10-26 checked the migration (pass 402)
