@@ -371,3 +371,4 @@
 - 2026-10-26 measured the slow path (pass 370)
 - 2026-10-26 reviewed the edge case (pass 371)
 - 2026-10-26 refined the schedule (pass 372)
+- 2026-10-26 aligned the naming (pass 373)
