@@ -378,3 +378,4 @@
 - 2026-10-26 tightened the guard (pass 377)
 - 2026-10-26 documented the fallback (pass 378)
 - 2026-10-26 noted the failure mode (pass 379)
+- 2026-10-26 reviewed the edge case (pass 380)

@@ -374,3 +374,4 @@
 - 2026-10-26 aligned the naming (pass 373)
 - 2026-10-26 reviewed the edge case (pass 374)
 - 2026-10-26 documented the fallback (pass 375)
+- 2026-10-26 trimmed the payload (pass 376)
