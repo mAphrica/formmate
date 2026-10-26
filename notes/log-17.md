@@ -372,3 +372,4 @@
 - 2026-10-26 noted the failure mode (pass 371)
 - 2026-10-26 noted the failure mode (pass 372)
 - 2026-10-26 trimmed the payload (pass 373)
+- 2026-10-26 reviewed the edge case (pass 374)
