@@ -401,3 +401,4 @@
 - 2026-10-26 noted the failure mode (pass 400)
 - 2026-10-26 noted the failure mode (pass 401)
 - 2026-10-26 checked the migration (pass 402)
+- 2026-10-26 aligned the naming (pass 403)
