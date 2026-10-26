@@ -393,3 +393,4 @@
 - 2026-10-26 tightened the guard (pass 392)
 - 2026-10-26 noted the failure mode (pass 393)
 - 2026-10-26 reviewed the edge case (pass 394)
+- 2026-10-26 aligned the naming (pass 395)

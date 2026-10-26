@@ -373,3 +373,4 @@
 - 2026-10-26 reviewed the edge case (pass 372)
 - 2026-10-26 refined the schedule (pass 373)
 - 2026-10-26 noted the failure mode (pass 374)
+- 2026-10-26 noted the failure mode (pass 375)
