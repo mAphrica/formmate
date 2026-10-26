@@ -389,3 +389,4 @@
 - 2026-10-23 aligned the naming (pass 388)
 - 2026-10-26 tightened the guard (pass 389)
 - 2026-10-26 noted the failure mode (pass 390)
+- 2026-10-26 checked the migration (pass 391)
