@@ -351,3 +351,4 @@
 - 2026-10-23 trimmed the payload (pass 350)
 - 2026-10-23 reviewed the edge case (pass 351)
 - 2026-10-24 refined the schedule (pass 352)
+- 2026-10-26 documented the fallback (pass 353)
