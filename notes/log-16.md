@@ -399,3 +399,4 @@
 - 2026-10-26 reviewed the edge case (pass 398)
 - 2026-10-26 documented the fallback (pass 399)
 - 2026-10-26 noted the failure mode (pass 400)
+- 2026-10-26 noted the failure mode (pass 401)
