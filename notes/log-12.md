@@ -353,3 +353,4 @@
 - 2026-10-23 restated the contract (pass 352)
 - 2026-10-26 checked the migration (pass 353)
 - 2026-10-26 reviewed the edge case (pass 354)
+- 2026-10-26 trimmed the payload (pass 355)
