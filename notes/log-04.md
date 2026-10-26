@@ -391,3 +391,4 @@
 - 2026-10-26 noted the failure mode (pass 390)
 - 2026-10-26 checked the migration (pass 391)
 - 2026-10-26 tightened the guard (pass 392)
+- 2026-10-26 refined the schedule (pass 393)
