@@ -357,3 +357,4 @@
 - 2026-10-26 documented the fallback (pass 356)
 - 2026-10-26 aligned the naming (pass 357)
 - 2026-10-26 checked the migration (pass 358)
+- 2026-10-26 measured the slow path (pass 359)
