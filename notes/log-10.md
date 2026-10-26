@@ -363,3 +363,4 @@
 - 2026-10-23 noted the failure mode (pass 362)
 - 2026-10-23 noted the failure mode (pass 363)
 - 2026-10-26 documented the fallback (pass 364)
+- 2026-10-26 noted the failure mode (pass 365)
