@@ -398,3 +398,4 @@
 - 2026-10-23 aligned the naming (pass 397)
 - 2026-10-26 reviewed the edge case (pass 398)
 - 2026-10-26 documented the fallback (pass 399)
+- 2026-10-26 noted the failure mode (pass 400)
