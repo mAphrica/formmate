@@ -397,3 +397,4 @@
 - 2026-10-26 restated the contract (pass 396)
 - 2026-10-26 aligned the naming (pass 397)
 - 2026-10-26 restated the contract (pass 398)
+- 2026-10-27 noted the failure mode (pass 399)
