@@ -381,3 +381,4 @@
 - 2026-10-27 restated the contract (pass 380)
 - 2026-10-27 measured the slow path (pass 381)
 - 2026-10-27 checked the migration (pass 382)
+- 2026-10-27 reviewed the edge case (pass 383)
