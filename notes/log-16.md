@@ -410,3 +410,4 @@
 - 2026-10-27 aligned the naming (pass 409)
 - 2026-10-27 noted the failure mode (pass 410)
 - 2026-10-27 restated the contract (pass 411)
+- 2026-10-27 refined the schedule (pass 412)

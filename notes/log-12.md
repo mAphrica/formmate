@@ -362,3 +362,4 @@
 - 2026-10-26 documented the fallback (pass 361)
 - 2026-10-26 documented the fallback (pass 362)
 - 2026-10-27 aligned the naming (pass 363)
+- 2026-10-27 noted the failure mode (pass 364)
