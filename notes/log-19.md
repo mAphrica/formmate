@@ -401,3 +401,4 @@
 - 2026-10-27 trimmed the payload (pass 400)
 - 2026-10-27 tightened the guard (pass 401)
 - 2026-10-27 refined the schedule (pass 402)
+- 2026-10-27 restated the contract (pass 403)
