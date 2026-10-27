@@ -370,3 +370,4 @@
 - 2026-10-26 measured the slow path (pass 369)
 - 2026-10-26 reviewed the edge case (pass 370)
 - 2026-10-26 documented the fallback (pass 371)
+- 2026-10-27 checked the migration (pass 372)
