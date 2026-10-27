@@ -381,3 +381,4 @@
 - 2026-10-26 restated the contract (pass 380)
 - 2026-10-26 aligned the naming (pass 381)
 - 2026-10-27 refined the schedule (pass 382)
+- 2026-10-27 checked the migration (pass 383)
