@@ -363,3 +363,4 @@
 - 2026-10-26 documented the fallback (pass 362)
 - 2026-10-26 documented the fallback (pass 363)
 - 2026-10-27 measured the slow path (pass 364)
+- 2026-10-27 trimmed the payload (pass 365)
