@@ -369,3 +369,4 @@
 - 2026-10-26 checked the migration (pass 368)
 - 2026-10-27 trimmed the payload (pass 369)
 - 2026-10-27 documented the fallback (pass 370)
+- 2026-10-27 checked the migration (pass 371)
