@@ -394,3 +394,4 @@
 - 2026-10-26 documented the fallback (pass 393)
 - 2026-10-26 restated the contract (pass 394)
 - 2026-10-26 restated the contract (pass 395)
+- 2026-10-27 noted the failure mode (pass 396)
