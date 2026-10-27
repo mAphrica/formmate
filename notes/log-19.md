@@ -399,3 +399,4 @@
 - 2026-10-26 measured the slow path (pass 398)
 - 2026-10-26 checked the migration (pass 399)
 - 2026-10-27 trimmed the payload (pass 400)
+- 2026-10-27 tightened the guard (pass 401)

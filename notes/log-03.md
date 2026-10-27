@@ -367,3 +367,4 @@
 - 2026-10-26 noted the failure mode (pass 366)
 - 2026-10-26 refined the schedule (pass 367)
 - 2026-10-26 checked the migration (pass 368)
+- 2026-10-27 trimmed the payload (pass 369)
