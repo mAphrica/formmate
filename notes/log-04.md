@@ -400,3 +400,4 @@
 - 2026-10-27 noted the failure mode (pass 399)
 - 2026-10-27 documented the fallback (pass 400)
 - 2026-10-27 tightened the guard (pass 401)
+- 2026-10-27 measured the slow path (pass 402)
