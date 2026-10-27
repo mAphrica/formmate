@@ -381,3 +381,4 @@
 - 2026-10-26 reviewed the edge case (pass 380)
 - 2026-10-27 documented the fallback (pass 381)
 - 2026-10-27 documented the fallback (pass 382)
+- 2026-10-27 checked the migration (pass 383)
