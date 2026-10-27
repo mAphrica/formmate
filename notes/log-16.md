@@ -408,3 +408,4 @@
 - 2026-10-26 trimmed the payload (pass 407)
 - 2026-10-26 refined the schedule (pass 408)
 - 2026-10-27 aligned the naming (pass 409)
+- 2026-10-27 noted the failure mode (pass 410)
