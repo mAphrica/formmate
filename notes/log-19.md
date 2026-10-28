@@ -405,3 +405,4 @@
 - 2026-10-28 aligned the naming (pass 404)
 - 2026-10-28 trimmed the payload (pass 405)
 - 2026-10-28 tightened the guard (pass 406)
+- 2026-10-28 reviewed the edge case (pass 407)

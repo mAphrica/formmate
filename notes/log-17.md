@@ -383,3 +383,4 @@
 - 2026-10-28 tightened the guard (pass 382)
 - 2026-10-28 aligned the naming (pass 383)
 - 2026-10-28 restated the contract (pass 384)
+- 2026-10-28 reviewed the edge case (pass 385)
