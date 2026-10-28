@@ -371,3 +371,4 @@
 - 2026-10-27 documented the fallback (pass 370)
 - 2026-10-27 checked the migration (pass 371)
 - 2026-10-28 reviewed the edge case (pass 372)
+- 2026-10-28 checked the migration (pass 373)
