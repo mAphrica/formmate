@@ -417,3 +417,4 @@
 - 2026-10-28 checked the migration (pass 416)
 - 2026-10-28 aligned the naming (pass 417)
 - 2026-10-28 aligned the naming (pass 418)
+- 2026-10-28 documented the fallback (pass 419)
