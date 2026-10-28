@@ -366,3 +366,4 @@
 - 2026-10-27 trimmed the payload (pass 365)
 - 2026-10-28 aligned the naming (pass 366)
 - 2026-10-28 trimmed the payload (pass 367)
+- 2026-10-28 noted the failure mode (pass 368)
