@@ -412,3 +412,4 @@
 - 2026-10-27 restated the contract (pass 411)
 - 2026-10-27 refined the schedule (pass 412)
 - 2026-10-28 trimmed the payload (pass 413)
+- 2026-10-28 checked the migration (pass 414)
