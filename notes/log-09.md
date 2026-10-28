@@ -370,3 +370,4 @@
 - 2026-10-28 documented the fallback (pass 369)
 - 2026-10-28 noted the failure mode (pass 370)
 - 2026-10-28 checked the migration (pass 371)
+- 2026-10-28 noted the failure mode (pass 372)
