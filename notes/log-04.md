@@ -413,3 +413,4 @@
 - 2026-10-28 documented the fallback (pass 412)
 - 2026-10-28 refined the schedule (pass 413)
 - 2026-10-28 reviewed the edge case (pass 414)
+- 2026-10-28 noted the failure mode (pass 415)
