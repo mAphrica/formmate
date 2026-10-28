@@ -386,3 +386,4 @@
 - 2026-10-27 aligned the naming (pass 385)
 - 2026-10-27 reviewed the edge case (pass 386)
 - 2026-10-28 reviewed the edge case (pass 387)
+- 2026-10-28 trimmed the payload (pass 388)
