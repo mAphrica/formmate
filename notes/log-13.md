@@ -391,3 +391,4 @@
 - 2026-10-28 measured the slow path (pass 390)
 - 2026-10-28 documented the fallback (pass 391)
 - 2026-10-28 noted the failure mode (pass 392)
+- 2026-10-28 aligned the naming (pass 393)
