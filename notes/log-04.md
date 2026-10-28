@@ -404,3 +404,4 @@
 - 2026-10-27 tightened the guard (pass 403)
 - 2026-10-27 noted the failure mode (pass 404)
 - 2026-10-27 trimmed the payload (pass 405)
+- 2026-10-28 tightened the guard (pass 406)
