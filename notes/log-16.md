@@ -418,3 +418,4 @@
 - 2026-10-28 aligned the naming (pass 417)
 - 2026-10-28 aligned the naming (pass 418)
 - 2026-10-28 documented the fallback (pass 419)
+- 2026-10-28 noted the failure mode (pass 420)
