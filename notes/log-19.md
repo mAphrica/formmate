@@ -402,3 +402,4 @@
 - 2026-10-27 tightened the guard (pass 401)
 - 2026-10-27 refined the schedule (pass 402)
 - 2026-10-27 restated the contract (pass 403)
+- 2026-10-28 aligned the naming (pass 404)

@@ -371,3 +371,4 @@
 - 2026-10-27 tightened the guard (pass 370)
 - 2026-10-27 restated the contract (pass 371)
 - 2026-10-27 trimmed the payload (pass 372)
+- 2026-10-28 refined the schedule (pass 373)
