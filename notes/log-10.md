@@ -378,3 +378,4 @@
 - 2026-10-28 refined the schedule (pass 377)
 - 2026-10-28 aligned the naming (pass 378)
 - 2026-10-28 reviewed the edge case (pass 379)
+- 2026-10-28 noted the failure mode (pass 380)

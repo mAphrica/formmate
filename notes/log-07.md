@@ -368,3 +368,4 @@
 - 2026-10-28 trimmed the payload (pass 367)
 - 2026-10-28 noted the failure mode (pass 368)
 - 2026-10-28 trimmed the payload (pass 369)
+- 2026-10-28 documented the fallback (pass 370)
