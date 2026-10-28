@@ -387,3 +387,4 @@
 - 2026-10-27 reviewed the edge case (pass 386)
 - 2026-10-28 reviewed the edge case (pass 387)
 - 2026-10-28 trimmed the payload (pass 388)
+- 2026-10-28 measured the slow path (pass 389)

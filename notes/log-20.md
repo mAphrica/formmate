@@ -377,3 +377,4 @@
 - 2026-10-28 aligned the naming (pass 376)
 - 2026-10-28 tightened the guard (pass 377)
 - 2026-10-28 noted the failure mode (pass 378)
+- 2026-10-28 aligned the naming (pass 379)
