@@ -405,3 +405,4 @@
 - 2026-10-28 measured the slow path (pass 404)
 - 2026-10-28 reviewed the edge case (pass 405)
 - 2026-10-28 noted the failure mode (pass 406)
+- 2026-10-28 measured the slow path (pass 407)
