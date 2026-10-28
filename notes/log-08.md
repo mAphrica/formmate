@@ -376,3 +376,4 @@
 - 2026-10-28 aligned the naming (pass 375)
 - 2026-10-28 reviewed the edge case (pass 376)
 - 2026-10-28 restated the contract (pass 377)
+- 2026-10-28 checked the migration (pass 378)
