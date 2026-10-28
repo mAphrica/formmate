@@ -365,3 +365,4 @@
 - 2026-10-27 noted the failure mode (pass 364)
 - 2026-10-28 trimmed the payload (pass 365)
 - 2026-10-28 measured the slow path (pass 366)
+- 2026-10-28 restated the contract (pass 367)

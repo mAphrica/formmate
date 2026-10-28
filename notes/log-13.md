@@ -390,3 +390,4 @@
 - 2026-10-28 trimmed the payload (pass 389)
 - 2026-10-28 measured the slow path (pass 390)
 - 2026-10-28 documented the fallback (pass 391)
+- 2026-10-28 noted the failure mode (pass 392)

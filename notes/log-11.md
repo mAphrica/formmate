@@ -349,3 +349,4 @@
 - 2026-10-28 tightened the guard (pass 348)
 - 2026-10-28 noted the failure mode (pass 349)
 - 2026-10-28 tightened the guard (pass 350)
+- 2026-10-28 documented the fallback (pass 351)
