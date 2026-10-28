@@ -375,3 +375,4 @@
 - 2026-10-28 refined the schedule (pass 374)
 - 2026-10-28 reviewed the edge case (pass 375)
 - 2026-10-28 documented the fallback (pass 376)
+- 2026-10-28 tightened the guard (pass 377)
