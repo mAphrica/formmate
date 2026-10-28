@@ -388,3 +388,4 @@
 - 2026-10-28 documented the fallback (pass 387)
 - 2026-10-28 checked the migration (pass 388)
 - 2026-10-28 documented the fallback (pass 389)
+- 2026-10-28 noted the failure mode (pass 390)

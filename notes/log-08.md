@@ -373,3 +373,4 @@
 - 2026-10-27 trimmed the payload (pass 372)
 - 2026-10-28 refined the schedule (pass 373)
 - 2026-10-28 refined the schedule (pass 374)
+- 2026-10-28 aligned the naming (pass 375)
