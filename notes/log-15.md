@@ -408,3 +408,4 @@
 - 2026-10-28 measured the slow path (pass 407)
 - 2026-10-29 documented the fallback (pass 408)
 - 2026-10-29 aligned the naming (pass 409)
+- 2026-10-29 refined the schedule (pass 410)
