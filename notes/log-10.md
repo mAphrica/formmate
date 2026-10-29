@@ -383,3 +383,4 @@
 - 2026-10-28 refined the schedule (pass 382)
 - 2026-10-28 restated the contract (pass 383)
 - 2026-10-29 trimmed the payload (pass 384)
+- 2026-10-29 documented the fallback (pass 385)
