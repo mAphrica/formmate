@@ -381,3 +381,4 @@
 - 2026-10-29 refined the schedule (pass 380)
 - 2026-10-29 documented the fallback (pass 381)
 - 2026-10-29 trimmed the payload (pass 382)
+- 2026-10-29 tightened the guard (pass 383)
