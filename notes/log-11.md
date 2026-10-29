@@ -355,3 +355,4 @@
 - 2026-10-29 checked the migration (pass 354)
 - 2026-10-29 measured the slow path (pass 355)
 - 2026-10-29 checked the migration (pass 356)
+- 2026-10-29 reviewed the edge case (pass 357)
