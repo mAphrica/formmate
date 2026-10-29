@@ -418,3 +418,4 @@
 - 2026-10-28 refined the schedule (pass 417)
 - 2026-10-28 noted the failure mode (pass 418)
 - 2026-10-29 checked the migration (pass 419)
+- 2026-10-29 reviewed the edge case (pass 420)
