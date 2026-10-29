@@ -395,3 +395,4 @@
 - 2026-10-28 measured the slow path (pass 394)
 - 2026-10-28 measured the slow path (pass 395)
 - 2026-10-29 refined the schedule (pass 396)
+- 2026-10-29 trimmed the payload (pass 397)
