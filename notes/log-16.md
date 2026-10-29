@@ -420,3 +420,4 @@
 - 2026-10-28 documented the fallback (pass 419)
 - 2026-10-28 noted the failure mode (pass 420)
 - 2026-10-28 measured the slow path (pass 421)
+- 2026-10-29 refined the schedule (pass 422)
