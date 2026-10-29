@@ -382,3 +382,4 @@
 - 2026-10-28 reviewed the edge case (pass 381)
 - 2026-10-28 reviewed the edge case (pass 382)
 - 2026-10-28 aligned the naming (pass 383)
+- 2026-10-29 measured the slow path (pass 384)
