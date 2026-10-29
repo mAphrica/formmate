@@ -388,3 +388,4 @@
 - 2026-10-28 tightened the guard (pass 387)
 - 2026-10-28 checked the migration (pass 388)
 - 2026-10-29 checked the migration (pass 389)
+- 2026-10-29 restated the contract (pass 390)
