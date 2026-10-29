@@ -383,3 +383,4 @@
 - 2026-10-28 documented the fallback (pass 382)
 - 2026-10-28 aligned the naming (pass 383)
 - 2026-10-28 tightened the guard (pass 384)
+- 2026-10-29 noted the failure mode (pass 385)

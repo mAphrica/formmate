@@ -392,3 +392,4 @@
 - 2026-10-29 documented the fallback (pass 391)
 - 2026-10-29 trimmed the payload (pass 392)
 - 2026-10-29 noted the failure mode (pass 393)
+- 2026-10-29 aligned the naming (pass 394)
