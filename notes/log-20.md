@@ -388,3 +388,4 @@
 - 2026-10-29 checked the migration (pass 387)
 - 2026-10-29 aligned the naming (pass 388)
 - 2026-10-29 checked the migration (pass 389)
+- 2026-10-29 tightened the guard (pass 390)

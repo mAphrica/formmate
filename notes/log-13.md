@@ -399,3 +399,4 @@
 - 2026-10-29 documented the fallback (pass 398)
 - 2026-10-29 restated the contract (pass 399)
 - 2026-10-29 restated the contract (pass 400)
+- 2026-10-29 documented the fallback (pass 401)
