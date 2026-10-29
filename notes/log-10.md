@@ -385,3 +385,4 @@
 - 2026-10-29 trimmed the payload (pass 384)
 - 2026-10-29 documented the fallback (pass 385)
 - 2026-10-29 refined the schedule (pass 386)
+- 2026-10-29 documented the fallback (pass 387)
