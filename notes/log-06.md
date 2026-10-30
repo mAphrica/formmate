@@ -393,3 +393,4 @@
 - 2026-10-28 aligned the naming (pass 392)
 - 2026-10-28 noted the failure mode (pass 393)
 - 2026-10-29 checked the migration (pass 394)
+- 2026-10-30 tightened the guard (pass 395)
