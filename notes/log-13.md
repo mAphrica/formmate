@@ -401,3 +401,4 @@
 - 2026-10-29 restated the contract (pass 400)
 - 2026-10-29 documented the fallback (pass 401)
 - 2026-10-29 measured the slow path (pass 402)
+- 2026-10-30 noted the failure mode (pass 403)

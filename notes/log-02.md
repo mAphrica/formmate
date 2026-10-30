@@ -399,3 +399,4 @@
 - 2026-10-29 restated the contract (pass 398)
 - 2026-10-29 checked the migration (pass 399)
 - 2026-10-30 aligned the naming (pass 400)
+- 2026-10-30 documented the fallback (pass 401)
