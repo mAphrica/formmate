@@ -377,3 +377,4 @@
 - 2026-10-29 restated the contract (pass 376)
 - 2026-10-29 documented the fallback (pass 377)
 - 2026-10-29 tightened the guard (pass 378)
+- 2026-10-31 refined the schedule (pass 379)
